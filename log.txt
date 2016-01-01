@@ -6001,3 +6001,4 @@
 53827. refactor: remove redundant code blocks #53827
 29241. style: apply consistent indentation #29241
 22185. fix: fix broken CSS in mobile view #22185
+4188. perf: lazy-load components #4188
