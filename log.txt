@@ -1998,3 +1998,4 @@
 86076. style: remove trailing whitespace #86076
 5547. feat: support email verification #5547
 87342. chore: bump dependencies #87342
+25703. perf: cache repeated calculations #25703
