@@ -5000,3 +5000,4 @@
 88798. refactor: organize models into subfolders #88798
 73718. refactor: organize models into subfolders #73718
 22259. test: increase coverage on auth module #22259
+29278. fix: prevent crash on empty input #29278
