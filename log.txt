@@ -6000,3 +6000,4 @@
 54851. perf: optimize database query for quiz results #54851
 53827. refactor: remove redundant code blocks #53827
 29241. style: apply consistent indentation #29241
+22185. fix: fix broken CSS in mobile view #22185
