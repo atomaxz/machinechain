@@ -1003,3 +1003,4 @@
 68644. perf: lazy-load components #68644
 8796. docs: write FAQ section #8796
 24220. feat: enable dark mode toggle #24220
+44327. chore: add GitHub actions badge #44327
