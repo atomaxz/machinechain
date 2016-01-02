@@ -3000,3 +3000,4 @@
 88779. style: reformat files with black #88779
 74160. fix: correct typo in registration form #74160
 26985. style: remove trailing whitespace #26985
+98963. fix: correct typo in registration form #98963
