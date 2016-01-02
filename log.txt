@@ -4,3 +4,4 @@
 38420. fix: resolve issue with date parsing #38420
 8242. refactor: remove redundant code blocks #8242
 70130. docs: document token refresh logic #70130
+16987. test: increase coverage on auth module #16987
