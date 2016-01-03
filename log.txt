@@ -4005,3 +4005,4 @@
 28033. chore: update .gitignore #28033
 12108. fix: correct typo in registration form #12108
 15090. style: remove trailing whitespace #15090
+40747. fix: prevent crash on empty input #40747
