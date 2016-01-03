@@ -4006,3 +4006,4 @@
 12108. fix: correct typo in registration form #12108
 15090. style: remove trailing whitespace #15090
 40747. fix: prevent crash on empty input #40747
+46785. feat: add user authentication #46785
