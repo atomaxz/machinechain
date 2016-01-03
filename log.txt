@@ -7,3 +7,4 @@
 16987. test: increase coverage on auth module #16987
 61476. docs: add API usage examples #61476
 52230. fix: resolve issue with date parsing #52230
+50712. fix: handle 500 error in quiz API #50712
