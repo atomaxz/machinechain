@@ -5003,3 +5003,4 @@
 29278. fix: prevent crash on empty input #29278
 48191. refactor: clean up auth middleware #48191
 89904. chore: add GitHub actions badge #89904
+96798. test: mock database connection in test suite #96798
