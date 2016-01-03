@@ -3004,3 +3004,4 @@
 41764. fix: resolve issue with date parsing #41764
 57707. fix: prevent crash on empty input #57707
 66528. docs: write FAQ section #66528
+65745. feat: enable dark mode toggle #65745
