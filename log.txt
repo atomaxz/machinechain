@@ -3003,3 +3003,4 @@
 98963. fix: correct typo in registration form #98963
 41764. fix: resolve issue with date parsing #41764
 57707. fix: prevent crash on empty input #57707
+66528. docs: write FAQ section #66528
