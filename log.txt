@@ -5002,3 +5002,4 @@
 22259. test: increase coverage on auth module #22259
 29278. fix: prevent crash on empty input #29278
 48191. refactor: clean up auth middleware #48191
+89904. chore: add GitHub actions badge #89904
