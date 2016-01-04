@@ -4008,3 +4008,4 @@
 40747. fix: prevent crash on empty input #40747
 46785. feat: add user authentication #46785
 28401. perf: lazy-load components #28401
+29560. perf: reduce image load time #29560
