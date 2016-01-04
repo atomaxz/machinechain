@@ -6012,3 +6012,4 @@
 25070. chore: update .gitignore #25070
 16659. perf: reduce image load time #16659
 87065. feat: implement quiz timer feature #87065
+5533. perf: optimize database query for quiz results #5533
