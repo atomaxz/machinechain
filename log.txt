@@ -5006,3 +5006,4 @@
 96798. test: mock database connection in test suite #96798
 36535. style: reformat files with black #36535
 55444. style: rename variables for clarity #55444
+53696. chore: bump dependencies #53696
