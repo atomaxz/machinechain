@@ -3009,3 +3009,4 @@
 30330. test: mock database connection in test suite #30330
 80354. fix: resolve issue with date parsing #80354
 69658. test: mock database connection in test suite #69658
+63821. chore: bump dependencies #63821
