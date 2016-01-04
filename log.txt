@@ -9,3 +9,4 @@
 52230. fix: resolve issue with date parsing #52230
 50712. fix: handle 500 error in quiz API #50712
 98601. style: reformat files with black #98601
+18057. feat: enable dark mode toggle #18057
