@@ -15,3 +15,4 @@
 13304. fix: fix broken CSS in mobile view #13304
 86929. refactor: split large controller into smaller functions #86929
 59123. style: rename variables for clarity #59123
+8537. docs: write FAQ section #8537
