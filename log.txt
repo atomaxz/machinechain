@@ -3010,3 +3010,4 @@
 80354. fix: resolve issue with date parsing #80354
 69658. test: mock database connection in test suite #69658
 63821. chore: bump dependencies #63821
+30444. docs: update README with setup steps #30444
