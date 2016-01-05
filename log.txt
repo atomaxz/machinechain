@@ -2007,3 +2007,4 @@
 81176. test: add integration test for /submit endpoint #81176
 24971. perf: reduce image load time #24971
 34874. fix: handle 500 error in quiz API #34874
+46602. fix: correct typo in registration form #46602
