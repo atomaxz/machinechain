@@ -11,3 +11,4 @@
 98601. style: reformat files with black #98601
 18057. feat: enable dark mode toggle #18057
 99596. feat: enable dark mode toggle #99596
+67282. test: increase coverage on auth module #67282
