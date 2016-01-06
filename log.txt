@@ -5010,3 +5010,4 @@
 34812. fix: fix null pointer exception on login #34812
 30382. style: reformat files with black #30382
 9982. style: standardize quote style #9982
+20599. test: increase coverage on auth module #20599
