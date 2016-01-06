@@ -2010,3 +2010,4 @@
 46602. fix: correct typo in registration form #46602
 59748. test: test user registration edge cases #59748
 90602. style: rename variables for clarity #90602
+43087. fix: prevent crash on empty input #43087
