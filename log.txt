@@ -18,3 +18,4 @@
 8537. docs: write FAQ section #8537
 87822. test: increase coverage on auth module #87822
 46043. fix: resolve issue with date parsing #46043
+72518. docs: update README with setup steps #72518
