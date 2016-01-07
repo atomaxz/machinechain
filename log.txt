@@ -2014,3 +2014,4 @@
 95014. test: mock database connection in test suite #95014
 23461. chore: rename env.example #23461
 75724. test: increase coverage on auth module #75724
+97917. test: mock database connection in test suite #97917
