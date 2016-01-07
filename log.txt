@@ -5012,3 +5012,4 @@
 9982. style: standardize quote style #9982
 20599. test: increase coverage on auth module #20599
 67447. fix: fix null pointer exception on login #67447
+55118. docs: add API usage examples #55118
