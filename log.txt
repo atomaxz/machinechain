@@ -5014,3 +5014,4 @@
 67447. fix: fix null pointer exception on login #67447
 55118. docs: add API usage examples #55118
 86534. chore: update .gitignore #86534
+23705. fix: prevent crash on empty input #23705
