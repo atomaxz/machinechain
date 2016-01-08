@@ -25,3 +25,4 @@
 40985. fix: handle 500 error in quiz API #40985
 86890. refactor: remove redundant code blocks #86890
 45478. fix: fix broken CSS in mobile view #45478
+44607. docs: write FAQ section #44607
