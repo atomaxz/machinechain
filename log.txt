@@ -28,3 +28,4 @@
 44607. docs: write FAQ section #44607
 65863. chore: update .gitignore #65863
 1237. test: increase coverage on auth module #1237
+66046. refactor: organize models into subfolders #66046
