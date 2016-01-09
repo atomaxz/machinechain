@@ -2016,3 +2016,4 @@
 75724. test: increase coverage on auth module #75724
 97917. test: mock database connection in test suite #97917
 39933. feat: support email verification #39933
+79283. test: test user registration edge cases #79283
