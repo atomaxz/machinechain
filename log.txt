@@ -6026,3 +6026,4 @@
 13263. feat: create admin dashboard #13263
 12110. style: standardize quote style #12110
 82575. fix: resolve issue with date parsing #82575
+56471. chore: bump dependencies #56471
