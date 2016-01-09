@@ -2017,3 +2017,4 @@
 97917. test: mock database connection in test suite #97917
 39933. feat: support email verification #39933
 79283. test: test user registration edge cases #79283
+57874. chore: bump dependencies #57874
