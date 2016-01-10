@@ -1018,3 +1018,4 @@
 72625. feat: add user authentication #72625
 64237. fix: correct typo in registration form #64237
 62187. test: add integration test for /submit endpoint #62187
+97108. perf: lazy-load components #97108
