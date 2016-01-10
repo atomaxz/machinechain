@@ -32,3 +32,4 @@
 75073. perf: cache repeated calculations #75073
 81098. docs: document token refresh logic #81098
 51693. refactor: split large controller into smaller functions #51693
+72347. feat: enable dark mode toggle #72347
