@@ -4023,3 +4023,4 @@
 62699. chore: update .gitignore #62699
 67102. fix: resolve issue with date parsing #67102
 36821. fix: resolve issue with date parsing #36821
+83898. fix: fix broken CSS in mobile view #83898
