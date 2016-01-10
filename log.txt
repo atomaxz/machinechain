@@ -6029,3 +6029,4 @@
 56471. chore: bump dependencies #56471
 39295. style: reformat files with black #39295
 48708. feat: support email verification #48708
+38927. perf: reduce image load time #38927
