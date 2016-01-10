@@ -5018,3 +5018,4 @@
 79470. chore: clean up unused files #79470
 48112. refactor: refactor quiz grading logic #48112
 73491. docs: add API usage examples #73491
+15807. fix: fix broken CSS in mobile view #15807
