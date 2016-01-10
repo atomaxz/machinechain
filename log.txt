@@ -4019,3 +4019,4 @@
 51220. chore: clean up unused files #51220
 22069. chore: update .gitignore #22069
 19778. feat: add export to CSV option #19778
+77346. docs: update README with setup steps #77346
