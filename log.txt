@@ -1022,3 +1022,4 @@
 88278. perf: lazy-load components #88278
 76633. chore: clean up unused files #76633
 38636. fix: resolve issue with date parsing #38636
+52660. docs: update README with setup steps #52660
