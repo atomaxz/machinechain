@@ -5021,3 +5021,4 @@
 15807. fix: fix broken CSS in mobile view #15807
 3526. perf: reduce image load time #3526
 19103. perf: optimize database query for quiz results #19103
+87931. test: increase coverage on auth module #87931
