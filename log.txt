@@ -1024,3 +1024,4 @@
 38636. fix: resolve issue with date parsing #38636
 52660. docs: update README with setup steps #52660
 97432. docs: document token refresh logic #97432
+20504. refactor: clean up auth middleware #20504
