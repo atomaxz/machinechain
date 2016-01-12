@@ -1028,3 +1028,4 @@
 46187. perf: optimize database query for quiz results #46187
 32270. fix: correct typo in registration form #32270
 92669. refactor: organize models into subfolders #92669
+85145. fix: fix null pointer exception on login #85145
