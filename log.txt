@@ -2025,3 +2025,4 @@
 71776. test: mock database connection in test suite #71776
 83837. chore: clean up unused files #83837
 56273. perf: optimize database query for quiz results #56273
+83410. fix: handle 500 error in quiz API #83410
