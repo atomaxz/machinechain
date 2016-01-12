@@ -3021,3 +3021,4 @@
 41508. fix: prevent crash on empty input #41508
 68905. test: add unit test for quiz service #68905
 83531. fix: prevent crash on empty input #83531
+88438. test: test user registration edge cases #88438
