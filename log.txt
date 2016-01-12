@@ -5024,3 +5024,4 @@
 87931. test: increase coverage on auth module #87931
 24580. fix: correct typo in registration form #24580
 95106. fix: fix null pointer exception on login #95106
+0925. style: reformat files with black #925
