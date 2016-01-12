@@ -2024,3 +2024,4 @@
 74769. feat: enable dark mode toggle #74769
 71776. test: mock database connection in test suite #71776
 83837. chore: clean up unused files #83837
+56273. perf: optimize database query for quiz results #56273
