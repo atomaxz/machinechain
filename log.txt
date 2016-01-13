@@ -4027,3 +4027,4 @@
 93043. style: reformat files with black #93043
 45500. style: standardize quote style #45500
 96199. test: add integration test for /submit endpoint #96199
+83264. docs: update README with setup steps #83264
