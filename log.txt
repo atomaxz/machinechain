@@ -6034,3 +6034,4 @@
 14219. docs: clarify environment setup #14219
 51908. feat: enable dark mode toggle #51908
 32815. docs: document token refresh logic #32815
+21766. feat: enable dark mode toggle #21766
