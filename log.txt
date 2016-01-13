@@ -6035,3 +6035,4 @@
 51908. feat: enable dark mode toggle #51908
 32815. docs: document token refresh logic #32815
 21766. feat: enable dark mode toggle #21766
+89663. test: increase coverage on auth module #89663
