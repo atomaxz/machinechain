@@ -5027,3 +5027,4 @@
 0925. style: reformat files with black #925
 43401. chore: rename env.example #43401
 89525. style: standardize quote style #89525
+93207. fix: correct typo in registration form #93207
