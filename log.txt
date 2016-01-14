@@ -5029,3 +5029,4 @@
 89525. style: standardize quote style #89525
 93207. fix: correct typo in registration form #93207
 48517. perf: lazy-load components #48517
+81212. fix: handle 500 error in quiz API #81212
