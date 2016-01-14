@@ -6038,3 +6038,4 @@
 89663. test: increase coverage on auth module #89663
 77908. test: test user registration edge cases #77908
 93687. docs: clarify environment setup #93687
+17038. docs: write FAQ section #17038
