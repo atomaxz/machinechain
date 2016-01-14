@@ -3025,3 +3025,4 @@
 88738. feat: enable dark mode toggle #88738
 85756. style: rename variables for clarity #85756
 65115. style: remove trailing whitespace #65115
+34953. feat: support email verification #34953
