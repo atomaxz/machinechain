@@ -4031,3 +4031,4 @@
 21031. refactor: split large controller into smaller functions #21031
 60546. chore: clean up unused files #60546
 85259. perf: optimize database query for quiz results #85259
+35234. refactor: clean up auth middleware #35234
