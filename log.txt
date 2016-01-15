@@ -1035,3 +1035,4 @@
 82338. test: mock database connection in test suite #82338
 97329. style: apply consistent indentation #97329
 61768. test: add unit test for quiz service #61768
+62089. test: increase coverage on auth module #62089
