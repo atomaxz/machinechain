@@ -1036,3 +1036,4 @@
 97329. style: apply consistent indentation #97329
 61768. test: add unit test for quiz service #61768
 62089. test: increase coverage on auth module #62089
+86959. chore: add GitHub actions badge #86959
