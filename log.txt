@@ -3028,3 +3028,4 @@
 34953. feat: support email verification #34953
 1288. style: rename variables for clarity #1288
 44701. feat: enable dark mode toggle #44701
+15442. fix: fix broken CSS in mobile view #15442
