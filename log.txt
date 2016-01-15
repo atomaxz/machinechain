@@ -6040,3 +6040,4 @@
 93687. docs: clarify environment setup #93687
 17038. docs: write FAQ section #17038
 76023. fix: handle 500 error in quiz API #76023
+33030. chore: update .gitignore #33030
