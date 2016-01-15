@@ -39,3 +39,4 @@
 14911. chore: clean up unused files #14911
 46453. fix: fix null pointer exception on login #46453
 77990. perf: lazy-load components #77990
+60525. chore: bump dependencies #60525
