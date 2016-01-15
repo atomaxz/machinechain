@@ -41,3 +41,4 @@
 77990. perf: lazy-load components #77990
 60525. chore: bump dependencies #60525
 44902. test: add integration test for /submit endpoint #44902
+21418. fix: handle 500 error in quiz API #21418
