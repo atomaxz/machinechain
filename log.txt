@@ -2035,3 +2035,4 @@
 18011. refactor: refactor quiz grading logic #18011
 25886. feat: enable dark mode toggle #25886
 93902. style: remove trailing whitespace #93902
+78435. chore: clean up unused files #78435
