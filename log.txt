@@ -6044,3 +6044,4 @@
 70785. docs: improve code comments in utils #70785
 11163. perf: cache repeated calculations #11163
 85333. style: reformat files with black #85333
+2953. feat: support email verification #2953
