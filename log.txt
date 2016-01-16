@@ -4037,3 +4037,4 @@
 10386. style: rename variables for clarity #10386
 14879. fix: handle 500 error in quiz API #14879
 34186. perf: cache repeated calculations #34186
+99318. fix: fix null pointer exception on login #99318
