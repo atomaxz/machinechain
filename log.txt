@@ -3029,3 +3029,4 @@
 1288. style: rename variables for clarity #1288
 44701. feat: enable dark mode toggle #44701
 15442. fix: fix broken CSS in mobile view #15442
+6417. chore: update .gitignore #6417
