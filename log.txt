@@ -43,3 +43,4 @@
 44902. test: add integration test for /submit endpoint #44902
 21418. fix: handle 500 error in quiz API #21418
 48961. fix: prevent crash on empty input #48961
+83904. perf: reduce image load time #83904
