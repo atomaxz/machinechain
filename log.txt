@@ -5036,3 +5036,4 @@
 68026. feat: add user authentication #68026
 15419. feat: create admin dashboard #15419
 38375. refactor: split large controller into smaller functions #38375
+5911. feat: add user authentication #5911
