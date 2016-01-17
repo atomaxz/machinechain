@@ -2041,3 +2041,4 @@
 88488. refactor: refactor quiz grading logic #88488
 66551. chore: rename env.example #66551
 11499. test: increase coverage on auth module #11499
+98759. style: apply consistent indentation #98759
