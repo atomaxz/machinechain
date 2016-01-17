@@ -4039,3 +4039,4 @@
 34186. perf: cache repeated calculations #34186
 99318. fix: fix null pointer exception on login #99318
 49488. refactor: split large controller into smaller functions #49488
+9379. feat: support email verification #9379
