@@ -6049,3 +6049,4 @@
 47683. fix: fix broken CSS in mobile view #47683
 50792. fix: handle 500 error in quiz API #50792
 47772. fix: fix null pointer exception on login #47772
+10504. refactor: organize models into subfolders #10504
