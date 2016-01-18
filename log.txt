@@ -3034,3 +3034,4 @@
 89563. perf: cache repeated calculations #89563
 59535. feat: implement quiz timer feature #59535
 67108. chore: bump dependencies #67108
+25437. docs: update README with setup steps #25437
