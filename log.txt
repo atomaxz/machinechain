@@ -5037,3 +5037,4 @@
 15419. feat: create admin dashboard #15419
 38375. refactor: split large controller into smaller functions #38375
 5911. feat: add user authentication #5911
+7839. feat: enable dark mode toggle #7839
