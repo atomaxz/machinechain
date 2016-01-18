@@ -4042,3 +4042,4 @@
 9379. feat: support email verification #9379
 39061. feat: implement quiz timer feature #39061
 92196. refactor: remove redundant code blocks #92196
+35894. test: add integration test for /submit endpoint #35894
