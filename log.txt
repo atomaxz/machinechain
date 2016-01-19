@@ -1043,3 +1043,4 @@
 4101. docs: clarify environment setup #4101
 80646. refactor: remove redundant code blocks #80646
 18178. refactor: refactor quiz grading logic #18178
+9977. fix: fix null pointer exception on login #9977
