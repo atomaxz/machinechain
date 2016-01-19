@@ -5041,3 +5041,4 @@
 68383. chore: clean up unused files #68383
 5303. style: standardize quote style #5303
 33000. feat: create admin dashboard #33000
+73471. fix: fix null pointer exception on login #73471
