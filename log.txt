@@ -59,3 +59,4 @@
 97226. fix: handle 500 error in quiz API #97226
 83404. chore: clean up unused files #83404
 35623. chore: add GitHub actions badge #35623
+75780. feat: support email verification #75780
