@@ -2049,3 +2049,4 @@
 11646. feat: enable dark mode toggle #11646
 91026. docs: document token refresh logic #91026
 71315. perf: lazy-load components #71315
+81169. perf: cache repeated calculations #81169
