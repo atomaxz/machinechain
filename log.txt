@@ -6054,3 +6054,4 @@
 62567. chore: rename env.example #62567
 18459. fix: prevent crash on empty input #18459
 74404. chore: bump dependencies #74404
+61932. test: add unit test for quiz service #61932
