@@ -2054,3 +2054,4 @@
 9796. feat: add export to CSV option #9796
 32752. test: add integration test for /submit endpoint #32752
 4657. docs: write FAQ section #4657
+95035. feat: enable dark mode toggle #95035
