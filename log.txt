@@ -62,3 +62,4 @@
 75780. feat: support email verification #75780
 80007. test: add unit test for quiz service #80007
 13182. style: reformat files with black #13182
+99986. docs: write FAQ section #99986
