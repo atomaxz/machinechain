@@ -6059,3 +6059,4 @@
 33840. chore: update .gitignore #33840
 31516. chore: add GitHub actions badge #31516
 26108. refactor: remove redundant code blocks #26108
+62013. docs: update README with setup steps #62013
