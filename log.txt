@@ -3041,3 +3041,4 @@
 95874. docs: document token refresh logic #95874
 65502. style: rename variables for clarity #65502
 13815. refactor: organize models into subfolders #13815
+35935. test: mock database connection in test suite #35935
