@@ -1045,3 +1045,4 @@
 18178. refactor: refactor quiz grading logic #18178
 9977. fix: fix null pointer exception on login #9977
 17518. feat: support email verification #17518
+82950. feat: implement quiz timer feature #82950
