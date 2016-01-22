@@ -4055,3 +4055,4 @@
 39553. perf: cache repeated calculations #39553
 34734. perf: optimize database query for quiz results #34734
 51385. style: apply consistent indentation #51385
+44973. perf: optimize database query for quiz results #44973
