@@ -2057,3 +2057,4 @@
 95035. feat: enable dark mode toggle #95035
 69638. style: reformat files with black #69638
 69559. docs: clarify environment setup #69559
+27537. perf: lazy-load components #27537
