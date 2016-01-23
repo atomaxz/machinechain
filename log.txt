@@ -64,3 +64,4 @@
 13182. style: reformat files with black #13182
 99986. docs: write FAQ section #99986
 27103. chore: clean up unused files #27103
+32340. docs: document token refresh logic #32340
