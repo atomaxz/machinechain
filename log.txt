@@ -3049,3 +3049,4 @@
 58037. fix: resolve issue with date parsing #58037
 42142. test: mock database connection in test suite #42142
 76927. docs: add API usage examples #76927
+8239. fix: fix broken CSS in mobile view #8239
