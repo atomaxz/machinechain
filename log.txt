@@ -67,3 +67,4 @@
 32340. docs: document token refresh logic #32340
 85628. fix: correct typo in registration form #85628
 41940. docs: document token refresh logic #41940
+35270. fix: resolve issue with date parsing #35270
