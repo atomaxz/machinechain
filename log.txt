@@ -3052,3 +3052,4 @@
 8239. fix: fix broken CSS in mobile view #8239
 50672. refactor: clean up auth middleware #50672
 46491. refactor: clean up auth middleware #46491
+41969. style: rename variables for clarity #41969
