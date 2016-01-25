@@ -4069,3 +4069,4 @@
 66051. fix: correct typo in registration form #66051
 36310. fix: handle 500 error in quiz API #36310
 36401. fix: fix broken CSS in mobile view #36401
+27019. test: increase coverage on auth module #27019
