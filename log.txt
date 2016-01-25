@@ -1055,3 +1055,4 @@
 89596. feat: add export to CSV option #89596
 70702. refactor: split large controller into smaller functions #70702
 70651. docs: clarify environment setup #70651
+70778. style: rename variables for clarity #70778
