@@ -6071,3 +6071,4 @@
 4532. docs: clarify environment setup #4532
 52359. docs: improve code comments in utils #52359
 43737. feat: implement quiz timer feature #43737
+96598. fix: prevent crash on empty input #96598
