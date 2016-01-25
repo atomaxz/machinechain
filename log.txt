@@ -4067,3 +4067,4 @@
 26318. refactor: organize models into subfolders #26318
 98262. feat: create admin dashboard #98262
 66051. fix: correct typo in registration form #66051
+36310. fix: handle 500 error in quiz API #36310
