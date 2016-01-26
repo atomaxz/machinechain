@@ -69,3 +69,4 @@
 41940. docs: document token refresh logic #41940
 35270. fix: resolve issue with date parsing #35270
 14942. chore: add GitHub actions badge #14942
+39704. docs: clarify environment setup #39704
