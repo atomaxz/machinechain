@@ -4071,3 +4071,4 @@
 36401. fix: fix broken CSS in mobile view #36401
 27019. test: increase coverage on auth module #27019
 13231. style: apply consistent indentation #13231
+67214. fix: fix null pointer exception on login #67214
