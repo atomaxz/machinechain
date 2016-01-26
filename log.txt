@@ -6072,3 +6072,4 @@
 52359. docs: improve code comments in utils #52359
 43737. feat: implement quiz timer feature #43737
 96598. fix: prevent crash on empty input #96598
+86537. perf: optimize database query for quiz results #86537
