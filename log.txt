@@ -3056,3 +3056,4 @@
 24772. docs: update README with setup steps #24772
 64368. style: standardize quote style #64368
 85997. chore: update .gitignore #85997
+86371. fix: correct typo in registration form #86371
