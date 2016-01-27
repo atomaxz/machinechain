@@ -2064,3 +2064,4 @@
 36963. feat: add export to CSV option #36963
 56112. feat: enable dark mode toggle #56112
 87563. test: mock database connection in test suite #87563
+59069. fix: fix broken CSS in mobile view #59069
