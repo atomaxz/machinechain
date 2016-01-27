@@ -1061,3 +1061,4 @@
 58100. fix: fix null pointer exception on login #58100
 75074. style: rename variables for clarity #75074
 15537. feat: add export to CSV option #15537
+38348. fix: fix null pointer exception on login #38348
