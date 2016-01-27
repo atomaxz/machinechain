@@ -2063,3 +2063,4 @@
 20561. perf: optimize database query for quiz results #20561
 36963. feat: add export to CSV option #36963
 56112. feat: enable dark mode toggle #56112
+87563. test: mock database connection in test suite #87563
