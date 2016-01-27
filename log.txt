@@ -3059,3 +3059,4 @@
 86371. fix: correct typo in registration form #86371
 78104. fix: prevent crash on empty input #78104
 11626. docs: add API usage examples #11626
+26587. docs: write FAQ section #26587
