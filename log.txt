@@ -3057,3 +3057,4 @@
 64368. style: standardize quote style #64368
 85997. chore: update .gitignore #85997
 86371. fix: correct typo in registration form #86371
+78104. fix: prevent crash on empty input #78104
