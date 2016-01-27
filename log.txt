@@ -6074,3 +6074,4 @@
 96598. fix: prevent crash on empty input #96598
 86537. perf: optimize database query for quiz results #86537
 36996. refactor: remove redundant code blocks #36996
+62793. feat: add export to CSV option #62793
