@@ -71,3 +71,4 @@
 14942. chore: add GitHub actions badge #14942
 39704. docs: clarify environment setup #39704
 49621. docs: clarify environment setup #49621
+61245. docs: write FAQ section #61245
