@@ -5063,3 +5063,4 @@
 55567. chore: update .gitignore #55567
 91366. fix: correct typo in registration form #91366
 77412. fix: fix broken CSS in mobile view #77412
+25569. test: increase coverage on auth module #25569
