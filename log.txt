@@ -3060,3 +3060,4 @@
 78104. fix: prevent crash on empty input #78104
 11626. docs: add API usage examples #11626
 26587. docs: write FAQ section #26587
+3787. docs: update README with setup steps #3787
