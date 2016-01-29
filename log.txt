@@ -1069,3 +1069,4 @@
 65243. test: test user registration edge cases #65243
 41184. fix: resolve issue with date parsing #41184
 82506. test: add unit test for quiz service #82506
+28897. perf: lazy-load components #28897
