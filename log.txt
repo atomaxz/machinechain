@@ -1068,3 +1068,4 @@
 9940. test: add integration test for /submit endpoint #9940
 65243. test: test user registration edge cases #65243
 41184. fix: resolve issue with date parsing #41184
+82506. test: add unit test for quiz service #82506
