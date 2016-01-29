@@ -3064,3 +3064,4 @@
 55366. style: standardize quote style #55366
 30512. style: standardize quote style #30512
 50659. docs: document token refresh logic #50659
+63736. perf: cache repeated calculations #63736
