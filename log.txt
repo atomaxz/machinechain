@@ -6077,3 +6077,4 @@
 62793. feat: add export to CSV option #62793
 25254. test: test user registration edge cases #25254
 43279. perf: reduce image load time #43279
+70502. docs: write FAQ section #70502
