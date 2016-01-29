@@ -6078,3 +6078,4 @@
 25254. test: test user registration edge cases #25254
 43279. perf: reduce image load time #43279
 70502. docs: write FAQ section #70502
+49696. docs: add API usage examples #49696
