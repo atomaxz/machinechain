@@ -2075,3 +2075,4 @@
 96963. style: apply consistent indentation #96963
 34036. refactor: clean up auth middleware #34036
 12031. fix: fix null pointer exception on login #12031
+41530. fix: resolve issue with date parsing #41530
