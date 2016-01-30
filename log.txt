@@ -77,3 +77,4 @@
 24983. docs: improve code comments in utils #24983
 79851. perf: reduce image load time #79851
 6567. test: increase coverage on auth module #6567
+88690. test: add unit test for quiz service #88690
