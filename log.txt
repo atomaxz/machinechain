@@ -6080,3 +6080,4 @@
 70502. docs: write FAQ section #70502
 49696. docs: add API usage examples #49696
 36186. style: reformat files with black #36186
+83475. perf: optimize database query for quiz results #83475
