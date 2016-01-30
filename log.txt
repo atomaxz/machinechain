@@ -3069,3 +3069,4 @@
 42833. style: reformat files with black #42833
 88405. docs: improve code comments in utils #88405
 92557. docs: write FAQ section #92557
+48081. perf: reduce image load time #48081
