@@ -5068,3 +5068,4 @@
 82622. chore: rename env.example #82622
 76269. refactor: split large controller into smaller functions #76269
 59040. style: rename variables for clarity #59040
+11412. chore: bump dependencies #11412
