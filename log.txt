@@ -2078,3 +2078,4 @@
 41530. fix: resolve issue with date parsing #41530
 90763. feat: create admin dashboard #90763
 45125. fix: prevent crash on empty input #45125
+36257. test: mock database connection in test suite #36257
