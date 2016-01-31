@@ -1072,3 +1072,4 @@
 28897. perf: lazy-load components #28897
 4583. chore: add GitHub actions badge #4583
 87377. style: apply consistent indentation #87377
+82875. feat: add export to CSV option #82875
