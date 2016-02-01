@@ -88,3 +88,4 @@
 22343. style: rename variables for clarity #22343
 4561. docs: improve code comments in utils #4561
 96893. perf: reduce image load time #96893
+0884. perf: optimize database query for quiz results #884
