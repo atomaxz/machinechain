@@ -84,3 +84,4 @@
 47381. style: reformat files with black #47381
 42235. docs: clarify environment setup #42235
 34168. fix: resolve issue with date parsing #34168
+31790. chore: add GitHub actions badge #31790
