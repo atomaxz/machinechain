@@ -1078,3 +1078,4 @@
 97778. feat: add export to CSV option #97778
 8069. fix: fix broken CSS in mobile view #8069
 86498. style: apply consistent indentation #86498
+72650. refactor: split large controller into smaller functions #72650
