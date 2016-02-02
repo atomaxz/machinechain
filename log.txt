@@ -4084,3 +4084,4 @@
 22267. style: reformat files with black #22267
 95314. perf: optimize database query for quiz results #95314
 17887. fix: resolve issue with date parsing #17887
+83892. test: add unit test for quiz service #83892
