@@ -6090,3 +6090,4 @@
 29842. chore: update .gitignore #29842
 38293. fix: correct typo in registration form #38293
 97663. docs: update README with setup steps #97663
+73661. perf: optimize database query for quiz results #73661
