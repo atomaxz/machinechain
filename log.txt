@@ -3076,3 +3076,4 @@
 26567. perf: reduce image load time #26567
 80345. fix: handle 500 error in quiz API #80345
 48777. style: apply consistent indentation #48777
+62606. docs: update README with setup steps #62606
