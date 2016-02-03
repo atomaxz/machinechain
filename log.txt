@@ -6094,3 +6094,4 @@
 41654. fix: prevent crash on empty input #41654
 95707. refactor: split large controller into smaller functions #95707
 71037. style: remove trailing whitespace #71037
+16960. fix: fix null pointer exception on login #16960
