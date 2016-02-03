@@ -1089,3 +1089,4 @@
 95074. perf: cache repeated calculations #95074
 75786. docs: document token refresh logic #75786
 42111. docs: document token refresh logic #42111
+52983. style: rename variables for clarity #52983
