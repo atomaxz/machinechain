@@ -5075,3 +5075,4 @@
 75616. test: add integration test for /submit endpoint #75616
 14864. refactor: organize models into subfolders #14864
 67824. style: reformat files with black #67824
+66919. perf: cache repeated calculations #66919
