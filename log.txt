@@ -4088,3 +4088,4 @@
 12346. docs: write FAQ section #12346
 9573. refactor: clean up auth middleware #9573
 34475. style: standardize quote style #34475
+98649. perf: reduce image load time #98649
