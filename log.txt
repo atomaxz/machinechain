@@ -1087,3 +1087,4 @@
 46874. test: increase coverage on auth module #46874
 33151. docs: add API usage examples #33151
 95074. perf: cache repeated calculations #95074
+75786. docs: document token refresh logic #75786
