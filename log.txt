@@ -3077,3 +3077,4 @@
 80345. fix: handle 500 error in quiz API #80345
 48777. style: apply consistent indentation #48777
 62606. docs: update README with setup steps #62606
+37823. perf: lazy-load components #37823
