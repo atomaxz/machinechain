@@ -94,3 +94,4 @@
 20646. style: standardize quote style #20646
 43447. style: reformat files with black #43447
 94951. perf: optimize database query for quiz results #94951
+17306. test: mock database connection in test suite #17306
