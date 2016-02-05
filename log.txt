@@ -4092,3 +4092,4 @@
 51759. fix: handle 500 error in quiz API #51759
 48582. test: mock database connection in test suite #48582
 53553. fix: correct typo in registration form #53553
+4964. test: mock database connection in test suite #4964
