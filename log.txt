@@ -99,3 +99,4 @@
 60648. test: add unit test for quiz service #60648
 80812. docs: clarify environment setup #80812
 70829. test: test user registration edge cases #70829
+89564. style: remove trailing whitespace #89564
