@@ -3084,3 +3084,4 @@
 38855. style: reformat files with black #38855
 35613. feat: enable dark mode toggle #35613
 68099. refactor: clean up auth middleware #68099
+97372. perf: lazy-load components #97372
