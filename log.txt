@@ -6098,3 +6098,4 @@
 70791. docs: add API usage examples #70791
 44316. perf: lazy-load components #44316
 69287. fix: handle 500 error in quiz API #69287
+34439. docs: write FAQ section #34439
