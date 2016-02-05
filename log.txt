@@ -6099,3 +6099,4 @@
 44316. perf: lazy-load components #44316
 69287. fix: handle 500 error in quiz API #69287
 34439. docs: write FAQ section #34439
+10280. style: apply consistent indentation #10280
