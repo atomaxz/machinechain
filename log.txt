@@ -1095,3 +1095,4 @@
 87561. test: test user registration edge cases #87561
 91137. docs: document token refresh logic #91137
 40307. test: increase coverage on auth module #40307
+80046. test: increase coverage on auth module #80046
