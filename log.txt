@@ -3085,3 +3085,4 @@
 35613. feat: enable dark mode toggle #35613
 68099. refactor: clean up auth middleware #68099
 97372. perf: lazy-load components #97372
+57717. test: increase coverage on auth module #57717
