@@ -1097,3 +1097,4 @@
 40307. test: increase coverage on auth module #40307
 80046. test: increase coverage on auth module #80046
 35726. test: mock database connection in test suite #35726
+87895. chore: update .gitignore #87895
