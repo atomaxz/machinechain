@@ -4094,3 +4094,4 @@
 53553. fix: correct typo in registration form #53553
 4964. test: mock database connection in test suite #4964
 72968. feat: create admin dashboard #72968
+34409. fix: prevent crash on empty input #34409
