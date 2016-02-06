@@ -5084,3 +5084,4 @@
 51425. style: reformat files with black #51425
 36353. feat: add export to CSV option #36353
 63088. perf: reduce image load time #63088
+37911. docs: update README with setup steps #37911
