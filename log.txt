@@ -2095,3 +2095,4 @@
 32087. chore: bump dependencies #32087
 25516. chore: rename env.example #25516
 83708. docs: document token refresh logic #83708
+17949. test: mock database connection in test suite #17949
