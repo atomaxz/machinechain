@@ -5086,3 +5086,4 @@
 63088. perf: reduce image load time #63088
 37911. docs: update README with setup steps #37911
 10260. fix: handle 500 error in quiz API #10260
+86530. fix: correct typo in registration form #86530
