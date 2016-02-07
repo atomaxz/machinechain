@@ -3088,3 +3088,4 @@
 57717. test: increase coverage on auth module #57717
 50085. docs: improve code comments in utils #50085
 0523. docs: write FAQ section #523
+24670. chore: rename env.example #24670
