@@ -103,3 +103,4 @@
 32750. feat: support email verification #32750
 75354. refactor: clean up auth middleware #75354
 82644. style: standardize quote style #82644
+58627. chore: rename env.example #58627
