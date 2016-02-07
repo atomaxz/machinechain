@@ -2100,3 +2100,4 @@
 16641. chore: clean up unused files #16641
 79784. feat: create admin dashboard #79784
 84885. perf: optimize database query for quiz results #84885
+19068. test: test user registration edge cases #19068
