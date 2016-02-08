@@ -104,3 +104,4 @@
 75354. refactor: clean up auth middleware #75354
 82644. style: standardize quote style #82644
 58627. chore: rename env.example #58627
+24265. test: test user registration edge cases #24265
