@@ -6107,3 +6107,4 @@
 55437. test: add integration test for /submit endpoint #55437
 0586. test: add integration test for /submit endpoint #586
 79783. feat: add user authentication #79783
+32431. feat: support email verification #32431
