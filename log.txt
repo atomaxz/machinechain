@@ -1098,3 +1098,4 @@
 80046. test: increase coverage on auth module #80046
 35726. test: mock database connection in test suite #35726
 87895. chore: update .gitignore #87895
+4740. fix: handle 500 error in quiz API #4740
