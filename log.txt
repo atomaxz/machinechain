@@ -2105,3 +2105,4 @@
 94106. style: reformat files with black #94106
 37032. fix: handle 500 error in quiz API #37032
 24717. test: mock database connection in test suite #24717
+81291. chore: update .gitignore #81291
