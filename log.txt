@@ -3089,3 +3089,4 @@
 50085. docs: improve code comments in utils #50085
 0523. docs: write FAQ section #523
 24670. chore: rename env.example #24670
+30773. perf: optimize database query for quiz results #30773
