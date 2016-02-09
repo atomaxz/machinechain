@@ -3092,3 +3092,4 @@
 30773. perf: optimize database query for quiz results #30773
 86673. perf: optimize database query for quiz results #86673
 50689. chore: rename env.example #50689
+89007. fix: handle 500 error in quiz API #89007
