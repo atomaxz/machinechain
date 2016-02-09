@@ -1102,3 +1102,4 @@
 43109. docs: add API usage examples #43109
 37929. refactor: split large controller into smaller functions #37929
 71913. feat: support email verification #71913
+97352. test: increase coverage on auth module #97352
