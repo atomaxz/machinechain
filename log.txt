@@ -1101,3 +1101,4 @@
 4740. fix: handle 500 error in quiz API #4740
 43109. docs: add API usage examples #43109
 37929. refactor: split large controller into smaller functions #37929
+71913. feat: support email verification #71913
