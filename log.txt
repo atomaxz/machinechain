@@ -4101,3 +4101,4 @@
 91389. docs: add API usage examples #91389
 55986. chore: rename env.example #55986
 60655. style: reformat files with black #60655
+66798. perf: cache repeated calculations #66798
