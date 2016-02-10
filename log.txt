@@ -109,3 +109,4 @@
 13146. refactor: refactor quiz grading logic #13146
 14931. feat: add export to CSV option #14931
 44034. style: remove trailing whitespace #44034
+22680. chore: bump dependencies #22680
