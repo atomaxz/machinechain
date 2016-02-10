@@ -5092,3 +5092,4 @@
 75936. docs: clarify environment setup #75936
 29134. docs: add API usage examples #29134
 22887. perf: reduce image load time #22887
+8456. chore: clean up unused files #8456
