@@ -3095,3 +3095,4 @@
 89007. fix: handle 500 error in quiz API #89007
 77558. refactor: remove redundant code blocks #77558
 57635. style: remove trailing whitespace #57635
+37408. fix: fix broken CSS in mobile view #37408
