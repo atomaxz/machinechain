@@ -2110,3 +2110,4 @@
 50764. feat: implement quiz timer feature #50764
 50191. test: add integration test for /submit endpoint #50191
 35508. refactor: split large controller into smaller functions #35508
+81833. fix: correct typo in registration form #81833
