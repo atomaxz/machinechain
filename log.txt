@@ -1103,3 +1103,4 @@
 37929. refactor: split large controller into smaller functions #37929
 71913. feat: support email verification #71913
 97352. test: increase coverage on auth module #97352
+87928. docs: document token refresh logic #87928
