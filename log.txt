@@ -111,3 +111,4 @@
 44034. style: remove trailing whitespace #44034
 22680. chore: bump dependencies #22680
 56063. test: mock database connection in test suite #56063
+41504. feat: add export to CSV option #41504
