@@ -3103,3 +3103,4 @@
 19121. test: add integration test for /submit endpoint #19121
 1644. fix: fix null pointer exception on login #1644
 44365. style: apply consistent indentation #44365
+96873. test: test user registration edge cases #96873
