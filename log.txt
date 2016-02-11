@@ -1105,3 +1105,4 @@
 97352. test: increase coverage on auth module #97352
 87928. docs: document token refresh logic #87928
 76644. refactor: organize models into subfolders #76644
+73267. fix: prevent crash on empty input #73267
