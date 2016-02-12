@@ -2113,3 +2113,4 @@
 81833. fix: correct typo in registration form #81833
 62139. refactor: remove redundant code blocks #62139
 60327. test: increase coverage on auth module #60327
+46479. test: test user registration edge cases #46479
