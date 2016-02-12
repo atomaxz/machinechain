@@ -112,3 +112,4 @@
 22680. chore: bump dependencies #22680
 56063. test: mock database connection in test suite #56063
 41504. feat: add export to CSV option #41504
+26450. chore: update .gitignore #26450
