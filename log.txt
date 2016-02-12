@@ -6120,3 +6120,4 @@
 79581. style: apply consistent indentation #79581
 37384. perf: optimize database query for quiz results #37384
 23400. test: mock database connection in test suite #23400
+2250. chore: add GitHub actions badge #2250
