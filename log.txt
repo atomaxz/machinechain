@@ -1112,3 +1112,4 @@
 17619. fix: handle 500 error in quiz API #17619
 62982. chore: rename env.example #62982
 78184. fix: fix null pointer exception on login #78184
+20627. fix: correct typo in registration form #20627
