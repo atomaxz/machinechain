@@ -2115,3 +2115,4 @@
 60327. test: increase coverage on auth module #60327
 46479. test: test user registration edge cases #46479
 2532. test: add integration test for /submit endpoint #2532
+8533. chore: clean up unused files #8533
