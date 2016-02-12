@@ -6119,3 +6119,4 @@
 28072. refactor: split large controller into smaller functions #28072
 79581. style: apply consistent indentation #79581
 37384. perf: optimize database query for quiz results #37384
+23400. test: mock database connection in test suite #23400
