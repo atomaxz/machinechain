@@ -115,3 +115,4 @@
 26450. chore: update .gitignore #26450
 95191. fix: fix null pointer exception on login #95191
 39018. chore: add GitHub actions badge #39018
+6563. style: remove trailing whitespace #6563
