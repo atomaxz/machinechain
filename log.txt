@@ -6124,3 +6124,4 @@
 3625. docs: update README with setup steps #3625
 77602. docs: update README with setup steps #77602
 46405. style: remove trailing whitespace #46405
+76915. perf: optimize database query for quiz results #76915
