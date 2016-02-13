@@ -4114,3 +4114,4 @@
 10468. feat: add export to CSV option #10468
 22661. fix: prevent crash on empty input #22661
 25364. refactor: remove redundant code blocks #25364
+89342. chore: add GitHub actions badge #89342
