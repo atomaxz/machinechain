@@ -1114,3 +1114,4 @@
 78184. fix: fix null pointer exception on login #78184
 20627. fix: correct typo in registration form #20627
 38479. fix: fix null pointer exception on login #38479
+32876. fix: resolve issue with date parsing #32876
