@@ -5102,3 +5102,4 @@
 38035. chore: clean up unused files #38035
 30065. perf: reduce image load time #30065
 25161. docs: write FAQ section #25161
+36421. refactor: split large controller into smaller functions #36421
