@@ -4116,3 +4116,4 @@
 25364. refactor: remove redundant code blocks #25364
 89342. chore: add GitHub actions badge #89342
 5136. feat: implement quiz timer feature #5136
+30539. feat: support email verification #30539
