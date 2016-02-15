@@ -4119,3 +4119,4 @@
 30539. feat: support email verification #30539
 14545. test: test user registration edge cases #14545
 61207. chore: clean up unused files #61207
+31296. test: increase coverage on auth module #31296
