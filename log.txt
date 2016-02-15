@@ -6129,3 +6129,4 @@
 4806. perf: cache repeated calculations #4806
 92679. test: test user registration edge cases #92679
 17717. refactor: organize models into subfolders #17717
+79054. fix: resolve issue with date parsing #79054
