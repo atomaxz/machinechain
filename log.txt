@@ -1119,3 +1119,4 @@
 84123. refactor: organize models into subfolders #84123
 85893. refactor: organize models into subfolders #85893
 54446. style: apply consistent indentation #54446
+18345. feat: add user authentication #18345
