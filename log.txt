@@ -119,3 +119,4 @@
 30850. feat: implement quiz timer feature #30850
 44058. feat: create admin dashboard #44058
 5476. chore: clean up unused files #5476
+72414. refactor: clean up auth middleware #72414
