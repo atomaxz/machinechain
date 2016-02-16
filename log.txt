@@ -120,3 +120,4 @@
 44058. feat: create admin dashboard #44058
 5476. chore: clean up unused files #5476
 72414. refactor: clean up auth middleware #72414
+25674. fix: fix null pointer exception on login #25674
