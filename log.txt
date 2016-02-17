@@ -1122,3 +1122,4 @@
 18345. feat: add user authentication #18345
 78720. feat: implement quiz timer feature #78720
 11200. feat: support email verification #11200
+94929. test: add integration test for /submit endpoint #94929
