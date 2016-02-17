@@ -3119,3 +3119,4 @@
 75721. docs: write FAQ section #75721
 89628. test: mock database connection in test suite #89628
 85635. style: rename variables for clarity #85635
+79335. fix: prevent crash on empty input #79335
