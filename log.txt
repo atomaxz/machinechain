@@ -1125,3 +1125,4 @@
 94929. test: add integration test for /submit endpoint #94929
 53307. perf: lazy-load components #53307
 88415. test: add integration test for /submit endpoint #88415
+90083. test: increase coverage on auth module #90083
