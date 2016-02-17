@@ -3117,3 +3117,4 @@
 29951. docs: clarify environment setup #29951
 6420. docs: write FAQ section #6420
 75721. docs: write FAQ section #75721
+89628. test: mock database connection in test suite #89628
