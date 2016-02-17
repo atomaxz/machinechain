@@ -2123,3 +2123,4 @@
 82534. docs: document token refresh logic #82534
 10360. refactor: clean up auth middleware #10360
 80230. feat: add user authentication #80230
+30169. perf: optimize database query for quiz results #30169
