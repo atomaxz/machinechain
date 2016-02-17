@@ -5111,3 +5111,4 @@
 28035. refactor: refactor quiz grading logic #28035
 18621. style: standardize quote style #18621
 4286. test: mock database connection in test suite #4286
+75602. test: add unit test for quiz service #75602
