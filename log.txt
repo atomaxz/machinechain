@@ -1127,3 +1127,4 @@
 88415. test: add integration test for /submit endpoint #88415
 90083. test: increase coverage on auth module #90083
 11787. fix: prevent crash on empty input #11787
+61217. test: add unit test for quiz service #61217
