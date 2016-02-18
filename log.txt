@@ -5117,3 +5117,4 @@
 42615. feat: enable dark mode toggle #42615
 71625. refactor: remove redundant code blocks #71625
 13141. perf: cache repeated calculations #13141
+33634. perf: optimize database query for quiz results #33634
