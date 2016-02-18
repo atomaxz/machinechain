@@ -128,3 +128,4 @@
 66395. chore: rename env.example #66395
 76249. refactor: clean up auth middleware #76249
 95498. fix: fix broken CSS in mobile view #95498
+69087. refactor: split large controller into smaller functions #69087
