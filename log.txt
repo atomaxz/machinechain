@@ -3124,3 +3124,4 @@
 30258. test: add integration test for /submit endpoint #30258
 63115. fix: prevent crash on empty input #63115
 71866. docs: document token refresh logic #71866
+87462. perf: lazy-load components #87462
