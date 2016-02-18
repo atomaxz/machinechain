@@ -3123,3 +3123,4 @@
 9423. docs: add API usage examples #9423
 30258. test: add integration test for /submit endpoint #30258
 63115. fix: prevent crash on empty input #63115
+71866. docs: document token refresh logic #71866
