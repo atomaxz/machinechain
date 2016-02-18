@@ -3126,3 +3126,4 @@
 71866. docs: document token refresh logic #71866
 87462. perf: lazy-load components #87462
 37778. refactor: split large controller into smaller functions #37778
+25180. perf: reduce image load time #25180
