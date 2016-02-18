@@ -126,3 +126,4 @@
 63327. chore: update .gitignore #63327
 4691. feat: create admin dashboard #4691
 66395. chore: rename env.example #66395
+76249. refactor: clean up auth middleware #76249
