@@ -3128,3 +3128,4 @@
 37778. refactor: split large controller into smaller functions #37778
 25180. perf: reduce image load time #25180
 5319. test: increase coverage on auth module #5319
+2576. refactor: refactor quiz grading logic #2576
