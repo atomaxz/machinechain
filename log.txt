@@ -6137,3 +6137,4 @@
 85441. perf: optimize database query for quiz results #85441
 35524. test: mock database connection in test suite #35524
 72068. fix: fix broken CSS in mobile view #72068
+6346. docs: update README with setup steps #6346
