@@ -1129,3 +1129,4 @@
 11787. fix: prevent crash on empty input #11787
 61217. test: add unit test for quiz service #61217
 11266. style: reformat files with black #11266
+96027. feat: add export to CSV option #96027
