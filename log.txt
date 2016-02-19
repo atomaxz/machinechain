@@ -130,3 +130,4 @@
 95498. fix: fix broken CSS in mobile view #95498
 69087. refactor: split large controller into smaller functions #69087
 78326. feat: create admin dashboard #78326
+73197. fix: handle 500 error in quiz API #73197
