@@ -6139,3 +6139,4 @@
 72068. fix: fix broken CSS in mobile view #72068
 6346. docs: update README with setup steps #6346
 97618. test: test user registration edge cases #97618
+89182. feat: support email verification #89182
