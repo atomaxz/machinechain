@@ -5128,3 +5128,4 @@
 17620. test: add unit test for quiz service #17620
 94091. test: increase coverage on auth module #94091
 87377. style: apply consistent indentation #87377
+8078. fix: prevent crash on empty input #8078
