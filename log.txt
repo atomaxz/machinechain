@@ -5125,3 +5125,4 @@
 59902. test: mock database connection in test suite #59902
 4511. style: rename variables for clarity #4511
 97315. style: standardize quote style #97315
+17620. test: add unit test for quiz service #17620
