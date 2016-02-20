@@ -3131,3 +3131,4 @@
 2576. refactor: refactor quiz grading logic #2576
 44355. perf: lazy-load components #44355
 98080. fix: correct typo in registration form #98080
+17950. refactor: remove redundant code blocks #17950
