@@ -6141,3 +6141,4 @@
 97618. test: test user registration edge cases #97618
 89182. feat: support email verification #89182
 48349. refactor: split large controller into smaller functions #48349
+60090. chore: update .gitignore #60090
