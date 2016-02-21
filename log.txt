@@ -1133,3 +1133,4 @@
 25706. feat: create admin dashboard #25706
 31447. refactor: split large controller into smaller functions #31447
 24367. test: increase coverage on auth module #24367
+54908. test: mock database connection in test suite #54908
