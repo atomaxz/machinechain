@@ -4134,3 +4134,4 @@
 95823. style: apply consistent indentation #95823
 62158. test: increase coverage on auth module #62158
 86516. fix: correct typo in registration form #86516
+79905. fix: prevent crash on empty input #79905
