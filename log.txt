@@ -5131,3 +5131,4 @@
 8078. fix: prevent crash on empty input #8078
 70657. refactor: split large controller into smaller functions #70657
 29272. docs: update README with setup steps #29272
+31985. fix: handle 500 error in quiz API #31985
