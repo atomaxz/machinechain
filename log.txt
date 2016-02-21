@@ -2136,3 +2136,4 @@
 21956. fix: handle 500 error in quiz API #21956
 31024. chore: clean up unused files #31024
 17072. style: standardize quote style #17072
+42647. fix: prevent crash on empty input #42647
