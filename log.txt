@@ -1132,3 +1132,4 @@
 96027. feat: add export to CSV option #96027
 25706. feat: create admin dashboard #25706
 31447. refactor: split large controller into smaller functions #31447
+24367. test: increase coverage on auth module #24367
