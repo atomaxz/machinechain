@@ -2134,3 +2134,4 @@
 28041. refactor: split large controller into smaller functions #28041
 38938. docs: update README with setup steps #38938
 21956. fix: handle 500 error in quiz API #21956
+31024. chore: clean up unused files #31024
