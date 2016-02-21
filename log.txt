@@ -4136,3 +4136,4 @@
 86516. fix: correct typo in registration form #86516
 79905. fix: prevent crash on empty input #79905
 58492. feat: support email verification #58492
+42871. style: apply consistent indentation #42871
