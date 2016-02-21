@@ -1134,3 +1134,4 @@
 31447. refactor: split large controller into smaller functions #31447
 24367. test: increase coverage on auth module #24367
 54908. test: mock database connection in test suite #54908
+90320. style: remove trailing whitespace #90320
