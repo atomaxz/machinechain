@@ -1135,3 +1135,4 @@
 24367. test: increase coverage on auth module #24367
 54908. test: mock database connection in test suite #54908
 90320. style: remove trailing whitespace #90320
+75463. fix: prevent crash on empty input #75463
