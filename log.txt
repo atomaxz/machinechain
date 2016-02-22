@@ -3134,3 +3134,4 @@
 17950. refactor: remove redundant code blocks #17950
 25923. perf: lazy-load components #25923
 40884. fix: fix null pointer exception on login #40884
+11056. fix: prevent crash on empty input #11056
