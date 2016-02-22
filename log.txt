@@ -4137,3 +4137,4 @@
 79905. fix: prevent crash on empty input #79905
 58492. feat: support email verification #58492
 42871. style: apply consistent indentation #42871
+82578. refactor: refactor quiz grading logic #82578
