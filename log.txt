@@ -3136,3 +3136,4 @@
 40884. fix: fix null pointer exception on login #40884
 11056. fix: prevent crash on empty input #11056
 49237. chore: update .gitignore #49237
+93157. test: mock database connection in test suite #93157
