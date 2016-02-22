@@ -2137,3 +2137,4 @@
 31024. chore: clean up unused files #31024
 17072. style: standardize quote style #17072
 42647. fix: prevent crash on empty input #42647
+0444. chore: bump dependencies #444
