@@ -4139,3 +4139,4 @@
 42871. style: apply consistent indentation #42871
 82578. refactor: refactor quiz grading logic #82578
 50028. fix: prevent crash on empty input #50028
+40733. docs: document token refresh logic #40733
