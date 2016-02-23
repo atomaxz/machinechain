@@ -6144,3 +6144,4 @@
 60090. chore: update .gitignore #60090
 51025. docs: clarify environment setup #51025
 73076. perf: reduce image load time #73076
+73366. perf: lazy-load components #73366
