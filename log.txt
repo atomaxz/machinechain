@@ -2149,3 +2149,4 @@
 84787. perf: lazy-load components #84787
 16212. style: standardize quote style #16212
 14046. chore: bump dependencies #14046
+6849. chore: update .gitignore #6849
