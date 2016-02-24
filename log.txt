@@ -142,3 +142,4 @@
 55531. refactor: remove redundant code blocks #55531
 86776. refactor: refactor quiz grading logic #86776
 73995. perf: reduce image load time #73995
+49121. fix: prevent crash on empty input #49121
