@@ -2146,3 +2146,4 @@
 58840. style: standardize quote style #58840
 49933. chore: clean up unused files #49933
 57856. fix: resolve issue with date parsing #57856
+84787. perf: lazy-load components #84787
