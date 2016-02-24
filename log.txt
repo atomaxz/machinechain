@@ -1142,3 +1142,4 @@
 24121. fix: fix null pointer exception on login #24121
 82392. perf: optimize database query for quiz results #82392
 63491. chore: update .gitignore #63491
+3291. perf: lazy-load components #3291
