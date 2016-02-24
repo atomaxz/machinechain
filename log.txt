@@ -4146,3 +4146,4 @@
 38404. perf: reduce image load time #38404
 73704. style: reformat files with black #73704
 70567. chore: add GitHub actions badge #70567
+98919. docs: clarify environment setup #98919
