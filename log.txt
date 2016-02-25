@@ -144,3 +144,4 @@
 73995. perf: reduce image load time #73995
 49121. fix: prevent crash on empty input #49121
 63895. feat: add user authentication #63895
+23965. perf: lazy-load components #23965
