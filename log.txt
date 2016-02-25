@@ -1146,3 +1146,4 @@
 45033. chore: update .gitignore #45033
 74677. chore: add GitHub actions badge #74677
 0001. style: reformat files with black #1
+3826. feat: support email verification #3826
