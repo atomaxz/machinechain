@@ -5137,3 +5137,4 @@
 74569. style: rename variables for clarity #74569
 52531. feat: create admin dashboard #52531
 40272. chore: clean up unused files #40272
+74344. refactor: clean up auth middleware #74344
