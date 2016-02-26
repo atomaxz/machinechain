@@ -147,3 +147,4 @@
 23965. perf: lazy-load components #23965
 36402. fix: fix broken CSS in mobile view #36402
 59770. fix: prevent crash on empty input #59770
+57016. test: test user registration edge cases #57016
