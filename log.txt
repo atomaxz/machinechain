@@ -1148,3 +1148,4 @@
 0001. style: reformat files with black #1
 3826. feat: support email verification #3826
 49208. feat: create admin dashboard #49208
+77652. chore: bump dependencies #77652
