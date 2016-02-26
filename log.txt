@@ -4149,3 +4149,4 @@
 98919. docs: clarify environment setup #98919
 87981. refactor: clean up auth middleware #87981
 83846. perf: cache repeated calculations #83846
+84436. docs: update README with setup steps #84436
