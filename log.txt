@@ -3144,3 +3144,4 @@
 48854. chore: add GitHub actions badge #48854
 17099. chore: clean up unused files #17099
 49148. test: mock database connection in test suite #49148
+89463. fix: prevent crash on empty input #89463
