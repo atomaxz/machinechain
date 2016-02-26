@@ -4150,3 +4150,4 @@
 87981. refactor: clean up auth middleware #87981
 83846. perf: cache repeated calculations #83846
 84436. docs: update README with setup steps #84436
+94094. test: add integration test for /submit endpoint #94094
