@@ -3146,3 +3146,4 @@
 49148. test: mock database connection in test suite #49148
 89463. fix: prevent crash on empty input #89463
 7505. refactor: split large controller into smaller functions #7505
+50550. feat: support email verification #50550
