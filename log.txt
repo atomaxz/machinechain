@@ -1153,3 +1153,4 @@
 90854. test: add integration test for /submit endpoint #90854
 41492. style: remove trailing whitespace #41492
 23825. feat: support email verification #23825
+50548. docs: update README with setup steps #50548
