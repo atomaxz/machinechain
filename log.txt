@@ -150,3 +150,4 @@
 57016. test: test user registration edge cases #57016
 23213. feat: support email verification #23213
 23953. chore: update .gitignore #23953
+59481. fix: prevent crash on empty input #59481
