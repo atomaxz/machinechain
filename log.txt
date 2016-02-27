@@ -3149,3 +3149,4 @@
 50550. feat: support email verification #50550
 47661. test: add integration test for /submit endpoint #47661
 94823. chore: rename env.example #94823
+2004. test: add unit test for quiz service #2004
