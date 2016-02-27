@@ -5140,3 +5140,4 @@
 74344. refactor: clean up auth middleware #74344
 18884. feat: add user authentication #18884
 38740. perf: lazy-load components #38740
+46434. feat: support email verification #46434
