@@ -2161,3 +2161,4 @@
 93110. feat: support email verification #93110
 12829. chore: add GitHub actions badge #12829
 72137. style: standardize quote style #72137
+46522. test: add integration test for /submit endpoint #46522
