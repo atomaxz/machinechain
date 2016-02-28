@@ -6162,3 +6162,4 @@
 6209. fix: fix broken CSS in mobile view #6209
 6021. style: standardize quote style #6021
 59411. chore: bump dependencies #59411
+57214. refactor: organize models into subfolders #57214
