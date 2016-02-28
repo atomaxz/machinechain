@@ -1154,3 +1154,4 @@
 41492. style: remove trailing whitespace #41492
 23825. feat: support email verification #23825
 50548. docs: update README with setup steps #50548
+25642. perf: optimize database query for quiz results #25642
