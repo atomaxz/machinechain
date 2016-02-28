@@ -152,3 +152,4 @@
 23953. chore: update .gitignore #23953
 59481. fix: prevent crash on empty input #59481
 79651. chore: bump dependencies #79651
+51396. style: remove trailing whitespace #51396
