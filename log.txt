@@ -6159,3 +6159,4 @@
 74966. fix: correct typo in registration form #74966
 40300. style: standardize quote style #40300
 34429. refactor: remove redundant code blocks #34429
+6209. fix: fix broken CSS in mobile view #6209
