@@ -4159,3 +4159,4 @@
 21984. chore: clean up unused files #21984
 62496. style: standardize quote style #62496
 31151. perf: cache repeated calculations #31151
+26013. docs: write FAQ section #26013
