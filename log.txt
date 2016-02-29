@@ -158,3 +158,4 @@
 19051. test: increase coverage on auth module #19051
 0831. perf: reduce image load time #831
 0178. chore: bump dependencies #178
+33005. refactor: remove redundant code blocks #33005
