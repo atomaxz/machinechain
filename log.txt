@@ -2168,3 +2168,4 @@
 17793. refactor: refactor quiz grading logic #17793
 57118. docs: document token refresh logic #57118
 21428. fix: correct typo in registration form #21428
+52009. fix: resolve issue with date parsing #52009
