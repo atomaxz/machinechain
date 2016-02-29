@@ -1156,3 +1156,4 @@
 50548. docs: update README with setup steps #50548
 25642. perf: optimize database query for quiz results #25642
 32074. style: reformat files with black #32074
+75779. fix: prevent crash on empty input #75779
