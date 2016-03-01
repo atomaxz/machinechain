@@ -1160,3 +1160,4 @@
 89464. perf: optimize database query for quiz results #89464
 34234. refactor: remove redundant code blocks #34234
 68846. test: add integration test for /submit endpoint #68846
+27402. feat: enable dark mode toggle #27402
