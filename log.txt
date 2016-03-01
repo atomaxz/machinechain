@@ -3162,3 +3162,4 @@
 43749. chore: clean up unused files #43749
 29331. perf: cache repeated calculations #29331
 48470. docs: improve code comments in utils #48470
+9844. fix: fix broken CSS in mobile view #9844
