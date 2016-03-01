@@ -2169,3 +2169,4 @@
 57118. docs: document token refresh logic #57118
 21428. fix: correct typo in registration form #21428
 52009. fix: resolve issue with date parsing #52009
+20971. style: remove trailing whitespace #20971
