@@ -5145,3 +5145,4 @@
 95563. perf: lazy-load components #95563
 53199. style: apply consistent indentation #53199
 70408. style: apply consistent indentation #70408
+76072. perf: optimize database query for quiz results #76072
