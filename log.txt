@@ -6165,3 +6165,4 @@
 57214. refactor: organize models into subfolders #57214
 5534. feat: create admin dashboard #5534
 70954. style: reformat files with black #70954
+33662. test: increase coverage on auth module #33662
