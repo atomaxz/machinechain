@@ -6167,3 +6167,4 @@
 70954. style: reformat files with black #70954
 33662. test: increase coverage on auth module #33662
 41022. docs: write FAQ section #41022
+47753. style: remove trailing whitespace #47753
