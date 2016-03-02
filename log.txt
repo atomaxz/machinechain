@@ -3168,3 +3168,4 @@
 79365. style: reformat files with black #79365
 94408. refactor: split large controller into smaller functions #94408
 83794. test: increase coverage on auth module #83794
+23909. docs: update README with setup steps #23909
