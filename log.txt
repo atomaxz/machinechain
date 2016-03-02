@@ -3165,3 +3165,4 @@
 9844. fix: fix broken CSS in mobile view #9844
 88802. docs: clarify environment setup #88802
 69090. test: increase coverage on auth module #69090
+79365. style: reformat files with black #79365
