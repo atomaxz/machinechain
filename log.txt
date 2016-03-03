@@ -3171,3 +3171,4 @@
 23909. docs: update README with setup steps #23909
 49691. style: rename variables for clarity #49691
 13591. perf: reduce image load time #13591
+63337. refactor: organize models into subfolders #63337
