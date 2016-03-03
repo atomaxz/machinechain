@@ -4168,3 +4168,4 @@
 81282. test: add unit test for quiz service #81282
 35912. perf: optimize database query for quiz results #35912
 20549. refactor: organize models into subfolders #20549
+60762. feat: support email verification #60762
