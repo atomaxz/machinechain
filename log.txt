@@ -1166,3 +1166,4 @@
 24918. refactor: clean up auth middleware #24918
 10950. docs: write FAQ section #10950
 10892. feat: create admin dashboard #10892
+34935. feat: support email verification #34935
