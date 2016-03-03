@@ -1167,3 +1167,4 @@
 10950. docs: write FAQ section #10950
 10892. feat: create admin dashboard #10892
 34935. feat: support email verification #34935
+51128. feat: add export to CSV option #51128
