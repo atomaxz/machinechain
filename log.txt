@@ -2177,3 +2177,4 @@
 90368. chore: clean up unused files #90368
 42476. docs: write FAQ section #42476
 25178. fix: prevent crash on empty input #25178
+65491. feat: enable dark mode toggle #65491
