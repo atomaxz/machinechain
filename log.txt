@@ -6177,3 +6177,4 @@
 97296. chore: update .gitignore #97296
 18217. perf: cache repeated calculations #18217
 99953. perf: reduce image load time #99953
+70741. refactor: organize models into subfolders #70741
