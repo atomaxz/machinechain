@@ -166,3 +166,4 @@
 86274. refactor: remove redundant code blocks #86274
 44912. docs: update README with setup steps #44912
 62652. feat: enable dark mode toggle #62652
+17109. test: increase coverage on auth module #17109
