@@ -5155,3 +5155,4 @@
 3168. fix: resolve issue with date parsing #3168
 36702. docs: improve code comments in utils #36702
 22355. chore: rename env.example #22355
+90363. perf: cache repeated calculations #90363
