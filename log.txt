@@ -4172,3 +4172,4 @@
 8553. perf: cache repeated calculations #8553
 77451. refactor: remove redundant code blocks #77451
 68902. chore: clean up unused files #68902
+83530. refactor: split large controller into smaller functions #83530
