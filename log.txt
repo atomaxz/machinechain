@@ -6188,3 +6188,4 @@
 75582. refactor: refactor quiz grading logic #75582
 11406. perf: reduce image load time #11406
 69133. feat: enable dark mode toggle #69133
+2956. test: mock database connection in test suite #2956
