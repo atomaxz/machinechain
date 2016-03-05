@@ -2182,3 +2182,4 @@
 92518. test: add unit test for quiz service #92518
 92942. style: standardize quote style #92942
 11286. fix: resolve issue with date parsing #11286
+88553. fix: handle 500 error in quiz API #88553
