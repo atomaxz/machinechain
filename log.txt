@@ -6186,3 +6186,4 @@
 74493. perf: optimize database query for quiz results #74493
 10899. perf: cache repeated calculations #10899
 75582. refactor: refactor quiz grading logic #75582
+11406. perf: reduce image load time #11406
