@@ -4177,3 +4177,4 @@
 77385. perf: reduce image load time #77385
 86807. refactor: organize models into subfolders #86807
 45533. chore: bump dependencies #45533
+63293. fix: handle 500 error in quiz API #63293
