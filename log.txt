@@ -170,3 +170,4 @@
 16011. feat: implement quiz timer feature #16011
 96918. style: reformat files with black #96918
 64978. fix: handle 500 error in quiz API #64978
+52643. fix: fix broken CSS in mobile view #52643
