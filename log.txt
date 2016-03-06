@@ -2184,3 +2184,4 @@
 11286. fix: resolve issue with date parsing #11286
 88553. fix: handle 500 error in quiz API #88553
 77389. chore: update .gitignore #77389
+65510. fix: correct typo in registration form #65510
