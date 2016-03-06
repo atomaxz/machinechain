@@ -4180,3 +4180,4 @@
 63293. fix: handle 500 error in quiz API #63293
 57098. feat: enable dark mode toggle #57098
 94262. test: increase coverage on auth module #94262
+52355. chore: update .gitignore #52355
