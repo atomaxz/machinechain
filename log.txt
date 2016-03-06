@@ -169,3 +169,4 @@
 17109. test: increase coverage on auth module #17109
 16011. feat: implement quiz timer feature #16011
 96918. style: reformat files with black #96918
+64978. fix: handle 500 error in quiz API #64978
