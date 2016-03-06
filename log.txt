@@ -172,3 +172,4 @@
 64978. fix: handle 500 error in quiz API #64978
 52643. fix: fix broken CSS in mobile view #52643
 58776. fix: fix broken CSS in mobile view #58776
+81462. chore: clean up unused files #81462
