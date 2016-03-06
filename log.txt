@@ -171,3 +171,4 @@
 96918. style: reformat files with black #96918
 64978. fix: handle 500 error in quiz API #64978
 52643. fix: fix broken CSS in mobile view #52643
+58776. fix: fix broken CSS in mobile view #58776
