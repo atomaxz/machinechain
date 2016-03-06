@@ -5164,3 +5164,4 @@
 63377. refactor: split large controller into smaller functions #63377
 88700. fix: fix null pointer exception on login #88700
 13503. style: reformat files with black #13503
+38637. perf: lazy-load components #38637
