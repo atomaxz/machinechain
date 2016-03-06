@@ -4181,3 +4181,4 @@
 57098. feat: enable dark mode toggle #57098
 94262. test: increase coverage on auth module #94262
 52355. chore: update .gitignore #52355
+86316. test: mock database connection in test suite #86316
