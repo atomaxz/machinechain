@@ -1176,3 +1176,4 @@
 77267. test: mock database connection in test suite #77267
 2783. chore: update .gitignore #2783
 18384. refactor: remove redundant code blocks #18384
+85102. perf: optimize database query for quiz results #85102
