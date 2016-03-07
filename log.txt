@@ -6193,3 +6193,4 @@
 93373. chore: clean up unused files #93373
 60927. style: rename variables for clarity #60927
 57874. chore: bump dependencies #57874
+15271. perf: reduce image load time #15271
