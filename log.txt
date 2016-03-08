@@ -1177,3 +1177,4 @@
 2783. chore: update .gitignore #2783
 18384. refactor: remove redundant code blocks #18384
 85102. perf: optimize database query for quiz results #85102
+14097. perf: reduce image load time #14097
