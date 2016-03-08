@@ -2193,3 +2193,4 @@
 65242. fix: handle 500 error in quiz API #65242
 64723. chore: rename env.example #64723
 75887. test: increase coverage on auth module #75887
+45377. perf: optimize database query for quiz results #45377
