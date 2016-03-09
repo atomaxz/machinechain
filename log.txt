@@ -4184,3 +4184,4 @@
 86316. test: mock database connection in test suite #86316
 91499. chore: clean up unused files #91499
 40514. fix: correct typo in registration form #40514
+96080. refactor: organize models into subfolders #96080
