@@ -6200,3 +6200,4 @@
 22916. docs: write FAQ section #22916
 7269. docs: improve code comments in utils #7269
 28524. fix: resolve issue with date parsing #28524
+74994. test: increase coverage on auth module #74994
