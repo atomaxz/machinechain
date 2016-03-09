@@ -2195,3 +2195,4 @@
 75887. test: increase coverage on auth module #75887
 45377. perf: optimize database query for quiz results #45377
 17196. docs: improve code comments in utils #17196
+32749. perf: lazy-load components #32749
