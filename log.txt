@@ -179,3 +179,4 @@
 78680. chore: update .gitignore #78680
 29482. refactor: split large controller into smaller functions #29482
 52282. chore: bump dependencies #52282
+54016. perf: reduce image load time #54016
