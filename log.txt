@@ -5177,3 +5177,4 @@
 29200. docs: clarify environment setup #29200
 81619. chore: update .gitignore #81619
 88115. style: remove trailing whitespace #88115
+20108. fix: fix null pointer exception on login #20108
