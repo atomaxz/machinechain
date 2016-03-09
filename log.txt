@@ -2197,3 +2197,4 @@
 17196. docs: improve code comments in utils #17196
 32749. perf: lazy-load components #32749
 6937. test: add integration test for /submit endpoint #6937
+45782. feat: add user authentication #45782
