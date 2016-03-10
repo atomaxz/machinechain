@@ -3192,3 +3192,4 @@
 68378. refactor: refactor quiz grading logic #68378
 10865. refactor: clean up auth middleware #10865
 34757. perf: reduce image load time #34757
+53115. feat: add user authentication #53115
