@@ -2203,3 +2203,4 @@
 73005. docs: improve code comments in utils #73005
 86859. chore: add GitHub actions badge #86859
 92760. fix: resolve issue with date parsing #92760
+7886. docs: update README with setup steps #7886
