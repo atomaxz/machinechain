@@ -1185,3 +1185,4 @@
 10519. refactor: organize models into subfolders #10519
 23105. style: remove trailing whitespace #23105
 67246. style: rename variables for clarity #67246
+66962. perf: lazy-load components #66962
