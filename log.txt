@@ -6204,3 +6204,4 @@
 78386. refactor: split large controller into smaller functions #78386
 16074. refactor: organize models into subfolders #16074
 14664. fix: handle 500 error in quiz API #14664
+30873. style: reformat files with black #30873
