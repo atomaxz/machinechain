@@ -1183,3 +1183,4 @@
 98520. docs: improve code comments in utils #98520
 15058. test: increase coverage on auth module #15058
 10519. refactor: organize models into subfolders #10519
+23105. style: remove trailing whitespace #23105
