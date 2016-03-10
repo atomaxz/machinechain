@@ -2202,3 +2202,4 @@
 32029. fix: fix broken CSS in mobile view #32029
 73005. docs: improve code comments in utils #73005
 86859. chore: add GitHub actions badge #86859
+92760. fix: resolve issue with date parsing #92760
