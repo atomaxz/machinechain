@@ -5186,3 +5186,4 @@
 77809. chore: rename env.example #77809
 2396. fix: fix null pointer exception on login #2396
 82608. feat: add user authentication #82608
+98645. fix: fix broken CSS in mobile view #98645
