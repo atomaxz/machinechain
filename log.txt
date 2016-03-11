@@ -6208,3 +6208,4 @@
 28277. fix: prevent crash on empty input #28277
 4304. fix: fix null pointer exception on login #4304
 82513. test: mock database connection in test suite #82513
+19345. docs: clarify environment setup #19345
