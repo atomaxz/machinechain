@@ -187,3 +187,4 @@
 27378. docs: update README with setup steps #27378
 59910. feat: add user authentication #59910
 44223. fix: correct typo in registration form #44223
+13425. style: reformat files with black #13425
