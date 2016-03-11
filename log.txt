@@ -5185,3 +5185,4 @@
 48591. docs: update README with setup steps #48591
 77809. chore: rename env.example #77809
 2396. fix: fix null pointer exception on login #2396
+82608. feat: add user authentication #82608
