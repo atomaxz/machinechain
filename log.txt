@@ -6206,3 +6206,4 @@
 14664. fix: handle 500 error in quiz API #14664
 30873. style: reformat files with black #30873
 28277. fix: prevent crash on empty input #28277
+4304. fix: fix null pointer exception on login #4304
