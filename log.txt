@@ -4187,3 +4187,4 @@
 96080. refactor: organize models into subfolders #96080
 56161. fix: fix null pointer exception on login #56161
 64483. test: add unit test for quiz service #64483
+86818. feat: enable dark mode toggle #86818
