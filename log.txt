@@ -5187,3 +5187,4 @@
 2396. fix: fix null pointer exception on login #2396
 82608. feat: add user authentication #82608
 98645. fix: fix broken CSS in mobile view #98645
+91534. fix: correct typo in registration form #91534
