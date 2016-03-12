@@ -192,3 +192,4 @@
 32846. fix: fix null pointer exception on login #32846
 64733. style: reformat files with black #64733
 54112. fix: prevent crash on empty input #54112
+20994. docs: update README with setup steps #20994
