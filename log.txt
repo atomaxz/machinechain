@@ -6215,3 +6215,4 @@
 30655. style: reformat files with black #30655
 68173. feat: add export to CSV option #68173
 44142. docs: update README with setup steps #44142
+96594. chore: bump dependencies #96594
