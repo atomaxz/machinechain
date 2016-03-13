@@ -5194,3 +5194,4 @@
 79792. chore: bump dependencies #79792
 27023. feat: implement quiz timer feature #27023
 77934. test: add unit test for quiz service #77934
+99503. perf: reduce image load time #99503
