@@ -2214,3 +2214,4 @@
 64448. chore: rename env.example #64448
 14364. perf: lazy-load components #14364
 40756. perf: lazy-load components #40756
+94908. docs: update README with setup steps #94908
