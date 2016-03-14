@@ -1196,3 +1196,4 @@
 77200. test: add unit test for quiz service #77200
 33423. perf: cache repeated calculations #33423
 24036. fix: handle 500 error in quiz API #24036
+7937. fix: fix broken CSS in mobile view #7937
