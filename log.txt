@@ -2217,3 +2217,4 @@
 94908. docs: update README with setup steps #94908
 30417. chore: update .gitignore #30417
 36671. docs: write FAQ section #36671
+40817. feat: add user authentication #40817
