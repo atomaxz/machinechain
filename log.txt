@@ -197,3 +197,4 @@
 84252. docs: improve code comments in utils #84252
 93808. refactor: organize models into subfolders #93808
 95384. fix: correct typo in registration form #95384
+67510. feat: add user authentication #67510
