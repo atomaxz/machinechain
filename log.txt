@@ -198,3 +198,4 @@
 93808. refactor: organize models into subfolders #93808
 95384. fix: correct typo in registration form #95384
 67510. feat: add user authentication #67510
+73066. style: apply consistent indentation #73066
