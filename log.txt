@@ -201,3 +201,4 @@
 73066. style: apply consistent indentation #73066
 92267. style: apply consistent indentation #92267
 68343. feat: enable dark mode toggle #68343
+68291. test: increase coverage on auth module #68291
