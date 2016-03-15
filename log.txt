@@ -204,3 +204,4 @@
 68291. test: increase coverage on auth module #68291
 98754. test: add unit test for quiz service #98754
 57540. perf: lazy-load components #57540
+2713. test: increase coverage on auth module #2713
