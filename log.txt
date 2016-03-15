@@ -1205,3 +1205,4 @@
 89487. perf: cache repeated calculations #89487
 91595. perf: reduce image load time #91595
 22970. style: remove trailing whitespace #22970
+96319. perf: reduce image load time #96319
