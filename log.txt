@@ -203,3 +203,4 @@
 68343. feat: enable dark mode toggle #68343
 68291. test: increase coverage on auth module #68291
 98754. test: add unit test for quiz service #98754
+57540. perf: lazy-load components #57540
