@@ -4196,3 +4196,4 @@
 59301. docs: add API usage examples #59301
 52522. perf: cache repeated calculations #52522
 24975. test: test user registration edge cases #24975
+41721. style: apply consistent indentation #41721
