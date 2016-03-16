@@ -2223,3 +2223,4 @@
 11309. style: rename variables for clarity #11309
 4108. fix: fix null pointer exception on login #4108
 40253. chore: rename env.example #40253
+44980. style: standardize quote style #44980
