@@ -3200,3 +3200,4 @@
 36098. style: reformat files with black #36098
 3231. perf: lazy-load components #3231
 73459. test: test user registration edge cases #73459
+73950. refactor: split large controller into smaller functions #73950
