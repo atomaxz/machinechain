@@ -212,3 +212,4 @@
 94777. docs: add API usage examples #94777
 88935. refactor: split large controller into smaller functions #88935
 58972. perf: optimize database query for quiz results #58972
+16281. chore: update .gitignore #16281
