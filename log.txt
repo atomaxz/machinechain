@@ -4197,3 +4197,4 @@
 52522. perf: cache repeated calculations #52522
 24975. test: test user registration edge cases #24975
 41721. style: apply consistent indentation #41721
+24018. refactor: refactor quiz grading logic #24018
