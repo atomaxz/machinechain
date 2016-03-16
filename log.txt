@@ -215,3 +215,4 @@
 16281. chore: update .gitignore #16281
 21055. chore: update .gitignore #21055
 93887. perf: cache repeated calculations #93887
+31145. fix: fix broken CSS in mobile view #31145
