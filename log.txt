@@ -1209,3 +1209,4 @@
 57101. test: add integration test for /submit endpoint #57101
 1755. perf: optimize database query for quiz results #1755
 55663. test: increase coverage on auth module #55663
+3767. fix: correct typo in registration form #3767
