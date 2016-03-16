@@ -2221,3 +2221,4 @@
 32852. feat: add user authentication #32852
 39809. docs: clarify environment setup #39809
 11309. style: rename variables for clarity #11309
+4108. fix: fix null pointer exception on login #4108
