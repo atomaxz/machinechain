@@ -2228,3 +2228,4 @@
 8448. chore: add GitHub actions badge #8448
 31860. feat: implement quiz timer feature #31860
 50766. perf: reduce image load time #50766
+64095. chore: update .gitignore #64095
