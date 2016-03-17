@@ -1211,3 +1211,4 @@
 55663. test: increase coverage on auth module #55663
 3767. fix: correct typo in registration form #3767
 37584. fix: fix null pointer exception on login #37584
+8474. chore: add GitHub actions badge #8474
