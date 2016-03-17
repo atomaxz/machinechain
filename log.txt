@@ -1214,3 +1214,4 @@
 8474. chore: add GitHub actions badge #8474
 84743. feat: add export to CSV option #84743
 25185. test: test user registration edge cases #25185
+45325. style: apply consistent indentation #45325
