@@ -5202,3 +5202,4 @@
 12629. perf: cache repeated calculations #12629
 60709. style: rename variables for clarity #60709
 39716. refactor: remove redundant code blocks #39716
+68275. test: increase coverage on auth module #68275
