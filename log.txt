@@ -2227,3 +2227,4 @@
 19940. docs: improve code comments in utils #19940
 8448. chore: add GitHub actions badge #8448
 31860. feat: implement quiz timer feature #31860
+50766. perf: reduce image load time #50766
