@@ -2231,3 +2231,4 @@
 64095. chore: update .gitignore #64095
 21149. perf: reduce image load time #21149
 97400. style: reformat files with black #97400
+83929. fix: prevent crash on empty input #83929
