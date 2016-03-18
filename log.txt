@@ -1217,3 +1217,4 @@
 45325. style: apply consistent indentation #45325
 86056. chore: bump dependencies #86056
 51149. perf: optimize database query for quiz results #51149
+13586. perf: lazy-load components #13586
