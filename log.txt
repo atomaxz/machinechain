@@ -218,3 +218,4 @@
 31145. fix: fix broken CSS in mobile view #31145
 6205. feat: create admin dashboard #6205
 39915. chore: update .gitignore #39915
+25966. feat: enable dark mode toggle #25966
