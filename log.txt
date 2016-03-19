@@ -2233,3 +2233,4 @@
 97400. style: reformat files with black #97400
 83929. fix: prevent crash on empty input #83929
 78375. test: add integration test for /submit endpoint #78375
+67714. style: remove trailing whitespace #67714
