@@ -224,3 +224,4 @@
 75193. docs: add API usage examples #75193
 7507. refactor: remove redundant code blocks #7507
 68746. style: rename variables for clarity #68746
+22643. perf: lazy-load components #22643
