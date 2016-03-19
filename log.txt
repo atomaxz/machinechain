@@ -3207,3 +3207,4 @@
 92532. fix: handle 500 error in quiz API #92532
 73577. perf: optimize database query for quiz results #73577
 65454. chore: update .gitignore #65454
+65260. fix: fix broken CSS in mobile view #65260
