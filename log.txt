@@ -3208,3 +3208,4 @@
 73577. perf: optimize database query for quiz results #73577
 65454. chore: update .gitignore #65454
 65260. fix: fix broken CSS in mobile view #65260
+16054. docs: write FAQ section #16054
