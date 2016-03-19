@@ -3204,3 +3204,4 @@
 44702. docs: clarify environment setup #44702
 5556. refactor: clean up auth middleware #5556
 26288. chore: update .gitignore #26288
+92532. fix: handle 500 error in quiz API #92532
