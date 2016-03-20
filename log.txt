@@ -5209,3 +5209,4 @@
 15246. docs: document token refresh logic #15246
 21263. fix: fix broken CSS in mobile view #21263
 14001. refactor: clean up auth middleware #14001
+64221. perf: optimize database query for quiz results #64221
