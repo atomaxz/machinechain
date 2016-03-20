@@ -3210,3 +3210,4 @@
 65260. fix: fix broken CSS in mobile view #65260
 16054. docs: write FAQ section #16054
 32937. perf: reduce image load time #32937
+4363. perf: lazy-load components #4363
