@@ -1226,3 +1226,4 @@
 19147. refactor: clean up auth middleware #19147
 73353. docs: improve code comments in utils #73353
 32612. feat: support email verification #32612
+74477. style: apply consistent indentation #74477
