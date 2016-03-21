@@ -227,3 +227,4 @@
 22643. perf: lazy-load components #22643
 19382. test: add unit test for quiz service #19382
 78549. style: apply consistent indentation #78549
+83116. feat: enable dark mode toggle #83116
