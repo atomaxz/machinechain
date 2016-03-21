@@ -4210,3 +4210,4 @@
 47217. chore: clean up unused files #47217
 25172. style: apply consistent indentation #25172
 62382. style: rename variables for clarity #62382
+25669. docs: update README with setup steps #25669
