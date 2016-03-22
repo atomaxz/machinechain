@@ -5213,3 +5213,4 @@
 33524. test: increase coverage on auth module #33524
 69980. fix: resolve issue with date parsing #69980
 56096. refactor: clean up auth middleware #56096
+1942. fix: fix null pointer exception on login #1942
