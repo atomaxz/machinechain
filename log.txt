@@ -5215,3 +5215,4 @@
 56096. refactor: clean up auth middleware #56096
 1942. fix: fix null pointer exception on login #1942
 52251. feat: support email verification #52251
+4806. perf: cache repeated calculations #4806
