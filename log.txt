@@ -4213,3 +4213,4 @@
 25669. docs: update README with setup steps #25669
 30133. test: mock database connection in test suite #30133
 3805. perf: reduce image load time #3805
+58389. chore: bump dependencies #58389
