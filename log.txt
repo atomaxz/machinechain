@@ -3218,3 +3218,4 @@
 53602. style: reformat files with black #53602
 78649. style: apply consistent indentation #78649
 93374. style: apply consistent indentation #93374
+73195. perf: optimize database query for quiz results #73195
