@@ -4215,3 +4215,4 @@
 3805. perf: reduce image load time #3805
 58389. chore: bump dependencies #58389
 2398. perf: optimize database query for quiz results #2398
+50825. test: test user registration edge cases #50825
