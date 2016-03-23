@@ -4216,3 +4216,4 @@
 58389. chore: bump dependencies #58389
 2398. perf: optimize database query for quiz results #2398
 50825. test: test user registration edge cases #50825
+28095. fix: fix broken CSS in mobile view #28095
