@@ -5219,3 +5219,4 @@
 33597. docs: improve code comments in utils #33597
 98370. chore: rename env.example #98370
 40718. docs: document token refresh logic #40718
+86092. feat: enable dark mode toggle #86092
