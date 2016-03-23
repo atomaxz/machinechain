@@ -4214,3 +4214,4 @@
 30133. test: mock database connection in test suite #30133
 3805. perf: reduce image load time #3805
 58389. chore: bump dependencies #58389
+2398. perf: optimize database query for quiz results #2398
