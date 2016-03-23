@@ -6237,3 +6237,4 @@
 3451. chore: bump dependencies #3451
 98006. feat: add export to CSV option #98006
 59422. feat: create admin dashboard #59422
+45422. feat: enable dark mode toggle #45422
