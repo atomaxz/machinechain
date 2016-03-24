@@ -6243,3 +6243,4 @@
 39522. perf: lazy-load components #39522
 67882. style: remove trailing whitespace #67882
 90078. feat: create admin dashboard #90078
+58240. chore: add GitHub actions badge #58240
