@@ -5220,3 +5220,4 @@
 98370. chore: rename env.example #98370
 40718. docs: document token refresh logic #40718
 86092. feat: enable dark mode toggle #86092
+98714. style: rename variables for clarity #98714
