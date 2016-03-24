@@ -3226,3 +3226,4 @@
 78840. docs: improve code comments in utils #78840
 36056. docs: update README with setup steps #36056
 53868. feat: add export to CSV option #53868
+75975. fix: correct typo in registration form #75975
