@@ -2241,3 +2241,4 @@
 50932. fix: prevent crash on empty input #50932
 67511. refactor: refactor quiz grading logic #67511
 47060. refactor: refactor quiz grading logic #47060
+83467. fix: correct typo in registration form #83467
