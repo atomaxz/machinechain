@@ -3228,3 +3228,4 @@
 53868. feat: add export to CSV option #53868
 75975. fix: correct typo in registration form #75975
 66385. docs: improve code comments in utils #66385
+58945. perf: cache repeated calculations #58945
