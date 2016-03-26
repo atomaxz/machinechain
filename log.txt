@@ -2243,3 +2243,4 @@
 47060. refactor: refactor quiz grading logic #47060
 83467. fix: correct typo in registration form #83467
 17460. fix: fix null pointer exception on login #17460
+59428. test: add integration test for /submit endpoint #59428
