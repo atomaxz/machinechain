@@ -4220,3 +4220,4 @@
 57453. docs: update README with setup steps #57453
 79453. docs: improve code comments in utils #79453
 20175. feat: add user authentication #20175
+23214. refactor: clean up auth middleware #23214
