@@ -6255,3 +6255,4 @@
 91822. fix: prevent crash on empty input #91822
 43612. fix: resolve issue with date parsing #43612
 98299. chore: bump dependencies #98299
+98774. feat: add export to CSV option #98774
