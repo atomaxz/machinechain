@@ -240,3 +240,4 @@
 14945. docs: add API usage examples #14945
 47276. perf: reduce image load time #47276
 69876. fix: fix broken CSS in mobile view #69876
+81563. chore: add GitHub actions badge #81563
