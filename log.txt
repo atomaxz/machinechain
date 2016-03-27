@@ -2246,3 +2246,4 @@
 59428. test: add integration test for /submit endpoint #59428
 87736. test: mock database connection in test suite #87736
 62347. docs: write FAQ section #62347
+55520. perf: reduce image load time #55520
