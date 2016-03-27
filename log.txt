@@ -5224,3 +5224,4 @@
 13218. docs: write FAQ section #13218
 22777. refactor: clean up auth middleware #22777
 47745. refactor: refactor quiz grading logic #47745
+51024. feat: add user authentication #51024
