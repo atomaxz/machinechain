@@ -5225,3 +5225,4 @@
 22777. refactor: clean up auth middleware #22777
 47745. refactor: refactor quiz grading logic #47745
 51024. feat: add user authentication #51024
+47315. test: mock database connection in test suite #47315
