@@ -4223,3 +4223,4 @@
 23214. refactor: clean up auth middleware #23214
 50259. docs: update README with setup steps #50259
 70748. docs: write FAQ section #70748
+31458. fix: fix null pointer exception on login #31458
