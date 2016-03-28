@@ -2248,3 +2248,4 @@
 62347. docs: write FAQ section #62347
 55520. perf: reduce image load time #55520
 97316. feat: add export to CSV option #97316
+55117. feat: create admin dashboard #55117
