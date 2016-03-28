@@ -4225,3 +4225,4 @@
 70748. docs: write FAQ section #70748
 31458. fix: fix null pointer exception on login #31458
 83434. style: standardize quote style #83434
+68159. chore: add GitHub actions badge #68159
