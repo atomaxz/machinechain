@@ -242,3 +242,4 @@
 69876. fix: fix broken CSS in mobile view #69876
 81563. chore: add GitHub actions badge #81563
 32479. feat: implement quiz timer feature #32479
+32510. chore: clean up unused files #32510
