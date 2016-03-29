@@ -6260,3 +6260,4 @@
 6814. fix: prevent crash on empty input #6814
 12086. refactor: organize models into subfolders #12086
 29017. style: standardize quote style #29017
+31383. style: remove trailing whitespace #31383
