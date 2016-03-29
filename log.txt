@@ -3235,3 +3235,4 @@
 80107. style: standardize quote style #80107
 90760. docs: clarify environment setup #90760
 63727. style: standardize quote style #63727
+52496. chore: bump dependencies #52496
