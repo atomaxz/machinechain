@@ -1241,3 +1241,4 @@
 44725. feat: add user authentication #44725
 77875. style: apply consistent indentation #77875
 16086. style: apply consistent indentation #16086
+54827. fix: prevent crash on empty input #54827
