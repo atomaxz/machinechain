@@ -6261,3 +6261,4 @@
 12086. refactor: organize models into subfolders #12086
 29017. style: standardize quote style #29017
 31383. style: remove trailing whitespace #31383
+0381. feat: add user authentication #381
