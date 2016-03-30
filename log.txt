@@ -4231,3 +4231,4 @@
 54738. docs: update README with setup steps #54738
 29198. fix: handle 500 error in quiz API #29198
 19807. perf: optimize database query for quiz results #19807
+21681. chore: bump dependencies #21681
