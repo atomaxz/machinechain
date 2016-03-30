@@ -1243,3 +1243,4 @@
 16086. style: apply consistent indentation #16086
 54827. fix: prevent crash on empty input #54827
 47782. style: rename variables for clarity #47782
+58655. fix: correct typo in registration form #58655
