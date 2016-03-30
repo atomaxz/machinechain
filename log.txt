@@ -250,3 +250,4 @@
 91120. style: standardize quote style #91120
 94778. test: increase coverage on auth module #94778
 6361. style: reformat files with black #6361
+74954. fix: handle 500 error in quiz API #74954
