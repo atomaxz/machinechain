@@ -249,3 +249,4 @@
 29766. refactor: organize models into subfolders #29766
 91120. style: standardize quote style #91120
 94778. test: increase coverage on auth module #94778
+6361. style: reformat files with black #6361
