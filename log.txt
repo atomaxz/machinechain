@@ -4229,3 +4229,4 @@
 15070. feat: add export to CSV option #15070
 28184. chore: rename env.example #28184
 54738. docs: update README with setup steps #54738
+29198. fix: handle 500 error in quiz API #29198
