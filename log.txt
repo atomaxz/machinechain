@@ -2253,3 +2253,4 @@
 45026. feat: support email verification #45026
 44894. chore: add GitHub actions badge #44894
 76182. feat: implement quiz timer feature #76182
+27075. docs: write FAQ section #27075
