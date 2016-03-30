@@ -6263,3 +6263,4 @@
 31383. style: remove trailing whitespace #31383
 0381. feat: add user authentication #381
 87752. docs: clarify environment setup #87752
+45262. docs: update README with setup steps #45262
