@@ -4234,3 +4234,4 @@
 21681. chore: bump dependencies #21681
 65850. fix: prevent crash on empty input #65850
 72933. docs: improve code comments in utils #72933
+76253. style: rename variables for clarity #76253
