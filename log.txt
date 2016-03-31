@@ -3239,3 +3239,4 @@
 18857. docs: document token refresh logic #18857
 1630. feat: add user authentication #1630
 88987. perf: optimize database query for quiz results #88987
+6221. fix: resolve issue with date parsing #6221
