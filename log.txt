@@ -3242,3 +3242,4 @@
 6221. fix: resolve issue with date parsing #6221
 5877. test: add integration test for /submit endpoint #5877
 37342. test: add integration test for /submit endpoint #37342
+23449. fix: fix null pointer exception on login #23449
