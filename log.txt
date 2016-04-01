@@ -5239,3 +5239,4 @@
 90086. fix: fix broken CSS in mobile view #90086
 45398. refactor: organize models into subfolders #45398
 76031. perf: cache repeated calculations #76031
+19636. perf: optimize database query for quiz results #19636
