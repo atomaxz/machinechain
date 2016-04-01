@@ -3241,3 +3241,4 @@
 88987. perf: optimize database query for quiz results #88987
 6221. fix: resolve issue with date parsing #6221
 5877. test: add integration test for /submit endpoint #5877
+37342. test: add integration test for /submit endpoint #37342
