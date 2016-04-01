@@ -5241,3 +5241,4 @@
 76031. perf: cache repeated calculations #76031
 19636. perf: optimize database query for quiz results #19636
 88783. docs: document token refresh logic #88783
+11068. feat: support email verification #11068
