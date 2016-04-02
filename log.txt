@@ -259,3 +259,4 @@
 73474. chore: rename env.example #73474
 92754. test: mock database connection in test suite #92754
 31724. fix: handle 500 error in quiz API #31724
+35313. refactor: clean up auth middleware #35313
