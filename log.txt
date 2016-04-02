@@ -1255,3 +1255,4 @@
 8381. docs: document token refresh logic #8381
 8955. test: add unit test for quiz service #8955
 76085. feat: support email verification #76085
+60140. refactor: clean up auth middleware #60140
