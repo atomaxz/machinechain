@@ -5244,3 +5244,4 @@
 11068. feat: support email verification #11068
 10095. perf: cache repeated calculations #10095
 23897. test: increase coverage on auth module #23897
+63221. fix: prevent crash on empty input #63221
