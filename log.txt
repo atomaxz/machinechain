@@ -258,3 +258,4 @@
 97486. chore: bump dependencies #97486
 73474. chore: rename env.example #73474
 92754. test: mock database connection in test suite #92754
+31724. fix: handle 500 error in quiz API #31724
