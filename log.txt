@@ -6269,3 +6269,4 @@
 27462. refactor: clean up auth middleware #27462
 62986. chore: update .gitignore #62986
 96204. test: mock database connection in test suite #96204
+91967. fix: fix broken CSS in mobile view #91967
