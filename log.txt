@@ -3245,3 +3245,4 @@
 23449. fix: fix null pointer exception on login #23449
 79442. perf: reduce image load time #79442
 56231. fix: resolve issue with date parsing #56231
+23856. fix: prevent crash on empty input #23856
