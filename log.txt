@@ -5243,3 +5243,4 @@
 88783. docs: document token refresh logic #88783
 11068. feat: support email verification #11068
 10095. perf: cache repeated calculations #10095
+23897. test: increase coverage on auth module #23897
