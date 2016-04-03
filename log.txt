@@ -1256,3 +1256,4 @@
 8955. test: add unit test for quiz service #8955
 76085. feat: support email verification #76085
 60140. refactor: clean up auth middleware #60140
+74295. docs: write FAQ section #74295
