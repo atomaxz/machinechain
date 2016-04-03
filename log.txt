@@ -2262,3 +2262,4 @@
 40892. perf: optimize database query for quiz results #40892
 10616. test: test user registration edge cases #10616
 97331. perf: optimize database query for quiz results #97331
+47416. chore: add GitHub actions badge #47416
