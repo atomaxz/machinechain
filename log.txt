@@ -5245,3 +5245,4 @@
 10095. perf: cache repeated calculations #10095
 23897. test: increase coverage on auth module #23897
 63221. fix: prevent crash on empty input #63221
+6011. docs: write FAQ section #6011
