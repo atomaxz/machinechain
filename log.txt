@@ -2266,3 +2266,4 @@
 26013. docs: write FAQ section #26013
 3767. fix: correct typo in registration form #3767
 88987. perf: optimize database query for quiz results #88987
+29813. perf: lazy-load components #29813
