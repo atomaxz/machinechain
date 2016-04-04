@@ -6275,3 +6275,4 @@
 57109. test: mock database connection in test suite #57109
 29634. feat: enable dark mode toggle #29634
 25602. docs: document token refresh logic #25602
+39737. docs: update README with setup steps #39737
