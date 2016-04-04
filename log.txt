@@ -265,3 +265,4 @@
 69939. perf: reduce image load time #69939
 38661. style: reformat files with black #38661
 74220. feat: add user authentication #74220
+58700. test: mock database connection in test suite #58700
