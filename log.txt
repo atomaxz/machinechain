@@ -5247,3 +5247,4 @@
 63221. fix: prevent crash on empty input #63221
 6011. docs: write FAQ section #6011
 71011. test: add integration test for /submit endpoint #71011
+37360. test: increase coverage on auth module #37360
