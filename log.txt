@@ -268,3 +268,4 @@
 58700. test: mock database connection in test suite #58700
 40881. docs: add API usage examples #40881
 91901. chore: clean up unused files #91901
+53992. feat: support email verification #53992
