@@ -3254,3 +3254,4 @@
 62726. test: test user registration edge cases #62726
 66318. feat: implement quiz timer feature #66318
 12833. refactor: clean up auth middleware #12833
+98365. refactor: refactor quiz grading logic #98365
