@@ -4251,3 +4251,4 @@
 8173. refactor: refactor quiz grading logic #8173
 34018. chore: clean up unused files #34018
 40105. chore: bump dependencies #40105
+36109. refactor: remove redundant code blocks #36109
