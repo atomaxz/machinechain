@@ -2269,3 +2269,4 @@
 29813. perf: lazy-load components #29813
 8007. refactor: remove redundant code blocks #8007
 93855. perf: reduce image load time #93855
+40245. docs: update README with setup steps #40245
