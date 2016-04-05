@@ -2271,3 +2271,4 @@
 93855. perf: reduce image load time #93855
 40245. docs: update README with setup steps #40245
 44369. feat: create admin dashboard #44369
+61099. style: apply consistent indentation #61099
