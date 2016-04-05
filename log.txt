@@ -270,3 +270,4 @@
 91901. chore: clean up unused files #91901
 53992. feat: support email verification #53992
 16040. test: add integration test for /submit endpoint #16040
+10223. perf: lazy-load components #10223
