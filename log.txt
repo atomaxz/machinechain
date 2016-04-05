@@ -5249,3 +5249,4 @@
 71011. test: add integration test for /submit endpoint #71011
 37360. test: increase coverage on auth module #37360
 43553. fix: prevent crash on empty input #43553
+93677. fix: correct typo in registration form #93677
