@@ -4256,3 +4256,4 @@
 18837. refactor: clean up auth middleware #18837
 23935. perf: lazy-load components #23935
 95927. perf: cache repeated calculations #95927
+27715. chore: bump dependencies #27715
