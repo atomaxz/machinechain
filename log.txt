@@ -273,3 +273,4 @@
 10223. perf: lazy-load components #10223
 29548. perf: cache repeated calculations #29548
 11151. docs: clarify environment setup #11151
+38529. chore: clean up unused files #38529
