@@ -274,3 +274,4 @@
 29548. perf: cache repeated calculations #29548
 11151. docs: clarify environment setup #11151
 38529. chore: clean up unused files #38529
+49474. fix: correct typo in registration form #49474
