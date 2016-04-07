@@ -1263,3 +1263,4 @@
 70485. docs: clarify environment setup #70485
 66415. perf: cache repeated calculations #66415
 43382. refactor: clean up auth middleware #43382
+20919. test: mock database connection in test suite #20919
