@@ -5255,3 +5255,4 @@
 42993. feat: add export to CSV option #42993
 77074. feat: enable dark mode toggle #77074
 89857. test: add unit test for quiz service #89857
+0638. feat: add user authentication #638
