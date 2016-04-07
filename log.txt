@@ -6283,3 +6283,4 @@
 30830. style: apply consistent indentation #30830
 6857. feat: enable dark mode toggle #6857
 93755. perf: reduce image load time #93755
+70541. feat: support email verification #70541
