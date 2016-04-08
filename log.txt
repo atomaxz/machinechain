@@ -3262,3 +3262,4 @@
 23863. style: rename variables for clarity #23863
 88388. fix: correct typo in registration form #88388
 87275. feat: implement quiz timer feature #87275
+16943. test: test user registration edge cases #16943
