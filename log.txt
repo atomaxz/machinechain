@@ -5267,3 +5267,4 @@
 14000. chore: clean up unused files #14000
 60952. chore: clean up unused files #60952
 83853. perf: lazy-load components #83853
+4639. chore: update .gitignore #4639
