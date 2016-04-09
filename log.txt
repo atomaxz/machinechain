@@ -3263,3 +3263,4 @@
 88388. fix: correct typo in registration form #88388
 87275. feat: implement quiz timer feature #87275
 16943. test: test user registration edge cases #16943
+13056. refactor: clean up auth middleware #13056
