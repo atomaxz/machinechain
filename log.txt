@@ -4267,3 +4267,4 @@
 73334. test: add integration test for /submit endpoint #73334
 2935. style: remove trailing whitespace #2935
 55003. style: reformat files with black #55003
+49475. feat: add user authentication #49475
