@@ -1273,3 +1273,4 @@
 50239. refactor: organize models into subfolders #50239
 86430. fix: fix null pointer exception on login #86430
 96764. perf: optimize database query for quiz results #96764
+55048. refactor: refactor quiz grading logic #55048
