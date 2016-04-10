@@ -5272,3 +5272,4 @@
 94360. docs: document token refresh logic #94360
 10970. perf: cache repeated calculations #10970
 24559. fix: prevent crash on empty input #24559
+62624. chore: add GitHub actions badge #62624
