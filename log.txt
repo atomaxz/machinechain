@@ -1272,3 +1272,4 @@
 1817. docs: clarify environment setup #1817
 50239. refactor: organize models into subfolders #50239
 86430. fix: fix null pointer exception on login #86430
+96764. perf: optimize database query for quiz results #96764
