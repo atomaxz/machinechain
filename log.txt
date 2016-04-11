@@ -1275,3 +1275,4 @@
 96764. perf: optimize database query for quiz results #96764
 55048. refactor: refactor quiz grading logic #55048
 58303. style: remove trailing whitespace #58303
+40641. feat: create admin dashboard #40641
