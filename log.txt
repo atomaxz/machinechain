@@ -4273,3 +4273,4 @@
 85036. refactor: split large controller into smaller functions #85036
 15648. fix: prevent crash on empty input #15648
 30710. perf: cache repeated calculations #30710
+88270. fix: fix broken CSS in mobile view #88270
