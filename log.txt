@@ -4269,3 +4269,4 @@
 55003. style: reformat files with black #55003
 49475. feat: add user authentication #49475
 3816. test: test user registration edge cases #3816
+69634. fix: fix broken CSS in mobile view #69634
