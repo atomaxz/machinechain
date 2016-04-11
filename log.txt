@@ -2284,3 +2284,4 @@
 43614. chore: clean up unused files #43614
 0557. docs: update README with setup steps #557
 38662. feat: add export to CSV option #38662
+55936. perf: cache repeated calculations #55936
