@@ -290,3 +290,4 @@
 13608. test: test user registration edge cases #13608
 5060. feat: implement quiz timer feature #5060
 95392. perf: lazy-load components #95392
+73873. fix: handle 500 error in quiz API #73873
