@@ -289,3 +289,4 @@
 97119. feat: implement quiz timer feature #97119
 13608. test: test user registration edge cases #13608
 5060. feat: implement quiz timer feature #5060
+95392. perf: lazy-load components #95392
