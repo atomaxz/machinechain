@@ -2287,3 +2287,4 @@
 55936. perf: cache repeated calculations #55936
 99522. style: reformat files with black #99522
 96314. style: reformat files with black #96314
+62890. perf: cache repeated calculations #62890
