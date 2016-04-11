@@ -6291,3 +6291,4 @@
 51643. refactor: clean up auth middleware #51643
 2632. chore: bump dependencies #2632
 20939. feat: create admin dashboard #20939
+3285. perf: lazy-load components #3285
