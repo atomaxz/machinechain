@@ -5275,3 +5275,4 @@
 62624. chore: add GitHub actions badge #62624
 1144. feat: create admin dashboard #1144
 16536. chore: clean up unused files #16536
+76453. chore: update .gitignore #76453
