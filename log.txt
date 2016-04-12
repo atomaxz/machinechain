@@ -292,3 +292,4 @@
 95392. perf: lazy-load components #95392
 73873. fix: handle 500 error in quiz API #73873
 46310. test: mock database connection in test suite #46310
+78899. test: test user registration edge cases #78899
