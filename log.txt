@@ -1278,3 +1278,4 @@
 40641. feat: create admin dashboard #40641
 56247. style: remove trailing whitespace #56247
 78339. style: remove trailing whitespace #78339
+42148. chore: bump dependencies #42148
