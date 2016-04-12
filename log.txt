@@ -3270,3 +3270,4 @@
 2984. refactor: refactor quiz grading logic #2984
 96983. fix: prevent crash on empty input #96983
 50174. fix: prevent crash on empty input #50174
+3913. test: add integration test for /submit endpoint #3913
