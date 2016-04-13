@@ -3277,3 +3277,4 @@
 59479. fix: prevent crash on empty input #59479
 35252. docs: clarify environment setup #35252
 80957. refactor: organize models into subfolders #80957
+37196. test: add integration test for /submit endpoint #37196
