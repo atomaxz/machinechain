@@ -3276,3 +3276,4 @@
 12281. feat: enable dark mode toggle #12281
 59479. fix: prevent crash on empty input #59479
 35252. docs: clarify environment setup #35252
+80957. refactor: organize models into subfolders #80957
