@@ -3274,3 +3274,4 @@
 35368. fix: fix null pointer exception on login #35368
 38887. docs: clarify environment setup #38887
 12281. feat: enable dark mode toggle #12281
+59479. fix: prevent crash on empty input #59479
