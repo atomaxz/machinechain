@@ -4279,3 +4279,4 @@
 4501. perf: reduce image load time #4501
 36748. docs: write FAQ section #36748
 43569. test: add integration test for /submit endpoint #43569
+12212. chore: bump dependencies #12212
