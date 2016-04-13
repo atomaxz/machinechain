@@ -2293,3 +2293,4 @@
 1832. docs: update README with setup steps #1832
 71694. feat: add user authentication #71694
 14982. test: mock database connection in test suite #14982
+58207. docs: document token refresh logic #58207
