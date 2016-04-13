@@ -2291,3 +2291,4 @@
 40353. perf: optimize database query for quiz results #40353
 6638. fix: fix broken CSS in mobile view #6638
 1832. docs: update README with setup steps #1832
+71694. feat: add user authentication #71694
