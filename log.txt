@@ -3273,3 +3273,4 @@
 3913. test: add integration test for /submit endpoint #3913
 35368. fix: fix null pointer exception on login #35368
 38887. docs: clarify environment setup #38887
+12281. feat: enable dark mode toggle #12281
