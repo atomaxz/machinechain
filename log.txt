@@ -6297,3 +6297,4 @@
 40123. refactor: organize models into subfolders #40123
 76045. style: standardize quote style #76045
 64410. feat: add user authentication #64410
+99906. refactor: organize models into subfolders #99906
