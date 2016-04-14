@@ -1282,3 +1282,4 @@
 69145. fix: handle 500 error in quiz API #69145
 15642. docs: clarify environment setup #15642
 87940. feat: support email verification #87940
+29624. style: standardize quote style #29624
