@@ -2295,3 +2295,4 @@
 14982. test: mock database connection in test suite #14982
 58207. docs: document token refresh logic #58207
 88415. test: add integration test for /submit endpoint #88415
+48093. chore: add GitHub actions badge #48093
