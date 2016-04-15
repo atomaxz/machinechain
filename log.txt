@@ -3282,3 +3282,4 @@
 52520. feat: create admin dashboard #52520
 56272. test: mock database connection in test suite #56272
 64482. fix: handle 500 error in quiz API #64482
+88078. chore: update .gitignore #88078
