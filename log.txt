@@ -5284,3 +5284,4 @@
 31300. refactor: refactor quiz grading logic #31300
 1213. refactor: split large controller into smaller functions #1213
 60059. refactor: split large controller into smaller functions #60059
+10379. test: increase coverage on auth module #10379
