@@ -295,3 +295,4 @@
 78899. test: test user registration edge cases #78899
 4318. test: increase coverage on auth module #4318
 27205. style: rename variables for clarity #27205
+95330. refactor: organize models into subfolders #95330
