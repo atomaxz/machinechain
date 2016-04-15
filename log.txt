@@ -3281,3 +3281,4 @@
 43027. chore: clean up unused files #43027
 52520. feat: create admin dashboard #52520
 56272. test: mock database connection in test suite #56272
+64482. fix: handle 500 error in quiz API #64482
