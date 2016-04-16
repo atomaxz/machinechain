@@ -4286,3 +4286,4 @@
 89639. style: apply consistent indentation #89639
 2174. style: remove trailing whitespace #2174
 9401. perf: reduce image load time #9401
+72490. fix: resolve issue with date parsing #72490
