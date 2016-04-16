@@ -4288,3 +4288,4 @@
 9401. perf: reduce image load time #9401
 72490. fix: resolve issue with date parsing #72490
 42081. test: test user registration edge cases #42081
+22541. docs: write FAQ section #22541
