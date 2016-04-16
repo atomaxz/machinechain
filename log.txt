@@ -5292,3 +5292,4 @@
 15696. test: test user registration edge cases #15696
 14165. refactor: remove redundant code blocks #14165
 43600. docs: add API usage examples #43600
+45053. refactor: refactor quiz grading logic #45053
