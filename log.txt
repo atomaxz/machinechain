@@ -2301,3 +2301,4 @@
 80857. fix: fix null pointer exception on login #80857
 30542. fix: prevent crash on empty input #30542
 59708. docs: improve code comments in utils #59708
+35519. feat: support email verification #35519
