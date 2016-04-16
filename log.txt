@@ -2299,3 +2299,4 @@
 86342. test: add integration test for /submit endpoint #86342
 16963. test: add unit test for quiz service #16963
 80857. fix: fix null pointer exception on login #80857
+30542. fix: prevent crash on empty input #30542
