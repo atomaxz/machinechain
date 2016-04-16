@@ -1290,3 +1290,4 @@
 3049. refactor: remove redundant code blocks #3049
 8444. docs: document token refresh logic #8444
 55268. test: mock database connection in test suite #55268
+61409. chore: update .gitignore #61409
