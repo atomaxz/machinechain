@@ -6305,3 +6305,4 @@
 9493. style: remove trailing whitespace #9493
 79430. style: rename variables for clarity #79430
 3617. chore: update .gitignore #3617
+57379. docs: update README with setup steps #57379
