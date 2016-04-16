@@ -3285,3 +3285,4 @@
 88078. chore: update .gitignore #88078
 76881. fix: resolve issue with date parsing #76881
 59092. docs: improve code comments in utils #59092
+37486. fix: prevent crash on empty input #37486
