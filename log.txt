@@ -1287,3 +1287,4 @@
 63769. style: reformat files with black #63769
 0017. docs: add API usage examples #17
 24714. feat: support email verification #24714
+3049. refactor: remove redundant code blocks #3049
