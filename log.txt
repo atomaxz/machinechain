@@ -6310,3 +6310,4 @@
 64062. test: add unit test for quiz service #64062
 56598. fix: handle 500 error in quiz API #56598
 45069. fix: handle 500 error in quiz API #45069
+97270. fix: prevent crash on empty input #97270
