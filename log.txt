@@ -2302,3 +2302,4 @@
 30542. fix: prevent crash on empty input #30542
 59708. docs: improve code comments in utils #59708
 35519. feat: support email verification #35519
+63098. fix: fix broken CSS in mobile view #63098
