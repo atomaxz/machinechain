@@ -6309,3 +6309,4 @@
 23788. refactor: clean up auth middleware #23788
 64062. test: add unit test for quiz service #64062
 56598. fix: handle 500 error in quiz API #56598
+45069. fix: handle 500 error in quiz API #45069
