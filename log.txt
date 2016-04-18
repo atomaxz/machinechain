@@ -2304,3 +2304,4 @@
 35519. feat: support email verification #35519
 63098. fix: fix broken CSS in mobile view #63098
 43784. perf: lazy-load components #43784
+38233. perf: cache repeated calculations #38233
