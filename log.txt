@@ -5297,3 +5297,4 @@
 38156. chore: clean up unused files #38156
 11276. fix: correct typo in registration form #11276
 59949. chore: bump dependencies #59949
+52814. docs: update README with setup steps #52814
