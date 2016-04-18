@@ -5298,3 +5298,4 @@
 11276. fix: correct typo in registration form #11276
 59949. chore: bump dependencies #59949
 52814. docs: update README with setup steps #52814
+71583. fix: correct typo in registration form #71583
