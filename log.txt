@@ -3290,3 +3290,4 @@
 48007. docs: add API usage examples #48007
 5667. refactor: clean up auth middleware #5667
 82749. feat: implement quiz timer feature #82749
+7308. refactor: clean up auth middleware #7308
