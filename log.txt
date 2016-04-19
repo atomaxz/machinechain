@@ -5301,3 +5301,4 @@
 71583. fix: correct typo in registration form #71583
 42118. style: rename variables for clarity #42118
 94267. style: remove trailing whitespace #94267
+73097. docs: document token refresh logic #73097
