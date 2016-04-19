@@ -2306,3 +2306,4 @@
 43784. perf: lazy-load components #43784
 38233. perf: cache repeated calculations #38233
 91786. docs: write FAQ section #91786
+8464. docs: document token refresh logic #8464
