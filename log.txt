@@ -302,3 +302,4 @@
 2634. test: add integration test for /submit endpoint #2634
 66924. chore: rename env.example #66924
 31491. docs: write FAQ section #31491
+55971. perf: cache repeated calculations #55971
