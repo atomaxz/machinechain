@@ -3292,3 +3292,4 @@
 82749. feat: implement quiz timer feature #82749
 7308. refactor: clean up auth middleware #7308
 20746. perf: cache repeated calculations #20746
+13183. chore: clean up unused files #13183
