@@ -1299,3 +1299,4 @@
 26483. perf: cache repeated calculations #26483
 11440. fix: correct typo in registration form #11440
 98605. style: standardize quote style #98605
+65796. perf: lazy-load components #65796
