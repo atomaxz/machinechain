@@ -3297,3 +3297,4 @@
 78185. docs: update README with setup steps #78185
 50865. chore: clean up unused files #50865
 83567. feat: add export to CSV option #83567
+58920. fix: fix broken CSS in mobile view #58920
