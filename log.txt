@@ -2309,3 +2309,4 @@
 8464. docs: document token refresh logic #8464
 0697. refactor: clean up auth middleware #697
 51239. style: reformat files with black #51239
+60445. fix: handle 500 error in quiz API #60445
