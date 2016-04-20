@@ -303,3 +303,4 @@
 66924. chore: rename env.example #66924
 31491. docs: write FAQ section #31491
 55971. perf: cache repeated calculations #55971
+62072. style: remove trailing whitespace #62072
