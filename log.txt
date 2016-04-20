@@ -304,3 +304,4 @@
 31491. docs: write FAQ section #31491
 55971. perf: cache repeated calculations #55971
 62072. style: remove trailing whitespace #62072
+62391. fix: correct typo in registration form #62391
