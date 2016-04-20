@@ -5303,3 +5303,4 @@
 94267. style: remove trailing whitespace #94267
 73097. docs: document token refresh logic #73097
 52060. chore: clean up unused files #52060
+56648. perf: optimize database query for quiz results #56648
