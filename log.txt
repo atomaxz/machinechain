@@ -1302,3 +1302,4 @@
 65796. perf: lazy-load components #65796
 11162. feat: add export to CSV option #11162
 94420. fix: fix null pointer exception on login #94420
+2124. perf: lazy-load components #2124
