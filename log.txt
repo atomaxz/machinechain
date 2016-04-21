@@ -5305,3 +5305,4 @@
 52060. chore: clean up unused files #52060
 56648. perf: optimize database query for quiz results #56648
 2895. perf: cache repeated calculations #2895
+24615. test: add integration test for /submit endpoint #24615
