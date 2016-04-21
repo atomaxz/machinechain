@@ -6314,3 +6314,4 @@
 30094. style: remove trailing whitespace #30094
 52613. style: reformat files with black #52613
 54027. test: add unit test for quiz service #54027
+98022. feat: add user authentication #98022
