@@ -2311,3 +2311,4 @@
 51239. style: reformat files with black #51239
 60445. fix: handle 500 error in quiz API #60445
 60161. fix: resolve issue with date parsing #60161
+6109. perf: reduce image load time #6109
