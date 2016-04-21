@@ -3302,3 +3302,4 @@
 93686. refactor: refactor quiz grading logic #93686
 69670. feat: implement quiz timer feature #69670
 82175. perf: cache repeated calculations #82175
+71877. chore: clean up unused files #71877
