@@ -2312,3 +2312,4 @@
 60445. fix: handle 500 error in quiz API #60445
 60161. fix: resolve issue with date parsing #60161
 6109. perf: reduce image load time #6109
+44141. chore: clean up unused files #44141
