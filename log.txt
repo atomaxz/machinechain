@@ -5313,3 +5313,4 @@
 65404. perf: cache repeated calculations #65404
 66407. docs: add API usage examples #66407
 18445. test: add unit test for quiz service #18445
+20349. feat: add export to CSV option #20349
