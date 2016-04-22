@@ -1306,3 +1306,4 @@
 11929. style: reformat files with black #11929
 38959. refactor: clean up auth middleware #38959
 49306. test: test user registration edge cases #49306
+54098. chore: rename env.example #54098
