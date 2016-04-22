@@ -4299,3 +4299,4 @@
 63187. chore: rename env.example #63187
 76449. chore: add GitHub actions badge #76449
 25527. docs: document token refresh logic #25527
+56348. style: rename variables for clarity #56348
