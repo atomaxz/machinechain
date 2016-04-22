@@ -6317,3 +6317,4 @@
 98022. feat: add user authentication #98022
 38749. fix: prevent crash on empty input #38749
 97069. perf: lazy-load components #97069
+83435. style: reformat files with black #83435
