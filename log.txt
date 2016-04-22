@@ -1307,3 +1307,4 @@
 38959. refactor: clean up auth middleware #38959
 49306. test: test user registration edge cases #49306
 54098. chore: rename env.example #54098
+86283. test: add unit test for quiz service #86283
