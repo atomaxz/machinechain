@@ -5311,3 +5311,4 @@
 48558. chore: add GitHub actions badge #48558
 57641. test: add unit test for quiz service #57641
 65404. perf: cache repeated calculations #65404
+66407. docs: add API usage examples #66407
