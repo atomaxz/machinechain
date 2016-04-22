@@ -5308,3 +5308,4 @@
 24615. test: add integration test for /submit endpoint #24615
 25217. perf: cache repeated calculations #25217
 5213. style: standardize quote style #5213
+48558. chore: add GitHub actions badge #48558
