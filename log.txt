@@ -4301,3 +4301,4 @@
 25527. docs: document token refresh logic #25527
 56348. style: rename variables for clarity #56348
 88786. perf: lazy-load components #88786
+95308. chore: add GitHub actions badge #95308
