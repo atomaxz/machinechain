@@ -1308,3 +1308,4 @@
 49306. test: test user registration edge cases #49306
 54098. chore: rename env.example #54098
 86283. test: add unit test for quiz service #86283
+31341. chore: add GitHub actions badge #31341
