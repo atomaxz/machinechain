@@ -308,3 +308,4 @@
 79845. test: add unit test for quiz service #79845
 21365. chore: rename env.example #21365
 27225. fix: resolve issue with date parsing #27225
+40383. fix: correct typo in registration form #40383
