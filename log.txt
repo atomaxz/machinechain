@@ -1312,3 +1312,4 @@
 38876. test: test user registration edge cases #38876
 26019. chore: add GitHub actions badge #26019
 19838. test: add unit test for quiz service #19838
+51672. refactor: remove redundant code blocks #51672
