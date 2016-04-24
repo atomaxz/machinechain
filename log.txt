@@ -4304,3 +4304,4 @@
 95308. chore: add GitHub actions badge #95308
 23496. style: standardize quote style #23496
 58767. feat: enable dark mode toggle #58767
+90825. style: reformat files with black #90825
