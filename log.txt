@@ -2317,3 +2317,4 @@
 95843. style: reformat files with black #95843
 18971. chore: update .gitignore #18971
 22164. fix: fix broken CSS in mobile view #22164
+62282. fix: handle 500 error in quiz API #62282
