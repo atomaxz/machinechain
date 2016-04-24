@@ -6321,3 +6321,4 @@
 9371. chore: rename env.example #9371
 32015. perf: optimize database query for quiz results #32015
 38430. docs: add API usage examples #38430
+73607. refactor: clean up auth middleware #73607
