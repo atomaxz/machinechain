@@ -6326,3 +6326,4 @@
 10683. perf: lazy-load components #10683
 29404. test: mock database connection in test suite #29404
 3478. chore: bump dependencies #3478
+59253. chore: add GitHub actions badge #59253
