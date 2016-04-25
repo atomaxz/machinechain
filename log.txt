@@ -5323,3 +5323,4 @@
 82565. feat: enable dark mode toggle #82565
 77928. feat: add user authentication #77928
 64445. chore: add GitHub actions badge #64445
+1460. refactor: clean up auth middleware #1460
