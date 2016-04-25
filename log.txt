@@ -6324,3 +6324,4 @@
 73607. refactor: clean up auth middleware #73607
 80871. fix: prevent crash on empty input #80871
 10683. perf: lazy-load components #10683
+29404. test: mock database connection in test suite #29404
