@@ -5324,3 +5324,4 @@
 77928. feat: add user authentication #77928
 64445. chore: add GitHub actions badge #64445
 1460. refactor: clean up auth middleware #1460
+45879. style: apply consistent indentation #45879
