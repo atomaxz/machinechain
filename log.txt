@@ -3312,3 +3312,4 @@
 83314. style: standardize quote style #83314
 99357. style: apply consistent indentation #99357
 44203. fix: resolve issue with date parsing #44203
+9262. fix: fix null pointer exception on login #9262
