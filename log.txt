@@ -2325,3 +2325,4 @@
 92918. docs: document token refresh logic #92918
 72513. refactor: remove redundant code blocks #72513
 23781. chore: update .gitignore #23781
+84631. test: test user registration edge cases #84631
