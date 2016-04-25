@@ -1314,3 +1314,4 @@
 19838. test: add unit test for quiz service #19838
 51672. refactor: remove redundant code blocks #51672
 50044. fix: fix null pointer exception on login #50044
+68850. fix: fix null pointer exception on login #68850
