@@ -4308,3 +4308,4 @@
 89793. docs: document token refresh logic #89793
 89232. fix: correct typo in registration form #89232
 83860. chore: clean up unused files #83860
+28500. docs: update README with setup steps #28500
