@@ -1318,3 +1318,4 @@
 54340. test: test user registration edge cases #54340
 41575. test: increase coverage on auth module #41575
 11478. chore: update .gitignore #11478
+29002. feat: support email verification #29002
