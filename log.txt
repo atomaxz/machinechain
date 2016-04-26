@@ -318,3 +318,4 @@
 54836. style: apply consistent indentation #54836
 39809. docs: clarify environment setup #39809
 84934. feat: add export to CSV option #84934
+19071. chore: add GitHub actions badge #19071
