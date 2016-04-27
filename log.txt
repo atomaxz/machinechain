@@ -5331,3 +5331,4 @@
 10457. docs: clarify environment setup #10457
 4752. style: reformat files with black #4752
 61105. chore: clean up unused files #61105
+35053. fix: correct typo in registration form #35053
