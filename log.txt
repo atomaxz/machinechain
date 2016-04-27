@@ -1320,3 +1320,4 @@
 11478. chore: update .gitignore #11478
 29002. feat: support email verification #29002
 54426. test: add unit test for quiz service #54426
+96612. test: increase coverage on auth module #96612
