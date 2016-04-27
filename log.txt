@@ -2328,3 +2328,4 @@
 84631. test: test user registration edge cases #84631
 19347. chore: clean up unused files #19347
 18862. style: reformat files with black #18862
+58385. perf: lazy-load components #58385
