@@ -6328,3 +6328,4 @@
 3478. chore: bump dependencies #3478
 59253. chore: add GitHub actions badge #59253
 96724. chore: add GitHub actions badge #96724
+36464. fix: prevent crash on empty input #36464
