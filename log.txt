@@ -5335,3 +5335,4 @@
 23682. style: rename variables for clarity #23682
 8660. refactor: clean up auth middleware #8660
 67115. chore: rename env.example #67115
+10753. refactor: organize models into subfolders #10753
