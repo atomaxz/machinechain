@@ -5337,3 +5337,4 @@
 67115. chore: rename env.example #67115
 10753. refactor: organize models into subfolders #10753
 89322. refactor: remove redundant code blocks #89322
+15484. refactor: clean up auth middleware #15484
