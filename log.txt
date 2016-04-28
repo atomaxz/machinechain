@@ -6330,3 +6330,4 @@
 96724. chore: add GitHub actions badge #96724
 36464. fix: prevent crash on empty input #36464
 61463. chore: update .gitignore #61463
+17291. feat: support email verification #17291
