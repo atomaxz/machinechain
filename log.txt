@@ -2338,3 +2338,4 @@
 38943. chore: update .gitignore #38943
 83424. test: test user registration edge cases #83424
 54877. docs: document token refresh logic #54877
+27836. fix: fix broken CSS in mobile view #27836
