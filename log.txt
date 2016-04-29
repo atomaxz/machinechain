@@ -327,3 +327,4 @@
 4342. perf: reduce image load time #4342
 56393. perf: lazy-load components #56393
 82712. test: add unit test for quiz service #82712
+56712. fix: prevent crash on empty input #56712
