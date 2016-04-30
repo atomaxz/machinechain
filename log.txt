@@ -3323,3 +3323,4 @@
 4036. test: test user registration edge cases #4036
 53465. refactor: refactor quiz grading logic #53465
 28651. feat: support email verification #28651
+59850. feat: support email verification #59850
