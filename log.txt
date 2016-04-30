@@ -4317,3 +4317,4 @@
 79643. perf: reduce image load time #79643
 88166. chore: update .gitignore #88166
 79491. feat: support email verification #79491
+40392. feat: add user authentication #40392
