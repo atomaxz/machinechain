@@ -5342,3 +5342,4 @@
 50491. chore: rename env.example #50491
 78435. chore: clean up unused files #78435
 56885. chore: clean up unused files #56885
+90035. fix: prevent crash on empty input #90035
