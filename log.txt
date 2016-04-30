@@ -2341,3 +2341,4 @@
 27836. fix: fix broken CSS in mobile view #27836
 43369. feat: implement quiz timer feature #43369
 86923. perf: lazy-load components #86923
+47146. chore: add GitHub actions badge #47146
