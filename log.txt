@@ -4316,3 +4316,4 @@
 78899. test: test user registration edge cases #78899
 79643. perf: reduce image load time #79643
 88166. chore: update .gitignore #88166
+79491. feat: support email verification #79491
