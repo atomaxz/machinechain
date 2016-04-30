@@ -330,3 +330,4 @@
 56712. fix: prevent crash on empty input #56712
 66051. fix: correct typo in registration form #66051
 57002. docs: improve code comments in utils #57002
+23125. test: test user registration edge cases #23125
