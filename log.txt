@@ -3324,3 +3324,4 @@
 53465. refactor: refactor quiz grading logic #53465
 28651. feat: support email verification #28651
 59850. feat: support email verification #59850
+49046. fix: prevent crash on empty input #49046
