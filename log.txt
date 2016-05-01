@@ -1339,3 +1339,4 @@
 3257. fix: resolve issue with date parsing #3257
 17012. fix: handle 500 error in quiz API #17012
 70469. docs: document token refresh logic #70469
+39440. perf: reduce image load time #39440
