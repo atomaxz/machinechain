@@ -3326,3 +3326,4 @@
 59850. feat: support email verification #59850
 49046. fix: prevent crash on empty input #49046
 15342. fix: fix broken CSS in mobile view #15342
+15106. docs: clarify environment setup #15106
