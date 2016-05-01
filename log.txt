@@ -1341,3 +1341,4 @@
 70469. docs: document token refresh logic #70469
 39440. perf: reduce image load time #39440
 37520. test: add integration test for /submit endpoint #37520
+61568. chore: add GitHub actions badge #61568
