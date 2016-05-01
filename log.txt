@@ -335,3 +335,4 @@
 45788. fix: fix null pointer exception on login #45788
 69835. refactor: remove redundant code blocks #69835
 4423. refactor: remove redundant code blocks #4423
+60275. feat: create admin dashboard #60275
