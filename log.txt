@@ -5345,3 +5345,4 @@
 90035. fix: prevent crash on empty input #90035
 91084. feat: support email verification #91084
 75981. docs: write FAQ section #75981
+38296. style: reformat files with black #38296
