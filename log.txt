@@ -4318,3 +4318,4 @@
 88166. chore: update .gitignore #88166
 79491. feat: support email verification #79491
 40392. feat: add user authentication #40392
+79544. perf: lazy-load components #79544
