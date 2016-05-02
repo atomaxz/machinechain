@@ -2346,3 +2346,4 @@
 38357. test: test user registration edge cases #38357
 86936. fix: handle 500 error in quiz API #86936
 12591. docs: update README with setup steps #12591
+26347. refactor: split large controller into smaller functions #26347
