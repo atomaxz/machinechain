@@ -4319,3 +4319,4 @@
 79491. feat: support email verification #79491
 40392. feat: add user authentication #40392
 79544. perf: lazy-load components #79544
+14081. perf: reduce image load time #14081
