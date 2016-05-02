@@ -6342,3 +6342,4 @@
 43817. style: standardize quote style #43817
 85113. test: test user registration edge cases #85113
 95165. chore: add GitHub actions badge #95165
+94626. chore: rename env.example #94626
