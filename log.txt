@@ -2345,3 +2345,4 @@
 19146. style: reformat files with black #19146
 38357. test: test user registration edge cases #38357
 86936. fix: handle 500 error in quiz API #86936
+12591. docs: update README with setup steps #12591
