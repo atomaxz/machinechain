@@ -2343,3 +2343,4 @@
 86923. perf: lazy-load components #86923
 47146. chore: add GitHub actions badge #47146
 19146. style: reformat files with black #19146
+38357. test: test user registration edge cases #38357
