@@ -2347,3 +2347,4 @@
 86936. fix: handle 500 error in quiz API #86936
 12591. docs: update README with setup steps #12591
 26347. refactor: split large controller into smaller functions #26347
+33192. perf: optimize database query for quiz results #33192
