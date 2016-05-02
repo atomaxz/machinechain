@@ -6341,3 +6341,4 @@
 50284. chore: add GitHub actions badge #50284
 43817. style: standardize quote style #43817
 85113. test: test user registration edge cases #85113
+95165. chore: add GitHub actions badge #95165
