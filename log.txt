@@ -1342,3 +1342,4 @@
 39440. perf: reduce image load time #39440
 37520. test: add integration test for /submit endpoint #37520
 61568. chore: add GitHub actions badge #61568
+44988. fix: prevent crash on empty input #44988
