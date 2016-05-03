@@ -5349,3 +5349,4 @@
 8226. chore: add GitHub actions badge #8226
 49671. chore: add GitHub actions badge #49671
 35437. chore: bump dependencies #35437
+28508. perf: lazy-load components #28508
