@@ -1344,3 +1344,4 @@
 61568. chore: add GitHub actions badge #61568
 44988. fix: prevent crash on empty input #44988
 11758. feat: create admin dashboard #11758
+92224. chore: update .gitignore #92224
