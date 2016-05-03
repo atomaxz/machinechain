@@ -6346,3 +6346,4 @@
 94979. test: increase coverage on auth module #94979
 69687. perf: lazy-load components #69687
 73401. chore: add GitHub actions badge #73401
+94145. test: add integration test for /submit endpoint #94145
