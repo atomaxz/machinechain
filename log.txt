@@ -341,3 +341,4 @@
 65495. chore: rename env.example #65495
 64830. style: reformat files with black #64830
 97009. refactor: split large controller into smaller functions #97009
+91265. test: increase coverage on auth module #91265
