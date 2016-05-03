@@ -1346,3 +1346,4 @@
 11758. feat: create admin dashboard #11758
 92224. chore: update .gitignore #92224
 0975. perf: cache repeated calculations #975
+76739. perf: optimize database query for quiz results #76739
