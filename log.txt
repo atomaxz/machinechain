@@ -6344,3 +6344,4 @@
 95165. chore: add GitHub actions badge #95165
 94626. chore: rename env.example #94626
 94979. test: increase coverage on auth module #94979
+69687. perf: lazy-load components #69687
