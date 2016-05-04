@@ -3336,3 +3336,4 @@
 46891. feat: add export to CSV option #46891
 39702. fix: resolve issue with date parsing #39702
 69775. feat: enable dark mode toggle #69775
+22090. fix: fix null pointer exception on login #22090
