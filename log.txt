@@ -5353,3 +5353,4 @@
 67686. style: apply consistent indentation #67686
 64229. style: apply consistent indentation #64229
 74140. perf: reduce image load time #74140
+6615. test: add integration test for /submit endpoint #6615
