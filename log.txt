@@ -2357,3 +2357,4 @@
 18707. style: remove trailing whitespace #18707
 77797. fix: prevent crash on empty input #77797
 75581. chore: add GitHub actions badge #75581
+89672. refactor: clean up auth middleware #89672
