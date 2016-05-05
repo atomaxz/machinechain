@@ -6350,3 +6350,4 @@
 46072. perf: cache repeated calculations #46072
 25167. docs: improve code comments in utils #25167
 66379. test: add unit test for quiz service #66379
+24188. fix: fix null pointer exception on login #24188
