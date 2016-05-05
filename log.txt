@@ -347,3 +347,4 @@
 1749. fix: prevent crash on empty input #1749
 12211. refactor: clean up auth middleware #12211
 26460. docs: update README with setup steps #26460
+3671. chore: bump dependencies #3671
