@@ -4325,3 +4325,4 @@
 65155. style: remove trailing whitespace #65155
 24728. test: mock database connection in test suite #24728
 21766. feat: enable dark mode toggle #21766
+46759. docs: clarify environment setup #46759
