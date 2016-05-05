@@ -349,3 +349,4 @@
 26460. docs: update README with setup steps #26460
 3671. chore: bump dependencies #3671
 23991. perf: lazy-load components #23991
+17483. perf: lazy-load components #17483
