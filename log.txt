@@ -1353,3 +1353,4 @@
 13563. chore: bump dependencies #13563
 54848. style: apply consistent indentation #54848
 18058. perf: reduce image load time #18058
+80792. chore: add GitHub actions badge #80792
