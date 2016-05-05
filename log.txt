@@ -1351,3 +1351,4 @@
 59605. test: increase coverage on auth module #59605
 37075. docs: clarify environment setup #37075
 13563. chore: bump dependencies #13563
+54848. style: apply consistent indentation #54848
