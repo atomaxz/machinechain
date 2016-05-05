@@ -6351,3 +6351,4 @@
 25167. docs: improve code comments in utils #25167
 66379. test: add unit test for quiz service #66379
 24188. fix: fix null pointer exception on login #24188
+75719. fix: resolve issue with date parsing #75719
