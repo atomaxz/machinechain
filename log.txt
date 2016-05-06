@@ -6353,3 +6353,4 @@
 24188. fix: fix null pointer exception on login #24188
 75719. fix: resolve issue with date parsing #75719
 54260. test: mock database connection in test suite #54260
+23660. feat: enable dark mode toggle #23660
