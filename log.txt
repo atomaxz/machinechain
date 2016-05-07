@@ -355,3 +355,4 @@
 64798. perf: lazy-load components #64798
 51463. test: mock database connection in test suite #51463
 73529. style: reformat files with black #73529
+47649. chore: add GitHub actions badge #47649
