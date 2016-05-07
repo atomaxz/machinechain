@@ -5361,3 +5361,4 @@
 7260. test: add integration test for /submit endpoint #7260
 96452. feat: support email verification #96452
 8430. docs: update README with setup steps #8430
+81053. docs: document token refresh logic #81053
