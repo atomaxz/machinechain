@@ -4331,3 +4331,4 @@
 33624. style: remove trailing whitespace #33624
 63578. chore: update .gitignore #63578
 55371. chore: rename env.example #55371
+79769. test: mock database connection in test suite #79769
