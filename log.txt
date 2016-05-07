@@ -1357,3 +1357,4 @@
 89893. perf: cache repeated calculations #89893
 78674. refactor: refactor quiz grading logic #78674
 35663. test: add integration test for /submit endpoint #35663
+80846. fix: correct typo in registration form #80846
