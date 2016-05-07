@@ -6356,3 +6356,4 @@
 23660. feat: enable dark mode toggle #23660
 40561. refactor: refactor quiz grading logic #40561
 55144. test: test user registration edge cases #55144
+58325. feat: create admin dashboard #58325
