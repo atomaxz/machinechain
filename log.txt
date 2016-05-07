@@ -1356,3 +1356,4 @@
 80792. chore: add GitHub actions badge #80792
 89893. perf: cache repeated calculations #89893
 78674. refactor: refactor quiz grading logic #78674
+35663. test: add integration test for /submit endpoint #35663
