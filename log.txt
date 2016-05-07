@@ -5360,3 +5360,4 @@
 95347. feat: add user authentication #95347
 7260. test: add integration test for /submit endpoint #7260
 96452. feat: support email verification #96452
+8430. docs: update README with setup steps #8430
