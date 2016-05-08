@@ -1364,3 +1364,4 @@
 49848. fix: fix null pointer exception on login #49848
 75597. fix: fix broken CSS in mobile view #75597
 65485. chore: rename env.example #65485
+20794. perf: reduce image load time #20794
