@@ -3347,3 +3347,4 @@
 59490. fix: fix broken CSS in mobile view #59490
 9265. perf: cache repeated calculations #9265
 67896. fix: fix null pointer exception on login #67896
+12918. feat: support email verification #12918
