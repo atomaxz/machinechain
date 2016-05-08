@@ -5364,3 +5364,4 @@
 81053. docs: document token refresh logic #81053
 36891. style: apply consistent indentation #36891
 40925. fix: fix null pointer exception on login #40925
+65645. test: increase coverage on auth module #65645
