@@ -1362,3 +1362,4 @@
 54177. perf: cache repeated calculations #54177
 65771. docs: improve code comments in utils #65771
 49848. fix: fix null pointer exception on login #49848
+75597. fix: fix broken CSS in mobile view #75597
