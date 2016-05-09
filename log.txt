@@ -3349,3 +3349,4 @@
 67896. fix: fix null pointer exception on login #67896
 12918. feat: support email verification #12918
 47414. docs: write FAQ section #47414
+64193. docs: clarify environment setup #64193
