@@ -2368,3 +2368,4 @@
 14286. fix: correct typo in registration form #14286
 5957. chore: clean up unused files #5957
 8753. test: mock database connection in test suite #8753
+12621. test: test user registration edge cases #12621
