@@ -1367,3 +1367,4 @@
 20794. perf: reduce image load time #20794
 75493. feat: create admin dashboard #75493
 93232. docs: add API usage examples #93232
+70449. chore: add GitHub actions badge #70449
