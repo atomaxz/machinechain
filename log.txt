@@ -5367,3 +5367,4 @@
 65645. test: increase coverage on auth module #65645
 43804. chore: update .gitignore #43804
 94541. test: test user registration edge cases #94541
+33237. feat: enable dark mode toggle #33237
