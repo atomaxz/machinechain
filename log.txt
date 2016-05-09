@@ -5365,3 +5365,4 @@
 36891. style: apply consistent indentation #36891
 40925. fix: fix null pointer exception on login #40925
 65645. test: increase coverage on auth module #65645
+43804. chore: update .gitignore #43804
