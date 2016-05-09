@@ -2367,3 +2367,4 @@
 78918. docs: add API usage examples #78918
 14286. fix: correct typo in registration form #14286
 5957. chore: clean up unused files #5957
+8753. test: mock database connection in test suite #8753
