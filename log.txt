@@ -2378,3 +2378,4 @@
 86214. test: test user registration edge cases #86214
 48477. refactor: split large controller into smaller functions #48477
 16932. fix: fix broken CSS in mobile view #16932
+60098. perf: reduce image load time #60098
