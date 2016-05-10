@@ -366,3 +366,4 @@
 66087. refactor: organize models into subfolders #66087
 78587. feat: create admin dashboard #78587
 3871. fix: correct typo in registration form #3871
+18243. chore: rename env.example #18243
