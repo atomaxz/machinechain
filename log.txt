@@ -363,3 +363,4 @@
 46836. refactor: organize models into subfolders #46836
 92151. chore: update .gitignore #92151
 72360. refactor: clean up auth middleware #72360
+66087. refactor: organize models into subfolders #66087
