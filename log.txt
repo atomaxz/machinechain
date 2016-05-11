@@ -3355,3 +3355,4 @@
 78854. docs: clarify environment setup #78854
 66437. chore: clean up unused files #66437
 93613. chore: clean up unused files #93613
+44294. fix: prevent crash on empty input #44294
