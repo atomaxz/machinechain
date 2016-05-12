@@ -6367,3 +6367,4 @@
 7819. fix: prevent crash on empty input #7819
 15154. docs: write FAQ section #15154
 78498. fix: fix null pointer exception on login #78498
+87803. docs: write FAQ section #87803
