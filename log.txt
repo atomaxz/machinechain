@@ -4343,3 +4343,4 @@
 28963. test: add integration test for /submit endpoint #28963
 11826. fix: fix broken CSS in mobile view #11826
 72440. fix: prevent crash on empty input #72440
+4340. perf: reduce image load time #4340
