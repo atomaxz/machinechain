@@ -4342,3 +4342,4 @@
 9225. chore: clean up unused files #9225
 28963. test: add integration test for /submit endpoint #28963
 11826. fix: fix broken CSS in mobile view #11826
+72440. fix: prevent crash on empty input #72440
