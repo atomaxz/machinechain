@@ -372,3 +372,4 @@
 82783. perf: lazy-load components #82783
 79736. perf: cache repeated calculations #79736
 2264. feat: enable dark mode toggle #2264
+79281. fix: correct typo in registration form #79281
