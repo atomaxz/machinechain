@@ -5375,3 +5375,4 @@
 40048. chore: update .gitignore #40048
 83199. style: apply consistent indentation #83199
 28862. style: apply consistent indentation #28862
+5289. chore: update .gitignore #5289
