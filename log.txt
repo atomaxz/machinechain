@@ -5373,3 +5373,4 @@
 77741. perf: lazy-load components #77741
 11407. style: remove trailing whitespace #11407
 40048. chore: update .gitignore #40048
+83199. style: apply consistent indentation #83199
