@@ -6368,3 +6368,4 @@
 15154. docs: write FAQ section #15154
 78498. fix: fix null pointer exception on login #78498
 87803. docs: write FAQ section #87803
+55375. perf: optimize database query for quiz results #55375
