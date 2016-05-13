@@ -5377,3 +5377,4 @@
 28862. style: apply consistent indentation #28862
 5289. chore: update .gitignore #5289
 2652. test: mock database connection in test suite #2652
+84726. perf: lazy-load components #84726
