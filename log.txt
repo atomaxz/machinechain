@@ -375,3 +375,4 @@
 79281. fix: correct typo in registration form #79281
 15636. fix: handle 500 error in quiz API #15636
 60784. fix: handle 500 error in quiz API #60784
+68915. style: standardize quote style #68915
