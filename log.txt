@@ -2385,3 +2385,4 @@
 33633. fix: fix broken CSS in mobile view #33633
 69371. refactor: organize models into subfolders #69371
 24922. feat: support email verification #24922
+55082. feat: support email verification #55082
