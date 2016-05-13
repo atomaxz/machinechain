@@ -373,3 +373,4 @@
 79736. perf: cache repeated calculations #79736
 2264. feat: enable dark mode toggle #2264
 79281. fix: correct typo in registration form #79281
+15636. fix: handle 500 error in quiz API #15636
