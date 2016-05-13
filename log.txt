@@ -3361,3 +3361,4 @@
 32158. test: add unit test for quiz service #32158
 9443. perf: lazy-load components #9443
 10000. chore: rename env.example #10000
+37118. fix: handle 500 error in quiz API #37118
