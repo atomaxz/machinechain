@@ -3362,3 +3362,4 @@
 9443. perf: lazy-load components #9443
 10000. chore: rename env.example #10000
 37118. fix: handle 500 error in quiz API #37118
+14715. feat: enable dark mode toggle #14715
