@@ -1376,3 +1376,4 @@
 58876. docs: improve code comments in utils #58876
 54777. chore: clean up unused files #54777
 71131. perf: lazy-load components #71131
+21183. fix: handle 500 error in quiz API #21183
