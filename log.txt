@@ -3366,3 +3366,4 @@
 98879. perf: cache repeated calculations #98879
 72457. docs: update README with setup steps #72457
 50660. style: apply consistent indentation #50660
+10253. perf: lazy-load components #10253
