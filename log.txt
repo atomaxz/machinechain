@@ -2388,3 +2388,4 @@
 55082. feat: support email verification #55082
 65203. fix: prevent crash on empty input #65203
 81557. style: apply consistent indentation #81557
+83464. feat: add export to CSV option #83464
