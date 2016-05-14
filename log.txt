@@ -377,3 +377,4 @@
 60784. fix: handle 500 error in quiz API #60784
 68915. style: standardize quote style #68915
 18504. chore: update .gitignore #18504
+53920. perf: optimize database query for quiz results #53920
