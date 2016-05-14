@@ -379,3 +379,4 @@
 18504. chore: update .gitignore #18504
 53920. perf: optimize database query for quiz results #53920
 30455. style: reformat files with black #30455
+6666. chore: update .gitignore #6666
