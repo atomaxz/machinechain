@@ -384,3 +384,4 @@
 41814. docs: write FAQ section #41814
 93867. style: remove trailing whitespace #93867
 93230. style: rename variables for clarity #93230
+3444. perf: optimize database query for quiz results #3444
