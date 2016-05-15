@@ -381,3 +381,4 @@
 30455. style: reformat files with black #30455
 6666. chore: update .gitignore #6666
 37017. test: add integration test for /submit endpoint #37017
+41814. docs: write FAQ section #41814
