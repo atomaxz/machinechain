@@ -6375,3 +6375,4 @@
 21006. perf: optimize database query for quiz results #21006
 54841. docs: write FAQ section #54841
 75075. test: increase coverage on auth module #75075
+35602. fix: correct typo in registration form #35602
