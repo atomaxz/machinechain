@@ -4348,3 +4348,4 @@
 57998. docs: write FAQ section #57998
 37056. chore: add GitHub actions badge #37056
 64564. chore: bump dependencies #64564
+63786. style: remove trailing whitespace #63786
