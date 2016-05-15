@@ -2391,3 +2391,4 @@
 83464. feat: add export to CSV option #83464
 87012. style: apply consistent indentation #87012
 64011. style: standardize quote style #64011
+19333. style: reformat files with black #19333
