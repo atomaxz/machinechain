@@ -5379,3 +5379,4 @@
 2652. test: mock database connection in test suite #2652
 84726. perf: lazy-load components #84726
 31830. docs: document token refresh logic #31830
+18835. style: remove trailing whitespace #18835
