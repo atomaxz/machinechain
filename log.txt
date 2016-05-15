@@ -1382,3 +1382,4 @@
 49319. style: apply consistent indentation #49319
 57413. fix: resolve issue with date parsing #57413
 56451. feat: support email verification #56451
+36122. refactor: clean up auth middleware #36122
