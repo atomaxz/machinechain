@@ -6379,3 +6379,4 @@
 24318. feat: support email verification #24318
 43465. docs: add API usage examples #43465
 88812. perf: reduce image load time #88812
+70594. chore: update .gitignore #70594
