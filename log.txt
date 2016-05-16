@@ -5384,3 +5384,4 @@
 14391. fix: handle 500 error in quiz API #14391
 81597. test: increase coverage on auth module #81597
 73256. style: remove trailing whitespace #73256
+32934. fix: fix null pointer exception on login #32934
