@@ -5386,3 +5386,4 @@
 73256. style: remove trailing whitespace #73256
 32934. fix: fix null pointer exception on login #32934
 1015. style: rename variables for clarity #1015
+51136. fix: handle 500 error in quiz API #51136
