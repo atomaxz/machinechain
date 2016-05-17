@@ -390,3 +390,4 @@
 42973. refactor: organize models into subfolders #42973
 3780. perf: optimize database query for quiz results #3780
 11501. chore: rename env.example #11501
+58406. style: remove trailing whitespace #58406
