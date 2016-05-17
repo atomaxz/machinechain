@@ -1387,3 +1387,4 @@
 24545. refactor: refactor quiz grading logic #24545
 80068. test: add unit test for quiz service #80068
 31254. perf: cache repeated calculations #31254
+22461. perf: optimize database query for quiz results #22461
