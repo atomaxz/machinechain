@@ -5389,3 +5389,4 @@
 51136. fix: handle 500 error in quiz API #51136
 81757. feat: support email verification #81757
 46128. fix: correct typo in registration form #46128
+48984. perf: lazy-load components #48984
