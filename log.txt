@@ -392,3 +392,4 @@
 11501. chore: rename env.example #11501
 58406. style: remove trailing whitespace #58406
 33224. fix: prevent crash on empty input #33224
+84168. fix: correct typo in registration form #84168
