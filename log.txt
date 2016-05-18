@@ -6383,3 +6383,4 @@
 18357. test: increase coverage on auth module #18357
 64123. test: increase coverage on auth module #64123
 91200. chore: rename env.example #91200
+11959. style: remove trailing whitespace #11959
