@@ -4356,3 +4356,4 @@
 24820. chore: add GitHub actions badge #24820
 6044. docs: add API usage examples #6044
 98460. test: add unit test for quiz service #98460
+83476. perf: lazy-load components #83476
