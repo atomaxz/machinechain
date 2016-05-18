@@ -396,3 +396,4 @@
 38958. chore: update .gitignore #38958
 16828. perf: reduce image load time #16828
 92892. chore: bump dependencies #92892
+94741. style: remove trailing whitespace #94741
