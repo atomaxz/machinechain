@@ -397,3 +397,4 @@
 16828. perf: reduce image load time #16828
 92892. chore: bump dependencies #92892
 94741. style: remove trailing whitespace #94741
+15246. docs: document token refresh logic #15246
