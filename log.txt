@@ -4359,3 +4359,4 @@
 83476. perf: lazy-load components #83476
 30051. test: test user registration edge cases #30051
 9097. docs: add API usage examples #9097
+9768. perf: reduce image load time #9768
