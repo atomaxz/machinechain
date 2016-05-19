@@ -6386,3 +6386,4 @@
 11959. style: remove trailing whitespace #11959
 49289. test: add integration test for /submit endpoint #49289
 0077. test: add unit test for quiz service #77
+25234. perf: optimize database query for quiz results #25234
