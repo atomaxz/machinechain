@@ -2405,3 +2405,4 @@
 87160. fix: prevent crash on empty input #87160
 4309. docs: add API usage examples #4309
 36744. style: reformat files with black #36744
+25398. style: rename variables for clarity #25398
