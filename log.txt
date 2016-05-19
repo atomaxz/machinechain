@@ -1392,3 +1392,4 @@
 87946. docs: write FAQ section #87946
 6996. style: remove trailing whitespace #6996
 69548. chore: add GitHub actions badge #69548
+26291. style: apply consistent indentation #26291
