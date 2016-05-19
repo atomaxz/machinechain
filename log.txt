@@ -4360,3 +4360,4 @@
 30051. test: test user registration edge cases #30051
 9097. docs: add API usage examples #9097
 9768. perf: reduce image load time #9768
+99091. docs: update README with setup steps #99091
