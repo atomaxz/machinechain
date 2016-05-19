@@ -1394,3 +1394,4 @@
 69548. chore: add GitHub actions badge #69548
 26291. style: apply consistent indentation #26291
 61396. refactor: organize models into subfolders #61396
+71365. test: add integration test for /submit endpoint #71365
