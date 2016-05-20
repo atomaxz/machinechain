@@ -4362,3 +4362,4 @@
 9768. perf: reduce image load time #9768
 99091. docs: update README with setup steps #99091
 6797. style: standardize quote style #6797
+59411. chore: bump dependencies #59411
