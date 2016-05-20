@@ -1401,3 +1401,4 @@
 5803. refactor: organize models into subfolders #5803
 1823. style: remove trailing whitespace #1823
 26652. feat: implement quiz timer feature #26652
+36756. feat: support email verification #36756
