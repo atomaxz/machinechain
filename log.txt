@@ -1403,3 +1403,4 @@
 26652. feat: implement quiz timer feature #26652
 36756. feat: support email verification #36756
 70640. refactor: clean up auth middleware #70640
+53830. fix: handle 500 error in quiz API #53830
