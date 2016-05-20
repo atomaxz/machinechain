@@ -6389,3 +6389,4 @@
 25234. perf: optimize database query for quiz results #25234
 27643. refactor: refactor quiz grading logic #27643
 94341. test: test user registration edge cases #94341
+85725. fix: fix broken CSS in mobile view #85725
