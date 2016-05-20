@@ -4365,3 +4365,4 @@
 59411. chore: bump dependencies #59411
 42123. refactor: clean up auth middleware #42123
 58653. fix: prevent crash on empty input #58653
+40818. docs: document token refresh logic #40818
