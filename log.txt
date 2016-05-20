@@ -4363,3 +4363,4 @@
 99091. docs: update README with setup steps #99091
 6797. style: standardize quote style #6797
 59411. chore: bump dependencies #59411
+42123. refactor: clean up auth middleware #42123
