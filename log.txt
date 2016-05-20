@@ -4366,3 +4366,4 @@
 42123. refactor: clean up auth middleware #42123
 58653. fix: prevent crash on empty input #58653
 40818. docs: document token refresh logic #40818
+74442. test: mock database connection in test suite #74442
