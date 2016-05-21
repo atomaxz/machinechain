@@ -402,3 +402,4 @@
 17618. test: add unit test for quiz service #17618
 61234. chore: clean up unused files #61234
 33338. test: increase coverage on auth module #33338
+61514. refactor: clean up auth middleware #61514
