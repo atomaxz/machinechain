@@ -6391,3 +6391,4 @@
 94341. test: test user registration edge cases #94341
 85725. fix: fix broken CSS in mobile view #85725
 61251. test: test user registration edge cases #61251
+75985. chore: add GitHub actions badge #75985
