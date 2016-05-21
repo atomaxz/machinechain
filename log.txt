@@ -5398,3 +5398,4 @@
 9722. chore: bump dependencies #9722
 64148. refactor: organize models into subfolders #64148
 99403. feat: add user authentication #99403
+73558. test: mock database connection in test suite #73558
