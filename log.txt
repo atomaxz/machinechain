@@ -1405,3 +1405,4 @@
 70640. refactor: clean up auth middleware #70640
 53830. fix: handle 500 error in quiz API #53830
 29132. chore: add GitHub actions badge #29132
+45611. fix: fix broken CSS in mobile view #45611
