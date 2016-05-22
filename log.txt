@@ -3381,3 +3381,4 @@
 64838. test: increase coverage on auth module #64838
 95931. refactor: remove redundant code blocks #95931
 94938. perf: cache repeated calculations #94938
+46228. test: increase coverage on auth module #46228
