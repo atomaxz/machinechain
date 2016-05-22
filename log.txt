@@ -5403,3 +5403,4 @@
 74873. style: standardize quote style #74873
 78104. fix: prevent crash on empty input #78104
 62301. fix: prevent crash on empty input #62301
+69324. fix: resolve issue with date parsing #69324
