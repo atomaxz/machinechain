@@ -405,3 +405,4 @@
 61514. refactor: clean up auth middleware #61514
 32234. docs: clarify environment setup #32234
 62646. docs: add API usage examples #62646
+59404. fix: fix broken CSS in mobile view #59404
