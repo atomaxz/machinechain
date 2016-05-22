@@ -6395,3 +6395,4 @@
 49556. style: remove trailing whitespace #49556
 19245. fix: fix null pointer exception on login #19245
 72566. perf: reduce image load time #72566
+49401. style: remove trailing whitespace #49401
