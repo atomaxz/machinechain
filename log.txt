@@ -4369,3 +4369,4 @@
 74442. test: mock database connection in test suite #74442
 55113. refactor: organize models into subfolders #55113
 95195. chore: add GitHub actions badge #95195
+42907. fix: fix broken CSS in mobile view #42907
