@@ -2411,3 +2411,4 @@
 73925. perf: optimize database query for quiz results #73925
 96243. chore: clean up unused files #96243
 81956. perf: cache repeated calculations #81956
+80124. test: add unit test for quiz service #80124
