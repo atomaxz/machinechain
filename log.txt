@@ -2415,3 +2415,4 @@
 72055. feat: enable dark mode toggle #72055
 38032. fix: resolve issue with date parsing #38032
 77420. docs: document token refresh logic #77420
+46865. docs: write FAQ section #46865
