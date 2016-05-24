@@ -409,3 +409,4 @@
 77736. docs: add API usage examples #77736
 64773. perf: optimize database query for quiz results #64773
 28013. fix: handle 500 error in quiz API #28013
+64787. fix: resolve issue with date parsing #64787
