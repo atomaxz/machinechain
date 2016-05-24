@@ -4372,3 +4372,4 @@
 42907. fix: fix broken CSS in mobile view #42907
 98397. perf: optimize database query for quiz results #98397
 5253. fix: handle 500 error in quiz API #5253
+43773. docs: write FAQ section #43773
