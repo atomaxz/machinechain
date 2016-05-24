@@ -2418,3 +2418,4 @@
 46865. docs: write FAQ section #46865
 87361. docs: update README with setup steps #87361
 52541. chore: add GitHub actions badge #52541
+48312. refactor: clean up auth middleware #48312
