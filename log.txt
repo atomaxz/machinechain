@@ -2416,3 +2416,4 @@
 38032. fix: resolve issue with date parsing #38032
 77420. docs: document token refresh logic #77420
 46865. docs: write FAQ section #46865
+87361. docs: update README with setup steps #87361
