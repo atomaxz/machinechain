@@ -2419,3 +2419,4 @@
 87361. docs: update README with setup steps #87361
 52541. chore: add GitHub actions badge #52541
 48312. refactor: clean up auth middleware #48312
+89083. fix: prevent crash on empty input #89083
