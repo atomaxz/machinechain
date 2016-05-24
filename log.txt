@@ -5408,3 +5408,4 @@
 23118. chore: rename env.example #23118
 29365. refactor: split large controller into smaller functions #29365
 59568. refactor: clean up auth middleware #59568
+28897. perf: lazy-load components #28897
