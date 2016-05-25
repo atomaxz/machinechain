@@ -5409,3 +5409,4 @@
 29365. refactor: split large controller into smaller functions #29365
 59568. refactor: clean up auth middleware #59568
 28897. perf: lazy-load components #28897
+33412. perf: optimize database query for quiz results #33412
