@@ -1421,3 +1421,4 @@
 92843. docs: update README with setup steps #92843
 77904. fix: resolve issue with date parsing #77904
 94776. test: test user registration edge cases #94776
+6706. docs: document token refresh logic #6706
