@@ -2420,3 +2420,4 @@
 52541. chore: add GitHub actions badge #52541
 48312. refactor: clean up auth middleware #48312
 89083. fix: prevent crash on empty input #89083
+23174. fix: fix broken CSS in mobile view #23174
