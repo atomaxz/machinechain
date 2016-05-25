@@ -4374,3 +4374,4 @@
 5253. fix: handle 500 error in quiz API #5253
 43773. docs: write FAQ section #43773
 69312. docs: add API usage examples #69312
+1233. fix: correct typo in registration form #1233
