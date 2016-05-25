@@ -5410,3 +5410,4 @@
 59568. refactor: clean up auth middleware #59568
 28897. perf: lazy-load components #28897
 33412. perf: optimize database query for quiz results #33412
+41995. refactor: clean up auth middleware #41995
