@@ -2421,3 +2421,4 @@
 48312. refactor: clean up auth middleware #48312
 89083. fix: prevent crash on empty input #89083
 23174. fix: fix broken CSS in mobile view #23174
+61410. feat: add export to CSV option #61410
