@@ -6398,3 +6398,4 @@
 49401. style: remove trailing whitespace #49401
 51490. test: add unit test for quiz service #51490
 71775. style: rename variables for clarity #71775
+37022. refactor: clean up auth middleware #37022
