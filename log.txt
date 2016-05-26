@@ -6406,3 +6406,4 @@
 91059. perf: optimize database query for quiz results #91059
 9263. style: apply consistent indentation #9263
 46858. style: reformat files with black #46858
+12777. chore: clean up unused files #12777
