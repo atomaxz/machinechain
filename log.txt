@@ -6403,3 +6403,4 @@
 97950. docs: document token refresh logic #97950
 55111. perf: cache repeated calculations #55111
 56433. docs: write FAQ section #56433
+91059. perf: optimize database query for quiz results #91059
