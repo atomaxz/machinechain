@@ -4378,3 +4378,4 @@
 76329. refactor: refactor quiz grading logic #76329
 57540. perf: lazy-load components #57540
 18291. docs: improve code comments in utils #18291
+4875. perf: reduce image load time #4875
