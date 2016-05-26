@@ -4379,3 +4379,4 @@
 57540. perf: lazy-load components #57540
 18291. docs: improve code comments in utils #18291
 4875. perf: reduce image load time #4875
+88718. chore: rename env.example #88718
