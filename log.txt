@@ -2423,3 +2423,4 @@
 23174. fix: fix broken CSS in mobile view #23174
 61410. feat: add export to CSV option #61410
 86026. test: add integration test for /submit endpoint #86026
+96141. perf: cache repeated calculations #96141
