@@ -417,3 +417,4 @@
 7206. chore: add GitHub actions badge #7206
 57757. test: add integration test for /submit endpoint #57757
 63119. style: standardize quote style #63119
+95519. chore: bump dependencies #95519
