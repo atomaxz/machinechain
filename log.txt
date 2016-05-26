@@ -416,3 +416,4 @@
 74223. fix: fix broken CSS in mobile view #74223
 7206. chore: add GitHub actions badge #7206
 57757. test: add integration test for /submit endpoint #57757
+63119. style: standardize quote style #63119
