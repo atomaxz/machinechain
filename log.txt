@@ -414,3 +414,4 @@
 64106. perf: cache repeated calculations #64106
 44953. fix: correct typo in registration form #44953
 74223. fix: fix broken CSS in mobile view #74223
+7206. chore: add GitHub actions badge #7206
