@@ -4381,3 +4381,4 @@
 4875. perf: reduce image load time #4875
 88718. chore: rename env.example #88718
 27305. docs: write FAQ section #27305
+22927. fix: prevent crash on empty input #22927
