@@ -1430,3 +1430,4 @@
 64679. perf: cache repeated calculations #64679
 3073. feat: support email verification #3073
 77641. test: increase coverage on auth module #77641
+99342. refactor: organize models into subfolders #99342
