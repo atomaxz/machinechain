@@ -6408,3 +6408,4 @@
 46858. style: reformat files with black #46858
 12777. chore: clean up unused files #12777
 47577. feat: add export to CSV option #47577
+30409. chore: update .gitignore #30409
