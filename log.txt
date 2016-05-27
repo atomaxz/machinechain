@@ -5415,3 +5415,4 @@
 40061. test: increase coverage on auth module #40061
 15102. docs: clarify environment setup #15102
 60900. perf: optimize database query for quiz results #60900
+82726. feat: add export to CSV option #82726
