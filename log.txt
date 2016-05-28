@@ -421,3 +421,4 @@
 59739. style: standardize quote style #59739
 22925. test: add unit test for quiz service #22925
 12995. perf: reduce image load time #12995
+12708. style: standardize quote style #12708
