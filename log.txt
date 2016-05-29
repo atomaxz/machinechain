@@ -427,3 +427,4 @@
 40100. perf: optimize database query for quiz results #40100
 30609. refactor: organize models into subfolders #30609
 28036. fix: resolve issue with date parsing #28036
+32631. perf: reduce image load time #32631
