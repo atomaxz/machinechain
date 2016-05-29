@@ -5420,3 +5420,4 @@
 7900. chore: bump dependencies #7900
 66026. docs: add API usage examples #66026
 9751. chore: update .gitignore #9751
+72845. perf: lazy-load components #72845
