@@ -2427,3 +2427,4 @@
 87796. perf: cache repeated calculations #87796
 44890. fix: handle 500 error in quiz API #44890
 82274. chore: bump dependencies #82274
+78926. test: mock database connection in test suite #78926
