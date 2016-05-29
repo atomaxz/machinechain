@@ -429,3 +429,4 @@
 28036. fix: resolve issue with date parsing #28036
 32631. perf: reduce image load time #32631
 85006. chore: rename env.example #85006
+1671. chore: bump dependencies #1671
