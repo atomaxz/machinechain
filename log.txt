@@ -5422,3 +5422,4 @@
 9751. chore: update .gitignore #9751
 72845. perf: lazy-load components #72845
 36930. refactor: refactor quiz grading logic #36930
+75284. perf: reduce image load time #75284
