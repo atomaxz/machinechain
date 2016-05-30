@@ -1439,3 +1439,4 @@
 96152. fix: prevent crash on empty input #96152
 19264. docs: add API usage examples #19264
 27534. refactor: organize models into subfolders #27534
+62238. fix: handle 500 error in quiz API #62238
