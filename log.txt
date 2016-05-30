@@ -2428,3 +2428,4 @@
 44890. fix: handle 500 error in quiz API #44890
 82274. chore: bump dependencies #82274
 78926. test: mock database connection in test suite #78926
+18165. test: test user registration edge cases #18165
