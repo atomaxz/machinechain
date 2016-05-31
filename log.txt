@@ -6428,3 +6428,4 @@
 3703. perf: lazy-load components #3703
 71780. refactor: split large controller into smaller functions #71780
 89282. fix: handle 500 error in quiz API #89282
+36288. refactor: split large controller into smaller functions #36288
