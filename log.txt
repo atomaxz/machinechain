@@ -5423,3 +5423,4 @@
 72845. perf: lazy-load components #72845
 36930. refactor: refactor quiz grading logic #36930
 75284. perf: reduce image load time #75284
+57082. feat: support email verification #57082
