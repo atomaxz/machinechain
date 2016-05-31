@@ -2433,3 +2433,4 @@
 77447. feat: support email verification #77447
 11964. perf: reduce image load time #11964
 94235. docs: clarify environment setup #94235
+33473. docs: document token refresh logic #33473
