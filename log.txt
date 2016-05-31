@@ -3403,3 +3403,4 @@
 16337. feat: create admin dashboard #16337
 18313. chore: update .gitignore #18313
 74675. docs: update README with setup steps #74675
+73523. style: reformat files with black #73523
