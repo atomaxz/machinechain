@@ -6424,3 +6424,4 @@
 77883. chore: clean up unused files #77883
 64246. style: reformat files with black #64246
 46097. feat: support email verification #46097
+68879. perf: lazy-load components #68879
