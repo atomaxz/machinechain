@@ -4391,3 +4391,4 @@
 74900. style: reformat files with black #74900
 28203. refactor: remove redundant code blocks #28203
 73718. refactor: organize models into subfolders #73718
+89302. feat: enable dark mode toggle #89302
