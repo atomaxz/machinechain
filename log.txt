@@ -3405,3 +3405,4 @@
 74675. docs: update README with setup steps #74675
 73523. style: reformat files with black #73523
 41575. test: increase coverage on auth module #41575
+87843. docs: write FAQ section #87843
