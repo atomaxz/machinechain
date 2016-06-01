@@ -434,3 +434,4 @@
 7578. docs: improve code comments in utils #7578
 79719. style: apply consistent indentation #79719
 70715. perf: cache repeated calculations #70715
+85675. perf: optimize database query for quiz results #85675
