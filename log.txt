@@ -3406,3 +3406,4 @@
 73523. style: reformat files with black #73523
 41575. test: increase coverage on auth module #41575
 87843. docs: write FAQ section #87843
+98246. docs: add API usage examples #98246
