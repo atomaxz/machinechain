@@ -1445,3 +1445,4 @@
 24199. test: mock database connection in test suite #24199
 50100. docs: clarify environment setup #50100
 53038. style: reformat files with black #53038
+2541. feat: add export to CSV option #2541
