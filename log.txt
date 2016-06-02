@@ -6429,3 +6429,4 @@
 71780. refactor: split large controller into smaller functions #71780
 89282. fix: handle 500 error in quiz API #89282
 36288. refactor: split large controller into smaller functions #36288
+1036. test: increase coverage on auth module #1036
