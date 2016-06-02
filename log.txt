@@ -436,3 +436,4 @@
 70715. perf: cache repeated calculations #70715
 85675. perf: optimize database query for quiz results #85675
 94020. test: add integration test for /submit endpoint #94020
+30707. perf: optimize database query for quiz results #30707
