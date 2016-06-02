@@ -5427,3 +5427,4 @@
 66686. chore: add GitHub actions badge #66686
 89850. docs: clarify environment setup #89850
 90550. chore: rename env.example #90550
+10606. test: add integration test for /submit endpoint #10606
