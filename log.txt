@@ -438,3 +438,4 @@
 94020. test: add integration test for /submit endpoint #94020
 30707. perf: optimize database query for quiz results #30707
 39991. refactor: clean up auth middleware #39991
+1488. docs: clarify environment setup #1488
