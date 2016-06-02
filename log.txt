@@ -2437,3 +2437,4 @@
 93520. chore: rename env.example #93520
 37876. perf: optimize database query for quiz results #37876
 26547. chore: add GitHub actions badge #26547
+27776. style: reformat files with black #27776
