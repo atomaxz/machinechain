@@ -4393,3 +4393,4 @@
 73718. refactor: organize models into subfolders #73718
 89302. feat: enable dark mode toggle #89302
 67079. chore: rename env.example #67079
+83981. perf: cache repeated calculations #83981
