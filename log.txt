@@ -437,3 +437,4 @@
 85675. perf: optimize database query for quiz results #85675
 94020. test: add integration test for /submit endpoint #94020
 30707. perf: optimize database query for quiz results #30707
+39991. refactor: clean up auth middleware #39991
