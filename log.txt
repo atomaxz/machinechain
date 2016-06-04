@@ -2442,3 +2442,4 @@
 28484. test: test user registration edge cases #28484
 59778. fix: fix broken CSS in mobile view #59778
 90840. docs: clarify environment setup #90840
+67228. chore: clean up unused files #67228
