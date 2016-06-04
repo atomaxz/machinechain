@@ -5430,3 +5430,4 @@
 10606. test: add integration test for /submit endpoint #10606
 96682. feat: implement quiz timer feature #96682
 58448. style: remove trailing whitespace #58448
+60538. test: add unit test for quiz service #60538
