@@ -6435,3 +6435,4 @@
 34974. chore: update .gitignore #34974
 98151. docs: improve code comments in utils #98151
 40686. docs: add API usage examples #40686
+12095. fix: prevent crash on empty input #12095
