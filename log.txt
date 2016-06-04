@@ -2440,3 +2440,4 @@
 27776. style: reformat files with black #27776
 49978. fix: fix broken CSS in mobile view #49978
 28484. test: test user registration edge cases #28484
+59778. fix: fix broken CSS in mobile view #59778
