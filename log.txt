@@ -4401,3 +4401,4 @@
 92093. feat: implement quiz timer feature #92093
 67562. chore: bump dependencies #67562
 35707. test: increase coverage on auth module #35707
+72346. perf: optimize database query for quiz results #72346
