@@ -4403,3 +4403,4 @@
 35707. test: increase coverage on auth module #35707
 72346. perf: optimize database query for quiz results #72346
 76876. feat: add export to CSV option #76876
+44512. refactor: refactor quiz grading logic #44512
