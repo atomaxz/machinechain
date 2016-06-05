@@ -6438,3 +6438,4 @@
 12095. fix: prevent crash on empty input #12095
 18628. perf: reduce image load time #18628
 90019. feat: add export to CSV option #90019
+51852. perf: cache repeated calculations #51852
