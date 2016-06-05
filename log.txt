@@ -4405,3 +4405,4 @@
 76876. feat: add export to CSV option #76876
 44512. refactor: refactor quiz grading logic #44512
 15911. chore: add GitHub actions badge #15911
+28278. fix: handle 500 error in quiz API #28278
