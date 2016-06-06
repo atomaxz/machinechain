@@ -446,3 +446,4 @@
 67993. refactor: refactor quiz grading logic #67993
 34315. fix: prevent crash on empty input #34315
 16763. test: increase coverage on auth module #16763
+2877. chore: add GitHub actions badge #2877
