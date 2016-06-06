@@ -1453,3 +1453,4 @@
 71501. test: increase coverage on auth module #71501
 51300. fix: handle 500 error in quiz API #51300
 60852. feat: support email verification #60852
+8020. chore: rename env.example #8020
