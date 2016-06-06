@@ -6441,3 +6441,4 @@
 51852. perf: cache repeated calculations #51852
 82816. fix: resolve issue with date parsing #82816
 64547. feat: create admin dashboard #64547
+51737. refactor: clean up auth middleware #51737
