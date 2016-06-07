@@ -449,3 +449,4 @@
 2877. chore: add GitHub actions badge #2877
 59765. docs: improve code comments in utils #59765
 89540. chore: add GitHub actions badge #89540
+96130. test: increase coverage on auth module #96130
