@@ -2455,3 +2455,4 @@
 66167. feat: implement quiz timer feature #66167
 53292. docs: improve code comments in utils #53292
 46159. style: remove trailing whitespace #46159
+6257. docs: write FAQ section #6257
