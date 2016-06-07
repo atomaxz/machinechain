@@ -5437,3 +5437,4 @@
 3501. chore: bump dependencies #3501
 74145. refactor: refactor quiz grading logic #74145
 6812. fix: fix null pointer exception on login #6812
+28959. test: increase coverage on auth module #28959
