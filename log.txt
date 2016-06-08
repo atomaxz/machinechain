@@ -5439,3 +5439,4 @@
 6812. fix: fix null pointer exception on login #6812
 28959. test: increase coverage on auth module #28959
 25182. perf: cache repeated calculations #25182
+46213. perf: optimize database query for quiz results #46213
