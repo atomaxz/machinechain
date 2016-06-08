@@ -3421,3 +3421,4 @@
 0328. fix: correct typo in registration form #328
 93483. refactor: organize models into subfolders #93483
 90443. feat: add user authentication #90443
+10652. feat: support email verification #10652
