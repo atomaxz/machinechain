@@ -4413,3 +4413,4 @@
 33586. chore: clean up unused files #33586
 55407. docs: add API usage examples #55407
 57665. chore: update .gitignore #57665
+75066. perf: lazy-load components #75066
