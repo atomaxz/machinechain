@@ -1460,3 +1460,4 @@
 2171. feat: add export to CSV option #2171
 61805. feat: add export to CSV option #61805
 91609. refactor: refactor quiz grading logic #91609
+14307. fix: handle 500 error in quiz API #14307
