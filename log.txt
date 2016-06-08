@@ -6445,3 +6445,4 @@
 3377. docs: write FAQ section #3377
 76629. chore: clean up unused files #76629
 44243. docs: add API usage examples #44243
+9332. test: mock database connection in test suite #9332
