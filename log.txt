@@ -2458,3 +2458,4 @@
 6257. docs: write FAQ section #6257
 62457. fix: fix null pointer exception on login #62457
 72232. fix: fix broken CSS in mobile view #72232
+79020. docs: write FAQ section #79020
