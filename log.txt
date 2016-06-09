@@ -3424,3 +3424,4 @@
 10652. feat: support email verification #10652
 47436. test: mock database connection in test suite #47436
 67790. refactor: refactor quiz grading logic #67790
+77659. docs: write FAQ section #77659
