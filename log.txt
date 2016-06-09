@@ -6446,3 +6446,4 @@
 76629. chore: clean up unused files #76629
 44243. docs: add API usage examples #44243
 9332. test: mock database connection in test suite #9332
+26758. perf: lazy-load components #26758
