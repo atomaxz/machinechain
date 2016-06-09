@@ -2465,3 +2465,4 @@
 31216. fix: fix broken CSS in mobile view #31216
 41109. fix: correct typo in registration form #41109
 30227. perf: lazy-load components #30227
+15720. style: remove trailing whitespace #15720
