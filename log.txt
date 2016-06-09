@@ -2463,3 +2463,4 @@
 28761. test: add unit test for quiz service #28761
 20430. refactor: split large controller into smaller functions #20430
 31216. fix: fix broken CSS in mobile view #31216
+41109. fix: correct typo in registration form #41109
