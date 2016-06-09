@@ -2464,3 +2464,4 @@
 20430. refactor: split large controller into smaller functions #20430
 31216. fix: fix broken CSS in mobile view #31216
 41109. fix: correct typo in registration form #41109
+30227. perf: lazy-load components #30227
