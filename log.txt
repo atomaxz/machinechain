@@ -1463,3 +1463,4 @@
 14307. fix: handle 500 error in quiz API #14307
 54188. feat: add export to CSV option #54188
 42409. chore: rename env.example #42409
+79042. refactor: clean up auth middleware #79042
