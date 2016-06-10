@@ -2470,3 +2470,4 @@
 76924. chore: clean up unused files #76924
 98666. feat: enable dark mode toggle #98666
 99457. style: remove trailing whitespace #99457
+16706. fix: handle 500 error in quiz API #16706
