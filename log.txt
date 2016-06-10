@@ -1468,3 +1468,4 @@
 72513. refactor: remove redundant code blocks #72513
 98044. style: apply consistent indentation #98044
 12793. test: add unit test for quiz service #12793
+14799. refactor: split large controller into smaller functions #14799
