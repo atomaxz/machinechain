@@ -2466,3 +2466,4 @@
 41109. fix: correct typo in registration form #41109
 30227. perf: lazy-load components #30227
 15720. style: remove trailing whitespace #15720
+99495. docs: document token refresh logic #99495
