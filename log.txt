@@ -3426,3 +3426,4 @@
 67790. refactor: refactor quiz grading logic #67790
 77659. docs: write FAQ section #77659
 37973. style: remove trailing whitespace #37973
+52316. chore: add GitHub actions badge #52316
