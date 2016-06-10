@@ -453,3 +453,4 @@
 80947. test: increase coverage on auth module #80947
 82836. chore: update .gitignore #82836
 37404. style: rename variables for clarity #37404
+44842. feat: add user authentication #44842
