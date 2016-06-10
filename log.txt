@@ -2468,3 +2468,4 @@
 15720. style: remove trailing whitespace #15720
 99495. docs: document token refresh logic #99495
 76924. chore: clean up unused files #76924
+98666. feat: enable dark mode toggle #98666
