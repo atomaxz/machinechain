@@ -460,3 +460,4 @@
 72897. docs: document token refresh logic #72897
 38682. fix: correct typo in registration form #38682
 15485. refactor: split large controller into smaller functions #15485
+63150. docs: document token refresh logic #63150
