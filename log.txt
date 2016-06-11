@@ -2472,3 +2472,4 @@
 99457. style: remove trailing whitespace #99457
 16706. fix: handle 500 error in quiz API #16706
 91788. style: rename variables for clarity #91788
+58597. docs: write FAQ section #58597
