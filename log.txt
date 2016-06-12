@@ -4420,3 +4420,4 @@
 62397. fix: correct typo in registration form #62397
 50773. docs: clarify environment setup #50773
 92766. style: standardize quote style #92766
+39144. perf: lazy-load components #39144
