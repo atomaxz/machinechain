@@ -3427,3 +3427,4 @@
 77659. docs: write FAQ section #77659
 37973. style: remove trailing whitespace #37973
 52316. chore: add GitHub actions badge #52316
+71973. chore: rename env.example #71973
