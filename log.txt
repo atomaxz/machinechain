@@ -5455,3 +5455,4 @@
 50660. style: apply consistent indentation #50660
 91523. refactor: refactor quiz grading logic #91523
 45970. docs: write FAQ section #45970
+80182. perf: optimize database query for quiz results #80182
