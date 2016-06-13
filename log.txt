@@ -1474,3 +1474,4 @@
 94063. fix: fix null pointer exception on login #94063
 91160. refactor: split large controller into smaller functions #91160
 37150. fix: prevent crash on empty input #37150
+63495. test: test user registration edge cases #63495
