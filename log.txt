@@ -2477,3 +2477,4 @@
 26481. test: mock database connection in test suite #26481
 46209. style: rename variables for clarity #46209
 83223. fix: correct typo in registration form #83223
+79728. feat: add export to CSV option #79728
