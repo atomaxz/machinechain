@@ -1475,3 +1475,4 @@
 91160. refactor: split large controller into smaller functions #91160
 37150. fix: prevent crash on empty input #37150
 63495. test: test user registration edge cases #63495
+86845. fix: prevent crash on empty input #86845
