@@ -3432,3 +3432,4 @@
 56337. test: add integration test for /submit endpoint #56337
 68236. feat: enable dark mode toggle #68236
 23088. perf: cache repeated calculations #23088
+51029. fix: fix broken CSS in mobile view #51029
