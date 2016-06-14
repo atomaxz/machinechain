@@ -3433,3 +3433,4 @@
 68236. feat: enable dark mode toggle #68236
 23088. perf: cache repeated calculations #23088
 51029. fix: fix broken CSS in mobile view #51029
+20877. chore: add GitHub actions badge #20877
