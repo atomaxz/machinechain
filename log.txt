@@ -1476,3 +1476,4 @@
 37150. fix: prevent crash on empty input #37150
 63495. test: test user registration edge cases #63495
 86845. fix: prevent crash on empty input #86845
+1527. feat: enable dark mode toggle #1527
