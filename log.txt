@@ -1478,3 +1478,4 @@
 86845. fix: prevent crash on empty input #86845
 1527. feat: enable dark mode toggle #1527
 55454. test: increase coverage on auth module #55454
+2487. docs: improve code comments in utils #2487
