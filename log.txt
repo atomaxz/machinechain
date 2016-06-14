@@ -5456,3 +5456,4 @@
 91523. refactor: refactor quiz grading logic #91523
 45970. docs: write FAQ section #45970
 80182. perf: optimize database query for quiz results #80182
+89057. feat: add user authentication #89057
