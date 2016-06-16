@@ -1486,3 +1486,4 @@
 46697. style: apply consistent indentation #46697
 66870. feat: enable dark mode toggle #66870
 18122. test: mock database connection in test suite #18122
+62049. feat: support email verification #62049
