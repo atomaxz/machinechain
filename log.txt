@@ -1485,3 +1485,4 @@
 48968. docs: write FAQ section #48968
 46697. style: apply consistent indentation #46697
 66870. feat: enable dark mode toggle #66870
+18122. test: mock database connection in test suite #18122
