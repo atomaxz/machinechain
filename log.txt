@@ -6463,3 +6463,4 @@
 47264. perf: reduce image load time #47264
 33778. test: add unit test for quiz service #33778
 97106. feat: create admin dashboard #97106
+57832. chore: add GitHub actions badge #57832
