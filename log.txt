@@ -1489,3 +1489,4 @@
 62049. feat: support email verification #62049
 32275. perf: lazy-load components #32275
 89169. style: standardize quote style #89169
+5381. feat: add export to CSV option #5381
