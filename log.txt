@@ -6466,3 +6466,4 @@
 57832. chore: add GitHub actions badge #57832
 62561. fix: correct typo in registration form #62561
 56791. fix: fix broken CSS in mobile view #56791
+45391. fix: fix null pointer exception on login #45391
