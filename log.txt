@@ -6469,3 +6469,4 @@
 45391. fix: fix null pointer exception on login #45391
 74402. chore: rename env.example #74402
 21623. docs: update README with setup steps #21623
+30038. docs: update README with setup steps #30038
