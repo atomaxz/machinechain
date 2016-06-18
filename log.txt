@@ -3455,3 +3455,4 @@
 78661. refactor: refactor quiz grading logic #78661
 10459. fix: fix null pointer exception on login #10459
 8921. feat: create admin dashboard #8921
+59052. perf: optimize database query for quiz results #59052
