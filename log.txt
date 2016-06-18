@@ -3452,3 +3452,4 @@
 18904. fix: correct typo in registration form #18904
 46691. feat: support email verification #46691
 83286. test: test user registration edge cases #83286
+78661. refactor: refactor quiz grading logic #78661
