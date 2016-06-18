@@ -6467,3 +6467,4 @@
 62561. fix: correct typo in registration form #62561
 56791. fix: fix broken CSS in mobile view #56791
 45391. fix: fix null pointer exception on login #45391
+74402. chore: rename env.example #74402
