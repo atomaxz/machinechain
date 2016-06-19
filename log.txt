@@ -3457,3 +3457,4 @@
 8921. feat: create admin dashboard #8921
 59052. perf: optimize database query for quiz results #59052
 91145. refactor: remove redundant code blocks #91145
+32371. perf: cache repeated calculations #32371
