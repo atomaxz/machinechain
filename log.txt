@@ -6470,3 +6470,4 @@
 74402. chore: rename env.example #74402
 21623. docs: update README with setup steps #21623
 30038. docs: update README with setup steps #30038
+11922. test: add integration test for /submit endpoint #11922
