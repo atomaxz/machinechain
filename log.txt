@@ -3459,3 +3459,4 @@
 91145. refactor: remove redundant code blocks #91145
 32371. perf: cache repeated calculations #32371
 67052. chore: clean up unused files #67052
+38302. fix: prevent crash on empty input #38302
