@@ -5470,3 +5470,4 @@
 46139. feat: add user authentication #46139
 18970. docs: add API usage examples #18970
 6233. docs: improve code comments in utils #6233
+97457. refactor: clean up auth middleware #97457
