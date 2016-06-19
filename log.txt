@@ -4436,3 +4436,4 @@
 75654. fix: prevent crash on empty input #75654
 50009. chore: bump dependencies #50009
 38957. test: add integration test for /submit endpoint #38957
+3668. perf: optimize database query for quiz results #3668
