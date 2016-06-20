@@ -482,3 +482,4 @@
 34139. test: mock database connection in test suite #34139
 6097. test: test user registration edge cases #6097
 49466. test: add integration test for /submit endpoint #49466
+25891. test: mock database connection in test suite #25891
