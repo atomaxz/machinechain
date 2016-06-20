@@ -4440,3 +4440,4 @@
 50196. perf: cache repeated calculations #50196
 14011. chore: add GitHub actions badge #14011
 20084. style: standardize quote style #20084
+18456. feat: add export to CSV option #18456
