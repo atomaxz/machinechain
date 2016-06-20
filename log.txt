@@ -2491,3 +2491,4 @@
 98169. docs: clarify environment setup #98169
 10367. refactor: remove redundant code blocks #10367
 27948. perf: cache repeated calculations #27948
+48759. feat: support email verification #48759
