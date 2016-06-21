@@ -2495,3 +2495,4 @@
 37283. style: rename variables for clarity #37283
 48807. test: test user registration edge cases #48807
 16050. refactor: clean up auth middleware #16050
+32006. test: add integration test for /submit endpoint #32006
