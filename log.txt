@@ -1495,3 +1495,4 @@
 33442. fix: prevent crash on empty input #33442
 46514. refactor: remove redundant code blocks #46514
 55637. fix: fix broken CSS in mobile view #55637
+26910. fix: prevent crash on empty input #26910
