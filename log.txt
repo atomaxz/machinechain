@@ -2494,3 +2494,4 @@
 48759. feat: support email verification #48759
 37283. style: rename variables for clarity #37283
 48807. test: test user registration edge cases #48807
+16050. refactor: clean up auth middleware #16050
