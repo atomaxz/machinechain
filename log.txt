@@ -3466,3 +3466,4 @@
 43722. feat: create admin dashboard #43722
 64463. fix: handle 500 error in quiz API #64463
 47546. perf: reduce image load time #47546
+27780. test: test user registration edge cases #27780
