@@ -3465,3 +3465,4 @@
 52232. chore: add GitHub actions badge #52232
 43722. feat: create admin dashboard #43722
 64463. fix: handle 500 error in quiz API #64463
+47546. perf: reduce image load time #47546
