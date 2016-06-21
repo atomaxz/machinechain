@@ -4442,3 +4442,4 @@
 20084. style: standardize quote style #20084
 18456. feat: add export to CSV option #18456
 49913. feat: enable dark mode toggle #49913
+32928. docs: write FAQ section #32928
