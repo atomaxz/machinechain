@@ -6480,3 +6480,4 @@
 27985. docs: write FAQ section #27985
 39582. chore: update .gitignore #39582
 58902. docs: document token refresh logic #58902
+84497. style: remove trailing whitespace #84497
