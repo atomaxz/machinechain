@@ -3468,3 +3468,4 @@
 47546. perf: reduce image load time #47546
 27780. test: test user registration edge cases #27780
 28771. docs: clarify environment setup #28771
+48315. perf: optimize database query for quiz results #48315
