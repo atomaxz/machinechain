@@ -1499,3 +1499,4 @@
 34304. test: add unit test for quiz service #34304
 89122. feat: support email verification #89122
 2034. docs: write FAQ section #2034
+41185. chore: rename env.example #41185
