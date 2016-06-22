@@ -486,3 +486,4 @@
 37585. perf: lazy-load components #37585
 38462. docs: add API usage examples #38462
 30814. test: mock database connection in test suite #30814
+41872. test: add unit test for quiz service #41872
