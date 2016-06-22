@@ -6479,3 +6479,4 @@
 95414. feat: add user authentication #95414
 27985. docs: write FAQ section #27985
 39582. chore: update .gitignore #39582
+58902. docs: document token refresh logic #58902
