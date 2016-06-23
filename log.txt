@@ -1501,3 +1501,4 @@
 2034. docs: write FAQ section #2034
 41185. chore: rename env.example #41185
 78525. feat: enable dark mode toggle #78525
+30268. chore: bump dependencies #30268
