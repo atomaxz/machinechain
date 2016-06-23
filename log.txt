@@ -4448,3 +4448,4 @@
 6653. style: apply consistent indentation #6653
 11164. chore: update .gitignore #11164
 97993. perf: cache repeated calculations #97993
+4612. test: increase coverage on auth module #4612
