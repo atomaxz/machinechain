@@ -4443,3 +4443,4 @@
 18456. feat: add export to CSV option #18456
 49913. feat: enable dark mode toggle #49913
 32928. docs: write FAQ section #32928
+44370. chore: rename env.example #44370
