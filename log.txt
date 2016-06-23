@@ -1503,3 +1503,4 @@
 78525. feat: enable dark mode toggle #78525
 30268. chore: bump dependencies #30268
 18672. docs: clarify environment setup #18672
+94050. fix: fix null pointer exception on login #94050
