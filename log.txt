@@ -3470,3 +3470,4 @@
 28771. docs: clarify environment setup #28771
 48315. perf: optimize database query for quiz results #48315
 41280. docs: clarify environment setup #41280
+72422. feat: add user authentication #72422
