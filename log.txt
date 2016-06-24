@@ -6483,3 +6483,4 @@
 84497. style: remove trailing whitespace #84497
 23394. docs: document token refresh logic #23394
 55367. perf: cache repeated calculations #55367
+56948. test: mock database connection in test suite #56948
