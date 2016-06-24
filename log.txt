@@ -5486,3 +5486,4 @@
 53274. style: apply consistent indentation #53274
 29147. test: add unit test for quiz service #29147
 43878. docs: document token refresh logic #43878
+42484. test: add integration test for /submit endpoint #42484
