@@ -4450,3 +4450,4 @@
 97993. perf: cache repeated calculations #97993
 4612. test: increase coverage on auth module #4612
 30547. perf: optimize database query for quiz results #30547
+61287. refactor: clean up auth middleware #61287
