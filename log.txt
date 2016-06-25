@@ -1505,3 +1505,4 @@
 18672. docs: clarify environment setup #18672
 94050. fix: fix null pointer exception on login #94050
 29110. refactor: split large controller into smaller functions #29110
+23773. test: add integration test for /submit endpoint #23773
