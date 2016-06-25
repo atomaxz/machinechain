@@ -1508,3 +1508,4 @@
 23773. test: add integration test for /submit endpoint #23773
 79159. fix: handle 500 error in quiz API #79159
 11825. refactor: organize models into subfolders #11825
+47952. test: mock database connection in test suite #47952
