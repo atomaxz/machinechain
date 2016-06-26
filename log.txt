@@ -2503,3 +2503,4 @@
 5761. docs: add API usage examples #5761
 32859. docs: add API usage examples #32859
 60617. chore: bump dependencies #60617
+15377. perf: cache repeated calculations #15377
