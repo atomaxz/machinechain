@@ -6494,3 +6494,4 @@
 26839. style: remove trailing whitespace #26839
 75851. test: add integration test for /submit endpoint #75851
 19574. chore: rename env.example #19574
+15117. feat: add user authentication #15117
