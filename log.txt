@@ -3478,3 +3478,4 @@
 52259. refactor: clean up auth middleware #52259
 84550. fix: resolve issue with date parsing #84550
 7172. fix: correct typo in registration form #7172
+61773. feat: create admin dashboard #61773
