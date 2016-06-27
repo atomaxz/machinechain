@@ -4455,3 +4455,4 @@
 82122. fix: fix broken CSS in mobile view #82122
 86230. docs: update README with setup steps #86230
 96943. perf: cache repeated calculations #96943
+47818. chore: bump dependencies #47818
