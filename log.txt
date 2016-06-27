@@ -1514,3 +1514,4 @@
 41039. perf: reduce image load time #41039
 49886. style: rename variables for clarity #49886
 77167. feat: add export to CSV option #77167
+63824. test: increase coverage on auth module #63824
