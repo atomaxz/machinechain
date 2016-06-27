@@ -5492,3 +5492,4 @@
 55181. feat: create admin dashboard #55181
 8419. perf: reduce image load time #8419
 5101. perf: optimize database query for quiz results #5101
+9875. fix: fix broken CSS in mobile view #9875
