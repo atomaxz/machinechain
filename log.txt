@@ -3480,3 +3480,4 @@
 7172. fix: correct typo in registration form #7172
 61773. feat: create admin dashboard #61773
 28964. refactor: clean up auth middleware #28964
+98473. chore: update .gitignore #98473
