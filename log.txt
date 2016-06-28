@@ -2505,3 +2505,4 @@
 60617. chore: bump dependencies #60617
 15377. perf: cache repeated calculations #15377
 27344. refactor: split large controller into smaller functions #27344
+33975. docs: clarify environment setup #33975
