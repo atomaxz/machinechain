@@ -6496,3 +6496,4 @@
 19574. chore: rename env.example #19574
 15117. feat: add user authentication #15117
 21733. perf: optimize database query for quiz results #21733
+76109. chore: clean up unused files #76109
