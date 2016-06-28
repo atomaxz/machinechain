@@ -5495,3 +5495,4 @@
 9875. fix: fix broken CSS in mobile view #9875
 17208. docs: write FAQ section #17208
 78099. test: increase coverage on auth module #78099
+66083. perf: optimize database query for quiz results #66083
