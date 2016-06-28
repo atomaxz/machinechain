@@ -3482,3 +3482,4 @@
 28964. refactor: clean up auth middleware #28964
 98473. chore: update .gitignore #98473
 16016. refactor: organize models into subfolders #16016
+73645. feat: enable dark mode toggle #73645
