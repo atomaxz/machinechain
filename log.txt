@@ -504,3 +504,4 @@
 16531. perf: optimize database query for quiz results #16531
 1553. docs: add API usage examples #1553
 47312. docs: add API usage examples #47312
+70673. test: increase coverage on auth module #70673
