@@ -3486,3 +3486,4 @@
 49561. test: increase coverage on auth module #49561
 85575. fix: resolve issue with date parsing #85575
 36311. style: remove trailing whitespace #36311
+13882. test: test user registration edge cases #13882
