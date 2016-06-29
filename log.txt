@@ -2508,3 +2508,4 @@
 33975. docs: clarify environment setup #33975
 56594. refactor: refactor quiz grading logic #56594
 39509. chore: clean up unused files #39509
+73939. fix: fix null pointer exception on login #73939
