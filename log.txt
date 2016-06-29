@@ -505,3 +505,4 @@
 1553. docs: add API usage examples #1553
 47312. docs: add API usage examples #47312
 70673. test: increase coverage on auth module #70673
+66451. perf: cache repeated calculations #66451
