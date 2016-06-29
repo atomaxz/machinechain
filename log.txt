@@ -5499,3 +5499,4 @@
 82475. test: increase coverage on auth module #82475
 44380. feat: support email verification #44380
 37322. style: reformat files with black #37322
+5015. fix: correct typo in registration form #5015
