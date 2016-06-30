@@ -510,3 +510,4 @@
 21689. refactor: clean up auth middleware #21689
 64928. chore: clean up unused files #64928
 14906. style: standardize quote style #14906
+80769. docs: update README with setup steps #80769
