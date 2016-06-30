@@ -4463,3 +4463,4 @@
 61445. feat: create admin dashboard #61445
 32206. feat: add export to CSV option #32206
 45174. perf: reduce image load time #45174
+7150. chore: add GitHub actions badge #7150
