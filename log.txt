@@ -1523,3 +1523,4 @@
 61939. refactor: refactor quiz grading logic #61939
 43316. test: add unit test for quiz service #43316
 6386. feat: create admin dashboard #6386
+95629. feat: enable dark mode toggle #95629
