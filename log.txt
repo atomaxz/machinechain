@@ -513,3 +513,4 @@
 80769. docs: update README with setup steps #80769
 77394. refactor: clean up auth middleware #77394
 55993. perf: optimize database query for quiz results #55993
+62497. fix: correct typo in registration form #62497
