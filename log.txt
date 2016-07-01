@@ -5502,3 +5502,4 @@
 5015. fix: correct typo in registration form #5015
 55391. fix: resolve issue with date parsing #55391
 46952. docs: write FAQ section #46952
+95412. docs: document token refresh logic #95412
