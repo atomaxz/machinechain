@@ -2513,3 +2513,4 @@
 93800. style: reformat files with black #93800
 79964. feat: create admin dashboard #79964
 70174. chore: bump dependencies #70174
+18078. fix: fix broken CSS in mobile view #18078
