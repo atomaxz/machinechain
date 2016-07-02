@@ -1527,3 +1527,4 @@
 95879. perf: cache repeated calculations #95879
 39566. style: apply consistent indentation #39566
 2792. chore: bump dependencies #2792
+59272. docs: clarify environment setup #59272
