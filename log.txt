@@ -6510,3 +6510,4 @@
 17145. style: reformat files with black #17145
 15329. perf: reduce image load time #15329
 31400. test: add integration test for /submit endpoint #31400
+17769. docs: improve code comments in utils #17769
