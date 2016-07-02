@@ -1526,3 +1526,4 @@
 95629. feat: enable dark mode toggle #95629
 95879. perf: cache repeated calculations #95879
 39566. style: apply consistent indentation #39566
+2792. chore: bump dependencies #2792
