@@ -2516,3 +2516,4 @@
 18078. fix: fix broken CSS in mobile view #18078
 80799. test: add unit test for quiz service #80799
 73292. fix: fix null pointer exception on login #73292
+74528. fix: prevent crash on empty input #74528
