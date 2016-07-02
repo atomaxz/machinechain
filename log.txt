@@ -4467,3 +4467,4 @@
 12556. refactor: clean up auth middleware #12556
 97362. style: reformat files with black #97362
 34193. refactor: refactor quiz grading logic #34193
+49462. fix: correct typo in registration form #49462
