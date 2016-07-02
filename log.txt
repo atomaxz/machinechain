@@ -2515,3 +2515,4 @@
 70174. chore: bump dependencies #70174
 18078. fix: fix broken CSS in mobile view #18078
 80799. test: add unit test for quiz service #80799
+73292. fix: fix null pointer exception on login #73292
