@@ -6514,3 +6514,4 @@
 95211. style: standardize quote style #95211
 63368. test: increase coverage on auth module #63368
 23889. feat: create admin dashboard #23889
+16930. test: test user registration edge cases #16930
