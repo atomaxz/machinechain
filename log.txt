@@ -5505,3 +5505,4 @@
 95412. docs: document token refresh logic #95412
 56606. test: add integration test for /submit endpoint #56606
 10881. test: mock database connection in test suite #10881
+95480. test: add unit test for quiz service #95480
