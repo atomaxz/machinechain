@@ -3498,3 +3498,4 @@
 27600. test: increase coverage on auth module #27600
 62030. refactor: refactor quiz grading logic #62030
 27549. perf: lazy-load components #27549
+81636. chore: add GitHub actions badge #81636
