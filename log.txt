@@ -1530,3 +1530,4 @@
 59272. docs: clarify environment setup #59272
 21100. fix: fix broken CSS in mobile view #21100
 15423. fix: resolve issue with date parsing #15423
+35868. chore: update .gitignore #35868
