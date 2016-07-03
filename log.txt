@@ -1528,3 +1528,4 @@
 39566. style: apply consistent indentation #39566
 2792. chore: bump dependencies #2792
 59272. docs: clarify environment setup #59272
+21100. fix: fix broken CSS in mobile view #21100
