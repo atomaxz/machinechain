@@ -4473,3 +4473,4 @@
 6671. refactor: split large controller into smaller functions #6671
 16068. feat: support email verification #16068
 31691. perf: reduce image load time #31691
+42648. refactor: clean up auth middleware #42648
