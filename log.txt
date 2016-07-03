@@ -4470,3 +4470,4 @@
 49462. fix: correct typo in registration form #49462
 62259. feat: add export to CSV option #62259
 54183. docs: update README with setup steps #54183
+6671. refactor: split large controller into smaller functions #6671
