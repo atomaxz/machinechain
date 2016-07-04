@@ -1534,3 +1534,4 @@
 90644. chore: clean up unused files #90644
 54786. feat: implement quiz timer feature #54786
 90234. chore: clean up unused files #90234
+96723. style: remove trailing whitespace #96723
