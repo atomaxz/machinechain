@@ -4475,3 +4475,4 @@
 31691. perf: reduce image load time #31691
 42648. refactor: clean up auth middleware #42648
 35998. perf: cache repeated calculations #35998
+47714. docs: clarify environment setup #47714
