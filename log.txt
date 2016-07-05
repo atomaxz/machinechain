@@ -5513,3 +5513,4 @@
 86542. perf: lazy-load components #86542
 72116. chore: rename env.example #72116
 3341. feat: create admin dashboard #3341
+6304. style: apply consistent indentation #6304
