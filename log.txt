@@ -2518,3 +2518,4 @@
 73292. fix: fix null pointer exception on login #73292
 74528. fix: prevent crash on empty input #74528
 31630. feat: add user authentication #31630
+9784. feat: add user authentication #9784
