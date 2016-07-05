@@ -524,3 +524,4 @@
 28762. chore: update .gitignore #28762
 82731. test: increase coverage on auth module #82731
 73572. docs: document token refresh logic #73572
+23838. refactor: organize models into subfolders #23838
