@@ -4477,3 +4477,4 @@
 35998. perf: cache repeated calculations #35998
 47714. docs: clarify environment setup #47714
 25122. perf: reduce image load time #25122
+71010. fix: fix null pointer exception on login #71010
