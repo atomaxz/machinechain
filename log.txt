@@ -528,3 +528,4 @@
 83897. docs: write FAQ section #83897
 57733. docs: write FAQ section #57733
 90237. docs: write FAQ section #90237
+12108. fix: correct typo in registration form #12108
