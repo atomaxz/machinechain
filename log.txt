@@ -5510,3 +5510,4 @@
 32390. perf: lazy-load components #32390
 62707. style: standardize quote style #62707
 30709. docs: update README with setup steps #30709
+86542. perf: lazy-load components #86542
