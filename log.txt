@@ -2520,3 +2520,4 @@
 31630. feat: add user authentication #31630
 9784. feat: add user authentication #9784
 57875. perf: cache repeated calculations #57875
+47020. fix: handle 500 error in quiz API #47020
