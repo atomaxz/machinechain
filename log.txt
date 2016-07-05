@@ -5509,3 +5509,4 @@
 35944. test: add integration test for /submit endpoint #35944
 32390. perf: lazy-load components #32390
 62707. style: standardize quote style #62707
+30709. docs: update README with setup steps #30709
