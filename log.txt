@@ -2522,3 +2522,4 @@
 57875. perf: cache repeated calculations #57875
 47020. fix: handle 500 error in quiz API #47020
 67113. style: apply consistent indentation #67113
+58614. test: increase coverage on auth module #58614
