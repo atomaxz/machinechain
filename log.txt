@@ -1541,3 +1541,4 @@
 27579. test: mock database connection in test suite #27579
 42395. style: remove trailing whitespace #42395
 81544. docs: update README with setup steps #81544
+87033. style: remove trailing whitespace #87033
