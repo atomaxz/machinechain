@@ -2523,3 +2523,4 @@
 47020. fix: handle 500 error in quiz API #47020
 67113. style: apply consistent indentation #67113
 58614. test: increase coverage on auth module #58614
+56497. perf: lazy-load components #56497
