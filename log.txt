@@ -6522,3 +6522,4 @@
 35909. test: add unit test for quiz service #35909
 16220. chore: clean up unused files #16220
 47182. feat: enable dark mode toggle #47182
+34179. perf: optimize database query for quiz results #34179
