@@ -532,3 +532,4 @@
 84524. fix: handle 500 error in quiz API #84524
 10333. style: reformat files with black #10333
 31628. test: test user registration edge cases #31628
+13394. chore: update .gitignore #13394
