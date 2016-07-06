@@ -5514,3 +5514,4 @@
 72116. chore: rename env.example #72116
 3341. feat: create admin dashboard #3341
 6304. style: apply consistent indentation #6304
+48471. feat: support email verification #48471
