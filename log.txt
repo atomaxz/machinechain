@@ -2525,3 +2525,4 @@
 58614. test: increase coverage on auth module #58614
 56497. perf: lazy-load components #56497
 4505. style: remove trailing whitespace #4505
+74743. refactor: refactor quiz grading logic #74743
