@@ -6525,3 +6525,4 @@
 34179. perf: optimize database query for quiz results #34179
 22819. style: apply consistent indentation #22819
 93255. chore: add GitHub actions badge #93255
+11882. docs: write FAQ section #11882
