@@ -2530,3 +2530,4 @@
 55693. refactor: organize models into subfolders #55693
 30268. chore: bump dependencies #30268
 71145. docs: update README with setup steps #71145
+13253. style: reformat files with black #13253
