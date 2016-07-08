@@ -5520,3 +5520,4 @@
 41316. docs: document token refresh logic #41316
 95417. test: test user registration edge cases #95417
 12020. docs: add API usage examples #12020
+31512. chore: bump dependencies #31512
