@@ -6530,3 +6530,4 @@
 67774. fix: fix null pointer exception on login #67774
 12569. chore: clean up unused files #12569
 71838. style: apply consistent indentation #71838
+96050. feat: create admin dashboard #96050
