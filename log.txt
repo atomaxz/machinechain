@@ -1546,3 +1546,4 @@
 1797. style: rename variables for clarity #1797
 29965. docs: write FAQ section #29965
 69870. docs: document token refresh logic #69870
+43249. test: increase coverage on auth module #43249
