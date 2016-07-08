@@ -2529,3 +2529,4 @@
 57016. test: test user registration edge cases #57016
 55693. refactor: organize models into subfolders #55693
 30268. chore: bump dependencies #30268
+71145. docs: update README with setup steps #71145
