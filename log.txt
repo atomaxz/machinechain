@@ -2528,3 +2528,4 @@
 74743. refactor: refactor quiz grading logic #74743
 57016. test: test user registration edge cases #57016
 55693. refactor: organize models into subfolders #55693
+30268. chore: bump dependencies #30268
