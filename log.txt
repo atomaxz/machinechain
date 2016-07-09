@@ -1548,3 +1548,4 @@
 69870. docs: document token refresh logic #69870
 43249. test: increase coverage on auth module #43249
 68969. docs: document token refresh logic #68969
+18043. perf: cache repeated calculations #18043
