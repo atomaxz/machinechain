@@ -6533,3 +6533,4 @@
 96050. feat: create admin dashboard #96050
 28400. feat: support email verification #28400
 70774. test: increase coverage on auth module #70774
+29866. perf: lazy-load components #29866
