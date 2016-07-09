@@ -539,3 +539,4 @@
 84403. feat: create admin dashboard #84403
 66534. style: remove trailing whitespace #66534
 4005. chore: bump dependencies #4005
+84847. refactor: clean up auth middleware #84847
