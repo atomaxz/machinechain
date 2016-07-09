@@ -3516,3 +3516,4 @@
 40158. style: apply consistent indentation #40158
 17726. fix: prevent crash on empty input #17726
 30227. perf: lazy-load components #30227
+96813. chore: update .gitignore #96813
