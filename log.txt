@@ -541,3 +541,4 @@
 4005. chore: bump dependencies #4005
 84847. refactor: clean up auth middleware #84847
 69762. style: standardize quote style #69762
+76340. feat: support email verification #76340
