@@ -2532,3 +2532,4 @@
 71145. docs: update README with setup steps #71145
 13253. style: reformat files with black #13253
 77526. fix: fix broken CSS in mobile view #77526
+19032. test: increase coverage on auth module #19032
