@@ -543,3 +543,4 @@
 69762. style: standardize quote style #69762
 76340. feat: support email verification #76340
 76297. style: reformat files with black #76297
+30327. feat: enable dark mode toggle #30327
