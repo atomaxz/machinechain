@@ -4493,3 +4493,4 @@
 11032. docs: write FAQ section #11032
 34320. perf: lazy-load components #34320
 38505. test: add integration test for /submit endpoint #38505
+55855. docs: update README with setup steps #55855
