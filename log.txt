@@ -5527,3 +5527,4 @@
 30678. refactor: refactor quiz grading logic #30678
 67434. chore: update .gitignore #67434
 5009. refactor: refactor quiz grading logic #5009
+95795. test: mock database connection in test suite #95795
