@@ -547,3 +547,4 @@
 54103. style: reformat files with black #54103
 34910. feat: add user authentication #34910
 45518. test: mock database connection in test suite #45518
+95835. chore: rename env.example #95835
