@@ -1561,3 +1561,4 @@
 91955. refactor: split large controller into smaller functions #91955
 47240. chore: rename env.example #47240
 16679. fix: correct typo in registration form #16679
+82973. chore: update .gitignore #82973
