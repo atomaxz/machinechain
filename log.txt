@@ -1560,3 +1560,4 @@
 28555. feat: add export to CSV option #28555
 91955. refactor: split large controller into smaller functions #91955
 47240. chore: rename env.example #47240
+16679. fix: correct typo in registration form #16679
