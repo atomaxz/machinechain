@@ -6541,3 +6541,4 @@
 23093. style: standardize quote style #23093
 92046. fix: resolve issue with date parsing #92046
 35266. fix: handle 500 error in quiz API #35266
+98474. perf: optimize database query for quiz results #98474
