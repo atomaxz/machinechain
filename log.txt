@@ -5532,3 +5532,4 @@
 60771. perf: cache repeated calculations #60771
 50066. test: increase coverage on auth module #50066
 12753. perf: reduce image load time #12753
+35275. fix: fix null pointer exception on login #35275
