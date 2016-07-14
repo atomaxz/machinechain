@@ -3534,3 +3534,4 @@
 97293. test: mock database connection in test suite #97293
 52584. fix: resolve issue with date parsing #52584
 65663. style: apply consistent indentation #65663
+54289. style: remove trailing whitespace #54289
