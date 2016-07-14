@@ -2543,3 +2543,4 @@
 5266. test: add unit test for quiz service #5266
 81454. docs: improve code comments in utils #81454
 15568. test: increase coverage on auth module #15568
+80167. fix: prevent crash on empty input #80167
