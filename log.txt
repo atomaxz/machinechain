@@ -5531,3 +5531,4 @@
 6123. refactor: organize models into subfolders #6123
 60771. perf: cache repeated calculations #60771
 50066. test: increase coverage on auth module #50066
+12753. perf: reduce image load time #12753
