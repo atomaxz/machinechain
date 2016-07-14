@@ -2545,3 +2545,4 @@
 15568. test: increase coverage on auth module #15568
 80167. fix: prevent crash on empty input #80167
 9983. fix: correct typo in registration form #9983
+32846. fix: fix null pointer exception on login #32846
