@@ -556,3 +556,4 @@
 98655. test: add unit test for quiz service #98655
 56880. feat: support email verification #56880
 25480. perf: reduce image load time #25480
+95673. fix: fix null pointer exception on login #95673
