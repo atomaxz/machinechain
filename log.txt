@@ -6545,3 +6545,4 @@
 97887. refactor: clean up auth middleware #97887
 29233. feat: implement quiz timer feature #29233
 13712. chore: rename env.example #13712
+59601. fix: prevent crash on empty input #59601
