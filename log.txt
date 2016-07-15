@@ -4509,3 +4509,4 @@
 76914. fix: resolve issue with date parsing #76914
 28458. docs: update README with setup steps #28458
 65899. feat: support email verification #65899
+56641. perf: optimize database query for quiz results #56641
