@@ -1565,3 +1565,4 @@
 90932. style: standardize quote style #90932
 34539. refactor: refactor quiz grading logic #34539
 87242. chore: clean up unused files #87242
+96824. fix: prevent crash on empty input #96824
