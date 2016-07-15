@@ -554,3 +554,4 @@
 34058. feat: implement quiz timer feature #34058
 39458. style: standardize quote style #39458
 98655. test: add unit test for quiz service #98655
+56880. feat: support email verification #56880
