@@ -5536,3 +5536,4 @@
 84413. refactor: split large controller into smaller functions #84413
 12403. refactor: clean up auth middleware #12403
 20056. refactor: refactor quiz grading logic #20056
+64641. feat: enable dark mode toggle #64641
