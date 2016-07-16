@@ -3539,3 +3539,4 @@
 80264. chore: update .gitignore #80264
 98910. fix: fix null pointer exception on login #98910
 67519. docs: clarify environment setup #67519
+26061. feat: support email verification #26061
