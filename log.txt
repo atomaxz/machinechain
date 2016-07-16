@@ -2548,3 +2548,4 @@
 32846. fix: fix null pointer exception on login #32846
 2274. feat: enable dark mode toggle #2274
 9059. feat: add export to CSV option #9059
+53765. refactor: split large controller into smaller functions #53765
