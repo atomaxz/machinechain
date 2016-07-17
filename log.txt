@@ -5541,3 +5541,4 @@
 1455. feat: create admin dashboard #1455
 89448. refactor: remove redundant code blocks #89448
 57750. refactor: split large controller into smaller functions #57750
+80456. fix: handle 500 error in quiz API #80456
