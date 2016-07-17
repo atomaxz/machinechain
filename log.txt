@@ -3540,3 +3540,4 @@
 98910. fix: fix null pointer exception on login #98910
 67519. docs: clarify environment setup #67519
 26061. feat: support email verification #26061
+74926. test: add unit test for quiz service #74926
