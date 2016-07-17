@@ -2553,3 +2553,4 @@
 12558. test: add unit test for quiz service #12558
 21605. fix: resolve issue with date parsing #21605
 53593. test: add unit test for quiz service #53593
+83275. fix: fix broken CSS in mobile view #83275
