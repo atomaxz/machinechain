@@ -1567,3 +1567,4 @@
 87242. chore: clean up unused files #87242
 96824. fix: prevent crash on empty input #96824
 50627. docs: add API usage examples #50627
+98850. test: test user registration edge cases #98850
