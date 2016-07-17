@@ -6551,3 +6551,4 @@
 67266. docs: update README with setup steps #67266
 72234. docs: add API usage examples #72234
 0334. feat: support email verification #334
+47149. refactor: clean up auth middleware #47149
