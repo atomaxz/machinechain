@@ -561,3 +561,4 @@
 4615. perf: reduce image load time #4615
 59216. refactor: organize models into subfolders #59216
 86649. chore: clean up unused files #86649
+16360. fix: prevent crash on empty input #16360
