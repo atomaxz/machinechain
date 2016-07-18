@@ -6553,3 +6553,4 @@
 0334. feat: support email verification #334
 47149. refactor: clean up auth middleware #47149
 73406. docs: write FAQ section #73406
+65850. fix: prevent crash on empty input #65850
