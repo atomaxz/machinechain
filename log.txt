@@ -6554,3 +6554,4 @@
 47149. refactor: clean up auth middleware #47149
 73406. docs: write FAQ section #73406
 65850. fix: prevent crash on empty input #65850
+23237. style: reformat files with black #23237
