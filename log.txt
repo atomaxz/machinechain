@@ -2556,3 +2556,4 @@
 83275. fix: fix broken CSS in mobile view #83275
 7783. test: mock database connection in test suite #7783
 88464. perf: reduce image load time #88464
+64587. fix: prevent crash on empty input #64587
