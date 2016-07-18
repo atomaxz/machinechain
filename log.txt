@@ -1571,3 +1571,4 @@
 71143. test: add unit test for quiz service #71143
 78953. test: mock database connection in test suite #78953
 7164. chore: bump dependencies #7164
+69212. style: remove trailing whitespace #69212
