@@ -4519,3 +4519,4 @@
 70064. fix: fix null pointer exception on login #70064
 12320. chore: update .gitignore #12320
 67447. fix: fix null pointer exception on login #67447
+31193. fix: fix null pointer exception on login #31193
