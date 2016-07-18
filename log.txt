@@ -6555,3 +6555,4 @@
 73406. docs: write FAQ section #73406
 65850. fix: prevent crash on empty input #65850
 23237. style: reformat files with black #23237
+98464. perf: lazy-load components #98464
