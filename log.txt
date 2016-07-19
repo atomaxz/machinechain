@@ -1578,3 +1578,4 @@
 71734. perf: lazy-load components #71734
 64569. fix: prevent crash on empty input #64569
 81853. fix: fix null pointer exception on login #81853
+40921. test: add unit test for quiz service #40921
