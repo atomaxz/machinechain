@@ -5547,3 +5547,4 @@
 26129. perf: reduce image load time #26129
 72293. refactor: remove redundant code blocks #72293
 78270. fix: handle 500 error in quiz API #78270
+40182. chore: add GitHub actions badge #40182
