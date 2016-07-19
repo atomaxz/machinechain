@@ -4523,3 +4523,4 @@
 36121. feat: create admin dashboard #36121
 92258. test: increase coverage on auth module #92258
 91719. refactor: clean up auth middleware #91719
+75842. fix: fix null pointer exception on login #75842
