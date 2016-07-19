@@ -1577,3 +1577,4 @@
 51944. perf: optimize database query for quiz results #51944
 71734. perf: lazy-load components #71734
 64569. fix: prevent crash on empty input #64569
+81853. fix: fix null pointer exception on login #81853
