@@ -2557,3 +2557,4 @@
 7783. test: mock database connection in test suite #7783
 88464. perf: reduce image load time #88464
 64587. fix: prevent crash on empty input #64587
+47356. style: standardize quote style #47356
