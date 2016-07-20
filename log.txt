@@ -1581,3 +1581,4 @@
 40921. test: add unit test for quiz service #40921
 18030. feat: support email verification #18030
 13957. test: increase coverage on auth module #13957
+24531. refactor: organize models into subfolders #24531
