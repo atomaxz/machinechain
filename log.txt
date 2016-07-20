@@ -4529,3 +4529,4 @@
 81661. style: reformat files with black #81661
 84030. style: apply consistent indentation #84030
 35396. test: test user registration edge cases #35396
+26396. test: mock database connection in test suite #26396
