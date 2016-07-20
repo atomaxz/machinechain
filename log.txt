@@ -6561,3 +6561,4 @@
 27521. style: remove trailing whitespace #27521
 11920. perf: optimize database query for quiz results #11920
 82767. style: rename variables for clarity #82767
+33849. test: add unit test for quiz service #33849
