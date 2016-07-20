@@ -2561,3 +2561,4 @@
 4407. refactor: refactor quiz grading logic #4407
 18612. refactor: split large controller into smaller functions #18612
 67828. feat: add user authentication #67828
+52563. feat: support email verification #52563
