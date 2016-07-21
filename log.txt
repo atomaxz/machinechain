@@ -1583,3 +1583,4 @@
 13957. test: increase coverage on auth module #13957
 24531. refactor: organize models into subfolders #24531
 99249. docs: clarify environment setup #99249
+78439. test: test user registration edge cases #78439
