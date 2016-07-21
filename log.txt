@@ -4533,3 +4533,4 @@
 2585. refactor: clean up auth middleware #2585
 74666. style: reformat files with black #74666
 35570. perf: cache repeated calculations #35570
+54830. docs: update README with setup steps #54830
