@@ -1585,3 +1585,4 @@
 99249. docs: clarify environment setup #99249
 78439. test: test user registration edge cases #78439
 26225. fix: fix null pointer exception on login #26225
+37922. docs: update README with setup steps #37922
