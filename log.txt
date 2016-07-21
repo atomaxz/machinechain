@@ -569,3 +569,4 @@
 74210. style: apply consistent indentation #74210
 88321. fix: fix broken CSS in mobile view #88321
 47346. test: increase coverage on auth module #47346
+28329. docs: write FAQ section #28329
