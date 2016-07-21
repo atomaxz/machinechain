@@ -6565,3 +6565,4 @@
 24605. test: mock database connection in test suite #24605
 74038. chore: add GitHub actions badge #74038
 73241. style: standardize quote style #73241
+67128. style: standardize quote style #67128
