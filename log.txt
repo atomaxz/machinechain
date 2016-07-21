@@ -2565,3 +2565,4 @@
 41410. fix: correct typo in registration form #41410
 77840. style: remove trailing whitespace #77840
 15302. docs: document token refresh logic #15302
+51072. docs: clarify environment setup #51072
