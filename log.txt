@@ -1592,3 +1592,4 @@
 7070. fix: fix null pointer exception on login #7070
 72480. fix: fix broken CSS in mobile view #72480
 92218. test: add unit test for quiz service #92218
+72450. refactor: organize models into subfolders #72450
