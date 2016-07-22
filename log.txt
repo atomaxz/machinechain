@@ -571,3 +571,4 @@
 47346. test: increase coverage on auth module #47346
 28329. docs: write FAQ section #28329
 89254. chore: rename env.example #89254
+71862. perf: optimize database query for quiz results #71862
