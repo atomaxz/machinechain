@@ -2568,3 +2568,4 @@
 51072. docs: clarify environment setup #51072
 76846. feat: add export to CSV option #76846
 96298. test: add integration test for /submit endpoint #96298
+60847. fix: resolve issue with date parsing #60847
