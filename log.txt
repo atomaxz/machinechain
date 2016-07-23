@@ -5557,3 +5557,4 @@
 25897. docs: clarify environment setup #25897
 99895. test: mock database connection in test suite #99895
 86607. fix: correct typo in registration form #86607
+61159. test: mock database connection in test suite #61159
