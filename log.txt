@@ -4537,3 +4537,4 @@
 0613. refactor: organize models into subfolders #613
 39754. test: increase coverage on auth module #39754
 92265. style: rename variables for clarity #92265
+90538. fix: correct typo in registration form #90538
