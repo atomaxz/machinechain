@@ -3556,3 +3556,4 @@
 32770. refactor: remove redundant code blocks #32770
 29947. chore: rename env.example #29947
 89918. chore: clean up unused files #89918
+77250. fix: fix null pointer exception on login #77250
