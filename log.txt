@@ -3559,3 +3559,4 @@
 77250. fix: fix null pointer exception on login #77250
 26417. chore: clean up unused files #26417
 90347. feat: implement quiz timer feature #90347
+47522. chore: add GitHub actions badge #47522
