@@ -5559,3 +5559,4 @@
 86607. fix: correct typo in registration form #86607
 61159. test: mock database connection in test suite #61159
 27104. test: mock database connection in test suite #27104
+13287. chore: clean up unused files #13287
