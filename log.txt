@@ -574,3 +574,4 @@
 71862. perf: optimize database query for quiz results #71862
 7976. docs: write FAQ section #7976
 58359. feat: enable dark mode toggle #58359
+9336. refactor: organize models into subfolders #9336
