@@ -1600,3 +1600,4 @@
 75799. refactor: organize models into subfolders #75799
 72355. refactor: remove redundant code blocks #72355
 42332. feat: enable dark mode toggle #42332
+1749. fix: prevent crash on empty input #1749
