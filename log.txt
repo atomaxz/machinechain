@@ -580,3 +580,4 @@
 11098. perf: optimize database query for quiz results #11098
 69161. docs: document token refresh logic #69161
 94570. feat: create admin dashboard #94570
+94920. perf: optimize database query for quiz results #94920
