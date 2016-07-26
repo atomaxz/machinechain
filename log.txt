@@ -6582,3 +6582,4 @@
 41342. chore: bump dependencies #41342
 4408. feat: add export to CSV option #4408
 54450. feat: create admin dashboard #54450
+96406. test: mock database connection in test suite #96406
