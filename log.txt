@@ -2575,3 +2575,4 @@
 65990. perf: lazy-load components #65990
 24762. chore: clean up unused files #24762
 78527. chore: rename env.example #78527
+6081. test: test user registration edge cases #6081
