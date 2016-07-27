@@ -1605,3 +1605,4 @@
 36405. chore: bump dependencies #36405
 15368. perf: optimize database query for quiz results #15368
 90649. test: test user registration edge cases #90649
+43367. refactor: organize models into subfolders #43367
