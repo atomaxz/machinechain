@@ -2579,3 +2579,4 @@
 26477. perf: cache repeated calculations #26477
 26563. chore: clean up unused files #26563
 12892. perf: lazy-load components #12892
+43936. refactor: clean up auth middleware #43936
