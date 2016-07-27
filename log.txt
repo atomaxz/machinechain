@@ -4551,3 +4551,4 @@
 66580. style: apply consistent indentation #66580
 54796. chore: add GitHub actions badge #54796
 97363. style: standardize quote style #97363
+26500. docs: update README with setup steps #26500
