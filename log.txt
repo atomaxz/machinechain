@@ -5566,3 +5566,4 @@
 64064. test: test user registration edge cases #64064
 54414. test: increase coverage on auth module #54414
 88535. chore: update .gitignore #88535
+75193. docs: add API usage examples #75193
