@@ -1603,3 +1603,4 @@
 1749. fix: prevent crash on empty input #1749
 47181. refactor: split large controller into smaller functions #47181
 36405. chore: bump dependencies #36405
+15368. perf: optimize database query for quiz results #15368
