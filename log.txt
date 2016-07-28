@@ -6586,3 +6586,4 @@
 96200. fix: fix broken CSS in mobile view #96200
 59104. test: add unit test for quiz service #59104
 77281. chore: clean up unused files #77281
+88362. fix: handle 500 error in quiz API #88362
