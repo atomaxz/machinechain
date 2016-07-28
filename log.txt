@@ -5569,3 +5569,4 @@
 75193. docs: add API usage examples #75193
 83994. chore: rename env.example #83994
 16244. docs: clarify environment setup #16244
+45041. perf: cache repeated calculations #45041
