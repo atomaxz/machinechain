@@ -1607,3 +1607,4 @@
 90649. test: test user registration edge cases #90649
 43367. refactor: organize models into subfolders #43367
 9221. style: reformat files with black #9221
+47850. test: mock database connection in test suite #47850
