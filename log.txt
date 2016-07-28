@@ -2581,3 +2581,4 @@
 12892. perf: lazy-load components #12892
 43936. refactor: clean up auth middleware #43936
 55515. docs: add API usage examples #55515
+38512. perf: lazy-load components #38512
