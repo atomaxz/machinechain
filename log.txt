@@ -5573,3 +5573,4 @@
 79082. test: mock database connection in test suite #79082
 32802. style: rename variables for clarity #32802
 59503. chore: update .gitignore #59503
+0907. fix: fix broken CSS in mobile view #907
