@@ -1610,3 +1610,4 @@
 47850. test: mock database connection in test suite #47850
 25929. fix: prevent crash on empty input #25929
 4570. feat: enable dark mode toggle #4570
+44119. feat: support email verification #44119
