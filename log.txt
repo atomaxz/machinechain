@@ -1613,3 +1613,4 @@
 44119. feat: support email verification #44119
 21907. chore: rename env.example #21907
 38411. style: apply consistent indentation #38411
+37028. style: rename variables for clarity #37028
