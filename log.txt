@@ -5570,3 +5570,4 @@
 83994. chore: rename env.example #83994
 16244. docs: clarify environment setup #16244
 45041. perf: cache repeated calculations #45041
+79082. test: mock database connection in test suite #79082
