@@ -3573,3 +3573,4 @@
 6924. chore: update .gitignore #6924
 22572. chore: rename env.example #22572
 69352. refactor: split large controller into smaller functions #69352
+11489. feat: create admin dashboard #11489
