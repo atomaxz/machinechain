@@ -1614,3 +1614,4 @@
 21907. chore: rename env.example #21907
 38411. style: apply consistent indentation #38411
 37028. style: rename variables for clarity #37028
+67700. fix: fix null pointer exception on login #67700
