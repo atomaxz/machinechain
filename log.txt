@@ -5574,3 +5574,4 @@
 32802. style: rename variables for clarity #32802
 59503. chore: update .gitignore #59503
 0907. fix: fix broken CSS in mobile view #907
+24306. fix: prevent crash on empty input #24306
