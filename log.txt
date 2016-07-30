@@ -3574,3 +3574,4 @@
 22572. chore: rename env.example #22572
 69352. refactor: split large controller into smaller functions #69352
 11489. feat: create admin dashboard #11489
+67050. chore: add GitHub actions badge #67050
