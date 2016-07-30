@@ -585,3 +585,4 @@
 25216. refactor: clean up auth middleware #25216
 83378. fix: resolve issue with date parsing #83378
 85718. fix: fix null pointer exception on login #85718
+35480. test: mock database connection in test suite #35480
