@@ -4558,3 +4558,4 @@
 48535. style: remove trailing whitespace #48535
 70030. feat: add export to CSV option #70030
 97958. perf: reduce image load time #97958
+68675. fix: prevent crash on empty input #68675
