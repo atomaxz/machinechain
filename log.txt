@@ -5576,3 +5576,4 @@
 0907. fix: fix broken CSS in mobile view #907
 24306. fix: prevent crash on empty input #24306
 15980. perf: optimize database query for quiz results #15980
+11971. style: standardize quote style #11971
