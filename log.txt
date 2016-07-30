@@ -3575,3 +3575,4 @@
 69352. refactor: split large controller into smaller functions #69352
 11489. feat: create admin dashboard #11489
 67050. chore: add GitHub actions badge #67050
+37401. test: mock database connection in test suite #37401
