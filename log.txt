@@ -1617,3 +1617,4 @@
 67700. fix: fix null pointer exception on login #67700
 90927. chore: update .gitignore #90927
 43004. refactor: remove redundant code blocks #43004
+11765. fix: fix broken CSS in mobile view #11765
