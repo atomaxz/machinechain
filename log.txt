@@ -588,3 +588,4 @@
 35480. test: mock database connection in test suite #35480
 94569. perf: cache repeated calculations #94569
 8313. perf: lazy-load components #8313
+94235. docs: clarify environment setup #94235
