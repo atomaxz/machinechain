@@ -6590,3 +6590,4 @@
 37589. test: test user registration edge cases #37589
 66946. feat: add user authentication #66946
 29847. refactor: refactor quiz grading logic #29847
+77971. fix: fix null pointer exception on login #77971
