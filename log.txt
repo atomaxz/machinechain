@@ -6597,3 +6597,4 @@
 62895. docs: add API usage examples #62895
 56885. chore: clean up unused files #56885
 43839. perf: lazy-load components #43839
+32649. perf: optimize database query for quiz results #32649
