@@ -5580,3 +5580,4 @@
 26111. docs: update README with setup steps #26111
 56996. fix: handle 500 error in quiz API #56996
 47516. test: mock database connection in test suite #47516
+2216. chore: rename env.example #2216
