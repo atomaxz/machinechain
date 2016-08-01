@@ -4566,3 +4566,4 @@
 19591. docs: update README with setup steps #19591
 57706. perf: lazy-load components #57706
 5520. refactor: clean up auth middleware #5520
+3686. style: rename variables for clarity #3686
