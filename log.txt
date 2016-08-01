@@ -590,3 +590,4 @@
 8313. perf: lazy-load components #8313
 94235. docs: clarify environment setup #94235
 85143. style: remove trailing whitespace #85143
+67442. test: test user registration edge cases #67442
