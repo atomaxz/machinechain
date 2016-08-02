@@ -5583,3 +5583,4 @@
 2216. chore: rename env.example #2216
 53904. fix: correct typo in registration form #53904
 92857. fix: resolve issue with date parsing #92857
+5805. perf: lazy-load components #5805
