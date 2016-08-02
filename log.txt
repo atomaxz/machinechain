@@ -592,3 +592,4 @@
 85143. style: remove trailing whitespace #85143
 67442. test: test user registration edge cases #67442
 91951. fix: resolve issue with date parsing #91951
+23397. chore: bump dependencies #23397
