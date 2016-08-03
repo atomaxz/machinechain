@@ -3584,3 +3584,4 @@
 73792. chore: rename env.example #73792
 87870. perf: lazy-load components #87870
 19348. fix: resolve issue with date parsing #19348
+87596. perf: lazy-load components #87596
