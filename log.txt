@@ -5584,3 +5584,4 @@
 53904. fix: correct typo in registration form #53904
 92857. fix: resolve issue with date parsing #92857
 5805. perf: lazy-load components #5805
+1779. chore: update .gitignore #1779
