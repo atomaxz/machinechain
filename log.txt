@@ -596,3 +596,4 @@
 3138. chore: clean up unused files #3138
 27846. refactor: clean up auth middleware #27846
 48747. fix: fix broken CSS in mobile view #48747
+37277. feat: create admin dashboard #37277
