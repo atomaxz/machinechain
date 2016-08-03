@@ -2595,3 +2595,4 @@
 50560. refactor: split large controller into smaller functions #50560
 31958. fix: handle 500 error in quiz API #31958
 58029. fix: fix null pointer exception on login #58029
+87785. docs: document token refresh logic #87785
