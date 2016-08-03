@@ -2593,3 +2593,4 @@
 80257. style: rename variables for clarity #80257
 27554. test: test user registration edge cases #27554
 50560. refactor: split large controller into smaller functions #50560
+31958. fix: handle 500 error in quiz API #31958
