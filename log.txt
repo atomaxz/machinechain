@@ -598,3 +598,4 @@
 48747. fix: fix broken CSS in mobile view #48747
 37277. feat: create admin dashboard #37277
 90252. fix: prevent crash on empty input #90252
+51266. feat: enable dark mode toggle #51266
