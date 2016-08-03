@@ -595,3 +595,4 @@
 23397. chore: bump dependencies #23397
 3138. chore: clean up unused files #3138
 27846. refactor: clean up auth middleware #27846
+48747. fix: fix broken CSS in mobile view #48747
