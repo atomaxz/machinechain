@@ -594,3 +594,4 @@
 91951. fix: resolve issue with date parsing #91951
 23397. chore: bump dependencies #23397
 3138. chore: clean up unused files #3138
+27846. refactor: clean up auth middleware #27846
