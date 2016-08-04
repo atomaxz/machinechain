@@ -1632,3 +1632,4 @@
 34977. docs: improve code comments in utils #34977
 39234. test: test user registration edge cases #39234
 82511. chore: add GitHub actions badge #82511
+13432. fix: fix null pointer exception on login #13432
