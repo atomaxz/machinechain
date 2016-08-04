@@ -601,3 +601,4 @@
 51266. feat: enable dark mode toggle #51266
 12998. chore: rename env.example #12998
 63458. fix: fix broken CSS in mobile view #63458
+49360. style: standardize quote style #49360
