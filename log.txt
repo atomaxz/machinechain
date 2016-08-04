@@ -2596,3 +2596,4 @@
 31958. fix: handle 500 error in quiz API #31958
 58029. fix: fix null pointer exception on login #58029
 87785. docs: document token refresh logic #87785
+37041. perf: lazy-load components #37041
