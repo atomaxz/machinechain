@@ -1634,3 +1634,4 @@
 82511. chore: add GitHub actions badge #82511
 13432. fix: fix null pointer exception on login #13432
 11600. perf: lazy-load components #11600
+13279. chore: update .gitignore #13279
