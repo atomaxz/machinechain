@@ -3587,3 +3587,4 @@
 87596. perf: lazy-load components #87596
 91275. test: add integration test for /submit endpoint #91275
 52624. perf: optimize database query for quiz results #52624
+1818. perf: reduce image load time #1818
