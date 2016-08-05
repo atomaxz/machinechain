@@ -2599,3 +2599,4 @@
 37041. perf: lazy-load components #37041
 19405. chore: rename env.example #19405
 32137. style: standardize quote style #32137
+80480. chore: add GitHub actions badge #80480
