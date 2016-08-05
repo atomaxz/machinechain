@@ -6604,3 +6604,4 @@
 43411. chore: bump dependencies #43411
 94138. perf: lazy-load components #94138
 27035. chore: bump dependencies #27035
+55633. feat: support email verification #55633
