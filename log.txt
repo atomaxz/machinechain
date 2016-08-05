@@ -602,3 +602,4 @@
 12998. chore: rename env.example #12998
 63458. fix: fix broken CSS in mobile view #63458
 49360. style: standardize quote style #49360
+45273. perf: lazy-load components #45273
