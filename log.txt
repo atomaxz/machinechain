@@ -4583,3 +4583,4 @@
 79014. fix: correct typo in registration form #79014
 84212. docs: document token refresh logic #84212
 52606. perf: lazy-load components #52606
+84597. feat: add user authentication #84597
