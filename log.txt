@@ -3598,3 +3598,4 @@
 43393. test: add unit test for quiz service #43393
 21811. fix: fix broken CSS in mobile view #21811
 88652. perf: cache repeated calculations #88652
+75445. style: standardize quote style #75445
