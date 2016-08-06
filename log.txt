@@ -4581,3 +4581,4 @@
 44432. test: increase coverage on auth module #44432
 43283. chore: rename env.example #43283
 79014. fix: correct typo in registration form #79014
+84212. docs: document token refresh logic #84212
