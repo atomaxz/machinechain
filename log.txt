@@ -3597,3 +3597,4 @@
 37563. perf: lazy-load components #37563
 43393. test: add unit test for quiz service #43393
 21811. fix: fix broken CSS in mobile view #21811
+88652. perf: cache repeated calculations #88652
