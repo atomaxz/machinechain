@@ -4587,3 +4587,4 @@
 63843. feat: add export to CSV option #63843
 56722. feat: support email verification #56722
 22052. style: rename variables for clarity #22052
+44504. fix: correct typo in registration form #44504
