@@ -3593,3 +3593,4 @@
 6469. test: increase coverage on auth module #6469
 64679. perf: cache repeated calculations #64679
 31355. style: reformat files with black #31355
+77781. chore: add GitHub actions badge #77781
