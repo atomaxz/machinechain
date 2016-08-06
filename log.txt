@@ -4585,3 +4585,4 @@
 52606. perf: lazy-load components #52606
 84597. feat: add user authentication #84597
 63843. feat: add export to CSV option #63843
+56722. feat: support email verification #56722
