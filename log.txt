@@ -1636,3 +1636,4 @@
 11600. perf: lazy-load components #11600
 13279. chore: update .gitignore #13279
 99397. refactor: organize models into subfolders #99397
+19388. fix: prevent crash on empty input #19388
