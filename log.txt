@@ -606,3 +606,4 @@
 41549. chore: add GitHub actions badge #41549
 8174. style: reformat files with black #8174
 10982. refactor: remove redundant code blocks #10982
+70666. fix: fix null pointer exception on login #70666
