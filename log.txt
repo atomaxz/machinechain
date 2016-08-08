@@ -5592,3 +5592,4 @@
 32842. perf: reduce image load time #32842
 9464. style: rename variables for clarity #9464
 39983. perf: lazy-load components #39983
+31433. chore: bump dependencies #31433
