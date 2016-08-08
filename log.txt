@@ -4593,3 +4593,4 @@
 77387. feat: support email verification #77387
 45434. test: add unit test for quiz service #45434
 5470. test: mock database connection in test suite #5470
+3953. feat: add user authentication #3953
