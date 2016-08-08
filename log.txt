@@ -4595,3 +4595,4 @@
 5470. test: mock database connection in test suite #5470
 3953. feat: add user authentication #3953
 57380. feat: enable dark mode toggle #57380
+25229. refactor: organize models into subfolders #25229
