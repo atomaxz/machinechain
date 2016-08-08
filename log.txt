@@ -4590,3 +4590,4 @@
 44504. fix: correct typo in registration form #44504
 33920. fix: prevent crash on empty input #33920
 55322. perf: cache repeated calculations #55322
+77387. feat: support email verification #77387
