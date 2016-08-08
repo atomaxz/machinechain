@@ -6618,3 +6618,4 @@
 15032. fix: fix broken CSS in mobile view #15032
 96084. test: increase coverage on auth module #96084
 67262. docs: improve code comments in utils #67262
+81798. feat: support email verification #81798
