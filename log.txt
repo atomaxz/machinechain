@@ -3601,3 +3601,4 @@
 75445. style: standardize quote style #75445
 91431. fix: resolve issue with date parsing #91431
 37555. style: standardize quote style #37555
+19317. chore: add GitHub actions badge #19317
