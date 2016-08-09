@@ -6621,3 +6621,4 @@
 81798. feat: support email verification #81798
 86308. test: add unit test for quiz service #86308
 81302. test: add unit test for quiz service #81302
+1233. fix: correct typo in registration form #1233
