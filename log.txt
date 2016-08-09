@@ -6624,3 +6624,4 @@
 1233. fix: correct typo in registration form #1233
 3754. docs: write FAQ section #3754
 17490. chore: bump dependencies #17490
+3673. docs: clarify environment setup #3673
