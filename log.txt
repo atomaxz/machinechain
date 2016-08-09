@@ -2611,3 +2611,4 @@
 22297. perf: cache repeated calculations #22297
 1093. feat: enable dark mode toggle #1093
 58248. docs: improve code comments in utils #58248
+94402. fix: correct typo in registration form #94402
