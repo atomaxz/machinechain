@@ -612,3 +612,4 @@
 16115. feat: add user authentication #16115
 79338. fix: correct typo in registration form #79338
 96680. feat: create admin dashboard #96680
+67667. docs: document token refresh logic #67667
