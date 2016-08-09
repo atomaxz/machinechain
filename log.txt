@@ -5595,3 +5595,4 @@
 31433. chore: bump dependencies #31433
 18005. refactor: clean up auth middleware #18005
 62732. perf: lazy-load components #62732
+7550. test: increase coverage on auth module #7550
