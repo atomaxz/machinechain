@@ -610,3 +610,4 @@
 85476. docs: add API usage examples #85476
 82157. feat: enable dark mode toggle #82157
 16115. feat: add user authentication #16115
+79338. fix: correct typo in registration form #79338
