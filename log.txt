@@ -2614,3 +2614,4 @@
 94402. fix: correct typo in registration form #94402
 46032. feat: add export to CSV option #46032
 7935. style: standardize quote style #7935
+4062. chore: bump dependencies #4062
