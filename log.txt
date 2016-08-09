@@ -6625,3 +6625,4 @@
 3754. docs: write FAQ section #3754
 17490. chore: bump dependencies #17490
 3673. docs: clarify environment setup #3673
+88618. fix: fix null pointer exception on login #88618
