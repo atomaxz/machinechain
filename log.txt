@@ -5598,3 +5598,4 @@
 7550. test: increase coverage on auth module #7550
 99950. perf: cache repeated calculations #99950
 86057. perf: optimize database query for quiz results #86057
+18662. chore: update .gitignore #18662
