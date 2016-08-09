@@ -6619,3 +6619,4 @@
 96084. test: increase coverage on auth module #96084
 67262. docs: improve code comments in utils #67262
 81798. feat: support email verification #81798
+86308. test: add unit test for quiz service #86308
