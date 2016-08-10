@@ -2618,3 +2618,4 @@
 30004. refactor: clean up auth middleware #30004
 8885. feat: implement quiz timer feature #8885
 86370. chore: rename env.example #86370
+44754. feat: add user authentication #44754
