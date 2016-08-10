@@ -4602,3 +4602,4 @@
 89845. perf: optimize database query for quiz results #89845
 43227. feat: support email verification #43227
 25501. chore: update .gitignore #25501
+29642. fix: handle 500 error in quiz API #29642
