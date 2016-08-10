@@ -3608,3 +3608,4 @@
 72801. chore: add GitHub actions badge #72801
 80487. feat: add export to CSV option #80487
 21612. perf: cache repeated calculations #21612
+48319. style: apply consistent indentation #48319
