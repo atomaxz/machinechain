@@ -6627,3 +6627,4 @@
 3673. docs: clarify environment setup #3673
 88618. fix: fix null pointer exception on login #88618
 86334. feat: support email verification #86334
+95931. refactor: remove redundant code blocks #95931
