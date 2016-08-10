@@ -3610,3 +3610,4 @@
 21612. perf: cache repeated calculations #21612
 48319. style: apply consistent indentation #48319
 75053. fix: fix broken CSS in mobile view #75053
+0106. style: standardize quote style #106
