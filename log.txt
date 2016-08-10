@@ -6629,3 +6629,4 @@
 86334. feat: support email verification #86334
 95931. refactor: remove redundant code blocks #95931
 23471. test: mock database connection in test suite #23471
+3634. fix: fix null pointer exception on login #3634
