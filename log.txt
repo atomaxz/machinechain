@@ -5603,3 +5603,4 @@
 53798. fix: prevent crash on empty input #53798
 66412. style: reformat files with black #66412
 72990. refactor: clean up auth middleware #72990
+80089. feat: enable dark mode toggle #80089
