@@ -4606,3 +4606,4 @@
 22887. perf: reduce image load time #22887
 30911. style: standardize quote style #30911
 73973. test: add integration test for /submit endpoint #73973
+45827. perf: lazy-load components #45827
