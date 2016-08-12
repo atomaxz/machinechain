@@ -3614,3 +3614,4 @@
 4561. docs: improve code comments in utils #4561
 15147. chore: clean up unused files #15147
 71155. feat: support email verification #71155
+31628. test: test user registration edge cases #31628
