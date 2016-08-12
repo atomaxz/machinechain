@@ -615,3 +615,4 @@
 67667. docs: document token refresh logic #67667
 49973. test: add integration test for /submit endpoint #49973
 90242. style: rename variables for clarity #90242
+27837. fix: prevent crash on empty input #27837
