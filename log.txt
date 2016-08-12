@@ -617,3 +617,4 @@
 90242. style: rename variables for clarity #90242
 27837. fix: prevent crash on empty input #27837
 98970. chore: bump dependencies #98970
+22188. style: remove trailing whitespace #22188
