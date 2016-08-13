@@ -3617,3 +3617,4 @@
 31628. test: test user registration edge cases #31628
 79541. refactor: organize models into subfolders #79541
 83592. test: mock database connection in test suite #83592
+38224. chore: add GitHub actions badge #38224
