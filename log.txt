@@ -621,3 +621,4 @@
 62790. refactor: split large controller into smaller functions #62790
 4865. style: apply consistent indentation #4865
 57839. feat: implement quiz timer feature #57839
+23834. perf: optimize database query for quiz results #23834
