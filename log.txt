@@ -2626,3 +2626,4 @@
 28466. fix: correct typo in registration form #28466
 11806. docs: write FAQ section #11806
 74940. perf: lazy-load components #74940
+61560. feat: support email verification #61560
