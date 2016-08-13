@@ -3615,3 +3615,4 @@
 15147. chore: clean up unused files #15147
 71155. feat: support email verification #71155
 31628. test: test user registration edge cases #31628
+79541. refactor: organize models into subfolders #79541
