@@ -3618,3 +3618,4 @@
 79541. refactor: organize models into subfolders #79541
 83592. test: mock database connection in test suite #83592
 38224. chore: add GitHub actions badge #38224
+79274. docs: document token refresh logic #79274
