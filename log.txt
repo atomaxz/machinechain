@@ -2631,3 +2631,4 @@
 88601. feat: create admin dashboard #88601
 98969. chore: clean up unused files #98969
 63814. feat: support email verification #63814
+4074. docs: write FAQ section #4074
