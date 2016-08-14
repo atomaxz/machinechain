@@ -5613,3 +5613,4 @@
 40644. test: add unit test for quiz service #40644
 2884. feat: create admin dashboard #2884
 62877. fix: prevent crash on empty input #62877
+80947. test: increase coverage on auth module #80947
