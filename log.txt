@@ -6637,3 +6637,4 @@
 53916. refactor: remove redundant code blocks #53916
 6547. perf: cache repeated calculations #6547
 81539. docs: improve code comments in utils #81539
+38447. style: remove trailing whitespace #38447
