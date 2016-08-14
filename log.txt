@@ -5612,3 +5612,4 @@
 98017. feat: enable dark mode toggle #98017
 40644. test: add unit test for quiz service #40644
 2884. feat: create admin dashboard #2884
+62877. fix: prevent crash on empty input #62877
