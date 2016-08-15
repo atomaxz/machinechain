@@ -630,3 +630,4 @@
 60196. refactor: split large controller into smaller functions #60196
 92515. perf: reduce image load time #92515
 76955. docs: document token refresh logic #76955
+60699. fix: handle 500 error in quiz API #60699
