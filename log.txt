@@ -6639,3 +6639,4 @@
 81539. docs: improve code comments in utils #81539
 38447. style: remove trailing whitespace #38447
 72905. docs: document token refresh logic #72905
+9456. test: increase coverage on auth module #9456
