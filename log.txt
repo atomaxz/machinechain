@@ -3622,3 +3622,4 @@
 62848. docs: improve code comments in utils #62848
 38530. chore: clean up unused files #38530
 0995. fix: handle 500 error in quiz API #995
+97473. fix: fix null pointer exception on login #97473
