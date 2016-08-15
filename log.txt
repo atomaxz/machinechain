@@ -2632,3 +2632,4 @@
 98969. chore: clean up unused files #98969
 63814. feat: support email verification #63814
 4074. docs: write FAQ section #4074
+12362. perf: reduce image load time #12362
