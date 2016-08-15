@@ -4616,3 +4616,4 @@
 45360. docs: clarify environment setup #45360
 73654. docs: update README with setup steps #73654
 41971. docs: document token refresh logic #41971
+61723. fix: handle 500 error in quiz API #61723
