@@ -631,3 +631,4 @@
 92515. perf: reduce image load time #92515
 76955. docs: document token refresh logic #76955
 60699. fix: handle 500 error in quiz API #60699
+20987. refactor: remove redundant code blocks #20987
