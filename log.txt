@@ -3623,3 +3623,4 @@
 38530. chore: clean up unused files #38530
 0995. fix: handle 500 error in quiz API #995
 97473. fix: fix null pointer exception on login #97473
+23751. fix: resolve issue with date parsing #23751
