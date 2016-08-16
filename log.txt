@@ -3625,3 +3625,4 @@
 97473. fix: fix null pointer exception on login #97473
 23751. fix: resolve issue with date parsing #23751
 58671. style: reformat files with black #58671
+73008. test: increase coverage on auth module #73008
