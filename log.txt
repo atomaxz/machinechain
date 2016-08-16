@@ -4618,3 +4618,4 @@
 41971. docs: document token refresh logic #41971
 61723. fix: handle 500 error in quiz API #61723
 52660. docs: update README with setup steps #52660
+30416. perf: cache repeated calculations #30416
