@@ -5617,3 +5617,4 @@
 46940. docs: clarify environment setup #46940
 51655. chore: bump dependencies #51655
 2698. fix: handle 500 error in quiz API #2698
+96817. perf: reduce image load time #96817
