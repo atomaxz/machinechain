@@ -3626,3 +3626,4 @@
 23751. fix: resolve issue with date parsing #23751
 58671. style: reformat files with black #58671
 73008. test: increase coverage on auth module #73008
+30600. chore: rename env.example #30600
