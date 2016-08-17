@@ -2637,3 +2637,4 @@
 25809. chore: add GitHub actions badge #25809
 69149. style: standardize quote style #69149
 70594. chore: update .gitignore #70594
+0774. refactor: split large controller into smaller functions #774
