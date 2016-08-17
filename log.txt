@@ -2636,3 +2636,4 @@
 63275. feat: add export to CSV option #63275
 25809. chore: add GitHub actions badge #25809
 69149. style: standardize quote style #69149
+70594. chore: update .gitignore #70594
