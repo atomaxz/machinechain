@@ -635,3 +635,4 @@
 91332. style: reformat files with black #91332
 40216. perf: lazy-load components #40216
 83599. style: standardize quote style #83599
+89732. refactor: clean up auth middleware #89732
