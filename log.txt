@@ -5621,3 +5621,4 @@
 90769. chore: rename env.example #90769
 45725. style: reformat files with black #45725
 81431. perf: reduce image load time #81431
+82605. style: apply consistent indentation #82605
