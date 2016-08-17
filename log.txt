@@ -637,3 +637,4 @@
 83599. style: standardize quote style #83599
 89732. refactor: clean up auth middleware #89732
 11306. chore: clean up unused files #11306
+30889. feat: support email verification #30889
