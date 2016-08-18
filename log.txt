@@ -5624,3 +5624,4 @@
 82605. style: apply consistent indentation #82605
 18377. feat: enable dark mode toggle #18377
 23984. docs: add API usage examples #23984
+83022. fix: fix null pointer exception on login #83022
