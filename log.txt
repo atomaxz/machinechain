@@ -2640,3 +2640,4 @@
 0774. refactor: split large controller into smaller functions #774
 84312. chore: rename env.example #84312
 98730. fix: fix broken CSS in mobile view #98730
+60259. fix: prevent crash on empty input #60259
