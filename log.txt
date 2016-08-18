@@ -641,3 +641,4 @@
 21428. fix: correct typo in registration form #21428
 72719. docs: update README with setup steps #72719
 55450. style: apply consistent indentation #55450
+72194. chore: bump dependencies #72194
