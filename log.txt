@@ -642,3 +642,4 @@
 72719. docs: update README with setup steps #72719
 55450. style: apply consistent indentation #55450
 72194. chore: bump dependencies #72194
+19401. chore: update .gitignore #19401
