@@ -6645,3 +6645,4 @@
 96440. chore: add GitHub actions badge #96440
 4794. chore: bump dependencies #4794
 24822. refactor: remove redundant code blocks #24822
+78223. feat: enable dark mode toggle #78223
