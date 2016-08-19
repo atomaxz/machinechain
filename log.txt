@@ -5627,3 +5627,4 @@
 83022. fix: fix null pointer exception on login #83022
 92288. test: test user registration edge cases #92288
 34392. perf: optimize database query for quiz results #34392
+15198. refactor: remove redundant code blocks #15198
