@@ -4627,3 +4627,4 @@
 98042. test: mock database connection in test suite #98042
 14611. test: add integration test for /submit endpoint #14611
 83587. test: increase coverage on auth module #83587
+22536. test: add integration test for /submit endpoint #22536
