@@ -6647,3 +6647,4 @@
 24822. refactor: remove redundant code blocks #24822
 78223. feat: enable dark mode toggle #78223
 26567. perf: reduce image load time #26567
+29683. fix: prevent crash on empty input #29683
