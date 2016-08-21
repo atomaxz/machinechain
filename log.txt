@@ -1671,3 +1671,4 @@
 69596. style: apply consistent indentation #69596
 13320. feat: add user authentication #13320
 72831. docs: update README with setup steps #72831
+54616. fix: fix null pointer exception on login #54616
