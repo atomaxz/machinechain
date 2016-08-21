@@ -2647,3 +2647,4 @@
 58215. fix: fix broken CSS in mobile view #58215
 7423. docs: improve code comments in utils #7423
 31076. perf: reduce image load time #31076
+94938. perf: cache repeated calculations #94938
