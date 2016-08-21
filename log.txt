@@ -2644,3 +2644,4 @@
 11582. test: mock database connection in test suite #11582
 5548. perf: lazy-load components #5548
 48082. feat: support email verification #48082
+58215. fix: fix broken CSS in mobile view #58215
