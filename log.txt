@@ -1670,3 +1670,4 @@
 47986. test: mock database connection in test suite #47986
 69596. style: apply consistent indentation #69596
 13320. feat: add user authentication #13320
+72831. docs: update README with setup steps #72831
