@@ -4630,3 +4630,4 @@
 22536. test: add integration test for /submit endpoint #22536
 92912. chore: update .gitignore #92912
 19808. docs: add API usage examples #19808
+69322. refactor: clean up auth middleware #69322
