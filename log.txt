@@ -2646,3 +2646,4 @@
 48082. feat: support email verification #48082
 58215. fix: fix broken CSS in mobile view #58215
 7423. docs: improve code comments in utils #7423
+31076. perf: reduce image load time #31076
