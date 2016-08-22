@@ -5633,3 +5633,4 @@
 74741. test: mock database connection in test suite #74741
 81796. test: add integration test for /submit endpoint #81796
 75504. style: standardize quote style #75504
+10682. fix: prevent crash on empty input #10682
