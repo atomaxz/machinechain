@@ -3641,3 +3641,4 @@
 79526. refactor: remove redundant code blocks #79526
 91074. perf: cache repeated calculations #91074
 34518. fix: handle 500 error in quiz API #34518
+33226. perf: lazy-load components #33226
