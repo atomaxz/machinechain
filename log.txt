@@ -2650,3 +2650,4 @@
 94938. perf: cache repeated calculations #94938
 78222. perf: cache repeated calculations #78222
 80639. style: remove trailing whitespace #80639
+25494. fix: handle 500 error in quiz API #25494
