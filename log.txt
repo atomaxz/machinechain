@@ -654,3 +654,4 @@
 50269. docs: add API usage examples #50269
 6360. style: remove trailing whitespace #6360
 26596. refactor: clean up auth middleware #26596
+14884. perf: optimize database query for quiz results #14884
