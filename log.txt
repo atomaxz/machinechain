@@ -5635,3 +5635,4 @@
 75504. style: standardize quote style #75504
 10682. fix: prevent crash on empty input #10682
 99066. chore: add GitHub actions badge #99066
+78297. test: test user registration edge cases #78297
