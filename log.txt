@@ -4637,3 +4637,4 @@
 96932. feat: support email verification #96932
 85191. chore: rename env.example #85191
 35798. perf: lazy-load components #35798
+58457. test: test user registration edge cases #58457
