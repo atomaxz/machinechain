@@ -6656,3 +6656,4 @@
 34468. style: reformat files with black #34468
 9985. test: add unit test for quiz service #9985
 85793. refactor: remove redundant code blocks #85793
+17068. test: mock database connection in test suite #17068
