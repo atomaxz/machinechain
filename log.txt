@@ -6654,3 +6654,4 @@
 20256. docs: clarify environment setup #20256
 25143. docs: write FAQ section #25143
 34468. style: reformat files with black #34468
+9985. test: add unit test for quiz service #9985
