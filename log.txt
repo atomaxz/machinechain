@@ -655,3 +655,4 @@
 6360. style: remove trailing whitespace #6360
 26596. refactor: clean up auth middleware #26596
 14884. perf: optimize database query for quiz results #14884
+70321. feat: support email verification #70321
