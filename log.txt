@@ -656,3 +656,4 @@
 26596. refactor: clean up auth middleware #26596
 14884. perf: optimize database query for quiz results #14884
 70321. feat: support email verification #70321
+84624. fix: fix broken CSS in mobile view #84624
