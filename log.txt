@@ -3646,3 +3646,4 @@
 1358. style: remove trailing whitespace #1358
 81282. test: add unit test for quiz service #81282
 47429. refactor: organize models into subfolders #47429
+95739. perf: optimize database query for quiz results #95739
