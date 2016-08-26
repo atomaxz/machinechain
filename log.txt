@@ -2659,3 +2659,4 @@
 99017. docs: add API usage examples #99017
 85645. docs: clarify environment setup #85645
 43666. style: rename variables for clarity #43666
+99442. chore: add GitHub actions badge #99442
