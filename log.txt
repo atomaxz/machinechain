@@ -4649,3 +4649,4 @@
 47733. chore: bump dependencies #47733
 24733. refactor: refactor quiz grading logic #24733
 14701. test: test user registration edge cases #14701
+71641. chore: update .gitignore #71641
