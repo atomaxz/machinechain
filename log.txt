@@ -5644,3 +5644,4 @@
 42195. chore: rename env.example #42195
 96729. test: increase coverage on auth module #96729
 47369. feat: implement quiz timer feature #47369
+10609. refactor: clean up auth middleware #10609
