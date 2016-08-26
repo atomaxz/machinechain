@@ -1685,3 +1685,4 @@
 55103. test: mock database connection in test suite #55103
 16078. style: reformat files with black #16078
 82681. feat: enable dark mode toggle #82681
+71806. refactor: organize models into subfolders #71806
