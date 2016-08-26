@@ -6660,3 +6660,4 @@
 43625. style: rename variables for clarity #43625
 27576. style: rename variables for clarity #27576
 31153. docs: add API usage examples #31153
+85445. perf: cache repeated calculations #85445
