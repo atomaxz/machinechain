@@ -4652,3 +4652,4 @@
 71641. chore: update .gitignore #71641
 40761. chore: add GitHub actions badge #40761
 97510. style: remove trailing whitespace #97510
+12254. style: reformat files with black #12254
