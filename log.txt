@@ -5647,3 +5647,4 @@
 10609. refactor: clean up auth middleware #10609
 69863. perf: reduce image load time #69863
 12763. chore: rename env.example #12763
+5417. fix: prevent crash on empty input #5417
