@@ -3651,3 +3651,4 @@
 31354. refactor: split large controller into smaller functions #31354
 70862. feat: implement quiz timer feature #70862
 61202. docs: improve code comments in utils #61202
+96514. docs: write FAQ section #96514
