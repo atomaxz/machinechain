@@ -663,3 +663,4 @@
 5053. perf: reduce image load time #5053
 54164. style: remove trailing whitespace #54164
 4379. fix: correct typo in registration form #4379
+17093. docs: write FAQ section #17093
