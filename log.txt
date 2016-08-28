@@ -6670,3 +6670,4 @@
 48389. perf: cache repeated calculations #48389
 96450. fix: resolve issue with date parsing #96450
 94160. style: reformat files with black #94160
+81898. test: increase coverage on auth module #81898
