@@ -665,3 +665,4 @@
 4379. fix: correct typo in registration form #4379
 17093. docs: write FAQ section #17093
 36857. feat: enable dark mode toggle #36857
+94675. feat: implement quiz timer feature #94675
