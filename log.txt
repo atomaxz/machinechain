@@ -666,3 +666,4 @@
 17093. docs: write FAQ section #17093
 36857. feat: enable dark mode toggle #36857
 94675. feat: implement quiz timer feature #94675
+69736. chore: add GitHub actions badge #69736
