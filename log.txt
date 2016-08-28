@@ -5652,3 +5652,4 @@
 66905. chore: rename env.example #66905
 65838. fix: resolve issue with date parsing #65838
 72435. perf: reduce image load time #72435
+74459. docs: update README with setup steps #74459
