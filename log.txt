@@ -6672,3 +6672,4 @@
 94160. style: reformat files with black #94160
 81898. test: increase coverage on auth module #81898
 30669. feat: create admin dashboard #30669
+2276. test: increase coverage on auth module #2276
