@@ -1691,3 +1691,4 @@
 22872. perf: cache repeated calculations #22872
 27321. test: increase coverage on auth module #27321
 88867. fix: handle 500 error in quiz API #88867
+93349. refactor: refactor quiz grading logic #93349
