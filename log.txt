@@ -5655,3 +5655,4 @@
 74459. docs: update README with setup steps #74459
 14557. fix: resolve issue with date parsing #14557
 11623. perf: lazy-load components #11623
+0394. test: mock database connection in test suite #394
