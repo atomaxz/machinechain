@@ -6674,3 +6674,4 @@
 30669. feat: create admin dashboard #30669
 2276. test: increase coverage on auth module #2276
 98842. perf: optimize database query for quiz results #98842
+97230. refactor: remove redundant code blocks #97230
