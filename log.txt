@@ -1694,3 +1694,4 @@
 93349. refactor: refactor quiz grading logic #93349
 46131. style: remove trailing whitespace #46131
 27860. chore: clean up unused files #27860
+17545. fix: fix broken CSS in mobile view #17545
