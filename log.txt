@@ -1696,3 +1696,4 @@
 27860. chore: clean up unused files #27860
 17545. fix: fix broken CSS in mobile view #17545
 75163. refactor: remove redundant code blocks #75163
+34409. fix: prevent crash on empty input #34409
