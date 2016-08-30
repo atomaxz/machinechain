@@ -6677,3 +6677,4 @@
 97230. refactor: remove redundant code blocks #97230
 74245. feat: add export to CSV option #74245
 91412. style: standardize quote style #91412
+79215. fix: resolve issue with date parsing #79215
