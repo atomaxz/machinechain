@@ -1699,3 +1699,4 @@
 34409. fix: prevent crash on empty input #34409
 11490. style: remove trailing whitespace #11490
 70060. style: reformat files with black #70060
+99380. perf: reduce image load time #99380
