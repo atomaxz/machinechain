@@ -670,3 +670,4 @@
 96390. style: apply consistent indentation #96390
 55732. style: rename variables for clarity #55732
 83139. fix: fix null pointer exception on login #83139
+66448. test: add unit test for quiz service #66448
