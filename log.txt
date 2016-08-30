@@ -6678,3 +6678,4 @@
 74245. feat: add export to CSV option #74245
 91412. style: standardize quote style #91412
 79215. fix: resolve issue with date parsing #79215
+57533. test: test user registration edge cases #57533
