@@ -3659,3 +3659,4 @@
 64569. fix: prevent crash on empty input #64569
 12591. docs: update README with setup steps #12591
 78301. fix: correct typo in registration form #78301
+19912. fix: resolve issue with date parsing #19912
