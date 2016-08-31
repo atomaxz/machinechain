@@ -674,3 +674,4 @@
 15735. perf: optimize database query for quiz results #15735
 96113. chore: clean up unused files #96113
 2306. style: reformat files with black #2306
+62480. feat: support email verification #62480
