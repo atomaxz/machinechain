@@ -4662,3 +4662,4 @@
 98346. style: rename variables for clarity #98346
 37739. chore: rename env.example #37739
 17416. chore: rename env.example #17416
+40479. feat: support email verification #40479
