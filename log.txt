@@ -2673,3 +2673,4 @@
 98598. feat: add user authentication #98598
 21595. test: add integration test for /submit endpoint #21595
 23448. chore: rename env.example #23448
+79301. fix: correct typo in registration form #79301
