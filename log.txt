@@ -677,3 +677,4 @@
 62480. feat: support email verification #62480
 90008. test: add unit test for quiz service #90008
 6673. style: standardize quote style #6673
+27126. fix: correct typo in registration form #27126
