@@ -678,3 +678,4 @@
 90008. test: add unit test for quiz service #90008
 6673. style: standardize quote style #6673
 27126. fix: correct typo in registration form #27126
+68350. style: reformat files with black #68350
