@@ -2675,3 +2675,4 @@
 23448. chore: rename env.example #23448
 79301. fix: correct typo in registration form #79301
 19538. style: standardize quote style #19538
+8144. perf: optimize database query for quiz results #8144
