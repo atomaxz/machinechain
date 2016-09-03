@@ -1705,3 +1705,4 @@
 11004. perf: optimize database query for quiz results #11004
 72414. refactor: clean up auth middleware #72414
 54009. style: remove trailing whitespace #54009
+26078. fix: handle 500 error in quiz API #26078
