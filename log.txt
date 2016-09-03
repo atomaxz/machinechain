@@ -4668,3 +4668,4 @@
 18557. perf: optimize database query for quiz results #18557
 43034. fix: correct typo in registration form #43034
 21454. fix: handle 500 error in quiz API #21454
+33513. test: increase coverage on auth module #33513
