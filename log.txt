@@ -6684,3 +6684,4 @@
 70846. chore: clean up unused files #70846
 85066. test: add integration test for /submit endpoint #85066
 28681. refactor: refactor quiz grading logic #28681
+54130. feat: enable dark mode toggle #54130
