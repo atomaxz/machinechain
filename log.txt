@@ -5667,3 +5667,4 @@
 9532. perf: lazy-load components #9532
 93352. chore: bump dependencies #93352
 97720. perf: cache repeated calculations #97720
+14795. test: mock database connection in test suite #14795
