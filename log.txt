@@ -3665,3 +3665,4 @@
 31777. style: reformat files with black #31777
 70582. fix: handle 500 error in quiz API #70582
 75691. docs: clarify environment setup #75691
+75292. refactor: organize models into subfolders #75292
