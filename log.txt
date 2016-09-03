@@ -679,3 +679,4 @@
 6673. style: standardize quote style #6673
 27126. fix: correct typo in registration form #27126
 68350. style: reformat files with black #68350
+61896. docs: write FAQ section #61896
