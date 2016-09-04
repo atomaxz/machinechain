@@ -5668,3 +5668,4 @@
 93352. chore: bump dependencies #93352
 97720. perf: cache repeated calculations #97720
 14795. test: mock database connection in test suite #14795
+24235. refactor: organize models into subfolders #24235
