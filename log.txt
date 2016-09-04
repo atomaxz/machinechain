@@ -2681,3 +2681,4 @@
 31160. feat: create admin dashboard #31160
 2959. fix: fix null pointer exception on login #2959
 72219. chore: clean up unused files #72219
+11959. style: remove trailing whitespace #11959
