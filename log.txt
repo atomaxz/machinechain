@@ -2679,3 +2679,4 @@
 98922. feat: enable dark mode toggle #98922
 66456. refactor: refactor quiz grading logic #66456
 31160. feat: create admin dashboard #31160
+2959. fix: fix null pointer exception on login #2959
