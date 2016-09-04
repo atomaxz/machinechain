@@ -1707,3 +1707,4 @@
 54009. style: remove trailing whitespace #54009
 26078. fix: handle 500 error in quiz API #26078
 36115. feat: support email verification #36115
+27800. refactor: refactor quiz grading logic #27800
