@@ -4670,3 +4670,4 @@
 21454. fix: handle 500 error in quiz API #21454
 33513. test: increase coverage on auth module #33513
 72696. fix: fix broken CSS in mobile view #72696
+38195. perf: reduce image load time #38195
