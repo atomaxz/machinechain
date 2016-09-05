@@ -5670,3 +5670,4 @@
 14795. test: mock database connection in test suite #14795
 24235. refactor: organize models into subfolders #24235
 62701. docs: document token refresh logic #62701
+65751. feat: enable dark mode toggle #65751
