@@ -1710,3 +1710,4 @@
 27800. refactor: refactor quiz grading logic #27800
 13968. perf: reduce image load time #13968
 84842. docs: clarify environment setup #84842
+13743. test: add unit test for quiz service #13743
