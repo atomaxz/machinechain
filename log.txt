@@ -3675,3 +3675,4 @@
 9402. refactor: remove redundant code blocks #9402
 60710. refactor: refactor quiz grading logic #60710
 58005. test: add unit test for quiz service #58005
+12552. style: remove trailing whitespace #12552
