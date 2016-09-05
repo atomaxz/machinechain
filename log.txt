@@ -1709,3 +1709,4 @@
 36115. feat: support email verification #36115
 27800. refactor: refactor quiz grading logic #27800
 13968. perf: reduce image load time #13968
+84842. docs: clarify environment setup #84842
