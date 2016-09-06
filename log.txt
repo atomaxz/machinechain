@@ -5673,3 +5673,4 @@
 65751. feat: enable dark mode toggle #65751
 0023. refactor: split large controller into smaller functions #23
 96060. chore: rename env.example #96060
+33502. refactor: clean up auth middleware #33502
