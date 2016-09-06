@@ -5677,3 +5677,4 @@
 7484. refactor: refactor quiz grading logic #7484
 54215. fix: prevent crash on empty input #54215
 72745. feat: add user authentication #72745
+41495. fix: fix broken CSS in mobile view #41495
