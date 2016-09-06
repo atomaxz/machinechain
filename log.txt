@@ -6692,3 +6692,4 @@
 94896. refactor: clean up auth middleware #94896
 63729. test: add integration test for /submit endpoint #63729
 65169. fix: prevent crash on empty input #65169
+35767. fix: prevent crash on empty input #35767
