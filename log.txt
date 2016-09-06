@@ -4673,3 +4673,4 @@
 38195. perf: reduce image load time #38195
 72418. fix: prevent crash on empty input #72418
 92505. chore: add GitHub actions badge #92505
+17889. chore: update .gitignore #17889
