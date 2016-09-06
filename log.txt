@@ -1713,3 +1713,4 @@
 13743. test: add unit test for quiz service #13743
 17385. fix: prevent crash on empty input #17385
 21506. perf: cache repeated calculations #21506
+19391. chore: add GitHub actions badge #19391
