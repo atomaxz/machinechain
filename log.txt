@@ -6693,3 +6693,4 @@
 63729. test: add integration test for /submit endpoint #63729
 65169. fix: prevent crash on empty input #65169
 35767. fix: prevent crash on empty input #35767
+41476. style: reformat files with black #41476
