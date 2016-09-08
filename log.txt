@@ -3681,3 +3681,4 @@
 80498. fix: handle 500 error in quiz API #80498
 0230. feat: implement quiz timer feature #230
 25558. fix: resolve issue with date parsing #25558
+5769. test: test user registration edge cases #5769
