@@ -692,3 +692,4 @@
 16758. test: add unit test for quiz service #16758
 69092. chore: bump dependencies #69092
 77456. chore: bump dependencies #77456
+24082. refactor: organize models into subfolders #24082
