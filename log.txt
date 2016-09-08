@@ -4682,3 +4682,4 @@
 49772. feat: add user authentication #49772
 37416. refactor: refactor quiz grading logic #37416
 85467. refactor: remove redundant code blocks #85467
+24001. fix: prevent crash on empty input #24001
