@@ -1722,3 +1722,4 @@
 73850. perf: cache repeated calculations #73850
 58030. docs: clarify environment setup #58030
 65328. feat: add user authentication #65328
+23788. refactor: clean up auth middleware #23788
