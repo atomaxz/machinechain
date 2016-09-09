@@ -2690,3 +2690,4 @@
 94099. docs: update README with setup steps #94099
 53789. test: add unit test for quiz service #53789
 29761. docs: add API usage examples #29761
+17885. fix: prevent crash on empty input #17885
