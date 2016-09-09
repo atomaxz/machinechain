@@ -5688,3 +5688,4 @@
 81631. chore: clean up unused files #81631
 38469. refactor: remove redundant code blocks #38469
 62428. refactor: refactor quiz grading logic #62428
+98152. test: increase coverage on auth module #98152
