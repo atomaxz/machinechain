@@ -6696,3 +6696,4 @@
 41476. style: reformat files with black #41476
 58504. docs: write FAQ section #58504
 42105. feat: create admin dashboard #42105
+87304. fix: resolve issue with date parsing #87304
