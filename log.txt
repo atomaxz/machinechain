@@ -4691,3 +4691,4 @@
 99082. feat: enable dark mode toggle #99082
 55207. style: reformat files with black #55207
 54166. style: standardize quote style #54166
+3788. feat: add user authentication #3788
