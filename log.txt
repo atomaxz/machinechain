@@ -5693,3 +5693,4 @@
 55158. test: test user registration edge cases #55158
 51413. perf: cache repeated calculations #51413
 56379. test: increase coverage on auth module #56379
+12143. feat: add user authentication #12143
