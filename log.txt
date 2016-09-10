@@ -697,3 +697,4 @@
 96427. test: test user registration edge cases #96427
 73165. feat: add export to CSV option #73165
 67415. perf: optimize database query for quiz results #67415
+2535. test: mock database connection in test suite #2535
