@@ -695,3 +695,4 @@
 24082. refactor: organize models into subfolders #24082
 20145. style: rename variables for clarity #20145
 96427. test: test user registration edge cases #96427
+73165. feat: add export to CSV option #73165
