@@ -5696,3 +5696,4 @@
 12143. feat: add user authentication #12143
 51271. chore: clean up unused files #51271
 46323. chore: add GitHub actions badge #46323
+84876. chore: update .gitignore #84876
