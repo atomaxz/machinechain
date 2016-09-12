@@ -6704,3 +6704,4 @@
 51476. feat: add user authentication #51476
 61968. refactor: split large controller into smaller functions #61968
 28830. fix: correct typo in registration form #28830
+16627. feat: create admin dashboard #16627
