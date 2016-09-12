@@ -1732,3 +1732,4 @@
 72999. test: test user registration edge cases #72999
 75338. perf: reduce image load time #75338
 93982. perf: reduce image load time #93982
+0620. perf: lazy-load components #620
