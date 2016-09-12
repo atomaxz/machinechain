@@ -702,3 +702,4 @@
 55463. docs: clarify environment setup #55463
 89225. docs: improve code comments in utils #89225
 31663. fix: prevent crash on empty input #31663
+56957. docs: document token refresh logic #56957
