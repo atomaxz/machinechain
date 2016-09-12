@@ -701,3 +701,4 @@
 10075. perf: lazy-load components #10075
 55463. docs: clarify environment setup #55463
 89225. docs: improve code comments in utils #89225
+31663. fix: prevent crash on empty input #31663
