@@ -4700,3 +4700,4 @@
 29792. style: remove trailing whitespace #29792
 91174. fix: handle 500 error in quiz API #91174
 67306. docs: improve code comments in utils #67306
+78011. perf: optimize database query for quiz results #78011
