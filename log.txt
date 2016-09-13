@@ -707,3 +707,4 @@
 45608. fix: handle 500 error in quiz API #45608
 15607. perf: lazy-load components #15607
 70329. chore: add GitHub actions badge #70329
+30274. feat: implement quiz timer feature #30274
