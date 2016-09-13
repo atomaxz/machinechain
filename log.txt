@@ -5699,3 +5699,4 @@
 84876. chore: update .gitignore #84876
 6084. test: increase coverage on auth module #6084
 45141. feat: enable dark mode toggle #45141
+42760. fix: prevent crash on empty input #42760
