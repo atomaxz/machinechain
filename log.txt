@@ -2698,3 +2698,4 @@
 96050. feat: create admin dashboard #96050
 36035. perf: lazy-load components #36035
 68000. fix: fix null pointer exception on login #68000
+64622. chore: add GitHub actions badge #64622
