@@ -703,3 +703,4 @@
 89225. docs: improve code comments in utils #89225
 31663. fix: prevent crash on empty input #31663
 56957. docs: document token refresh logic #56957
+53192. perf: lazy-load components #53192
