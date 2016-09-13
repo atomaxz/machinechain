@@ -704,3 +704,4 @@
 31663. fix: prevent crash on empty input #31663
 56957. docs: document token refresh logic #56957
 53192. perf: lazy-load components #53192
+45608. fix: handle 500 error in quiz API #45608
