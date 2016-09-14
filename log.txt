@@ -3692,3 +3692,4 @@
 19558. chore: update .gitignore #19558
 63711. style: rename variables for clarity #63711
 22474. style: remove trailing whitespace #22474
+78688. fix: handle 500 error in quiz API #78688
