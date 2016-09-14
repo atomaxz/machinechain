@@ -5701,3 +5701,4 @@
 45141. feat: enable dark mode toggle #45141
 42760. fix: prevent crash on empty input #42760
 55301. docs: update README with setup steps #55301
+37604. perf: reduce image load time #37604
