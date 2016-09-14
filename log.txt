@@ -4708,3 +4708,4 @@
 75109. chore: rename env.example #75109
 37103. test: test user registration edge cases #37103
 11848. refactor: clean up auth middleware #11848
+5021. feat: add export to CSV option #5021
