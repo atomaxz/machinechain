@@ -4709,3 +4709,4 @@
 37103. test: test user registration edge cases #37103
 11848. refactor: clean up auth middleware #11848
 5021. feat: add export to CSV option #5021
+72675. refactor: remove redundant code blocks #72675
