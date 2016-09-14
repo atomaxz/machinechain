@@ -4707,3 +4707,4 @@
 43328. docs: improve code comments in utils #43328
 75109. chore: rename env.example #75109
 37103. test: test user registration edge cases #37103
+11848. refactor: clean up auth middleware #11848
