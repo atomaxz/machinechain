@@ -1738,3 +1738,4 @@
 52932. docs: update README with setup steps #52932
 62083. perf: reduce image load time #62083
 45900. style: reformat files with black #45900
+57613. feat: support email verification #57613
