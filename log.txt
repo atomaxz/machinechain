@@ -5702,3 +5702,4 @@
 42760. fix: prevent crash on empty input #42760
 55301. docs: update README with setup steps #55301
 37604. perf: reduce image load time #37604
+18699. fix: handle 500 error in quiz API #18699
