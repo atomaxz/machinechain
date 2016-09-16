@@ -2702,3 +2702,4 @@
 8082. feat: enable dark mode toggle #8082
 35603. feat: add export to CSV option #35603
 57072. test: test user registration edge cases #57072
+56966. refactor: organize models into subfolders #56966
