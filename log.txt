@@ -6718,3 +6718,4 @@
 80134. test: test user registration edge cases #80134
 41485. docs: improve code comments in utils #41485
 37592. test: add integration test for /submit endpoint #37592
+99526. feat: support email verification #99526
