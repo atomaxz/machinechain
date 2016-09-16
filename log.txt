@@ -5703,3 +5703,4 @@
 55301. docs: update README with setup steps #55301
 37604. perf: reduce image load time #37604
 18699. fix: handle 500 error in quiz API #18699
+59968. fix: fix broken CSS in mobile view #59968
