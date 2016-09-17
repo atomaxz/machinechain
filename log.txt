@@ -1742,3 +1742,4 @@
 30383. perf: optimize database query for quiz results #30383
 98528. style: apply consistent indentation #98528
 24088. style: standardize quote style #24088
+51747. test: add unit test for quiz service #51747
