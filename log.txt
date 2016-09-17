@@ -4717,3 +4717,4 @@
 79931. fix: resolve issue with date parsing #79931
 90093. perf: optimize database query for quiz results #90093
 14953. feat: implement quiz timer feature #14953
+55664. test: increase coverage on auth module #55664
