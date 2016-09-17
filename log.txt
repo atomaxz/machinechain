@@ -712,3 +712,4 @@
 4038. feat: enable dark mode toggle #4038
 13683. docs: clarify environment setup #13683
 33170. style: remove trailing whitespace #33170
+16654. fix: handle 500 error in quiz API #16654
