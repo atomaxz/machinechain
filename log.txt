@@ -3704,3 +3704,4 @@
 50088. fix: resolve issue with date parsing #50088
 38526. fix: correct typo in registration form #38526
 38270. docs: clarify environment setup #38270
+29912. feat: add user authentication #29912
