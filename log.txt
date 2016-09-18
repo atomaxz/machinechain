@@ -716,3 +716,4 @@
 89065. test: add integration test for /submit endpoint #89065
 26730. refactor: split large controller into smaller functions #26730
 24262. style: remove trailing whitespace #24262
+25363. perf: lazy-load components #25363
