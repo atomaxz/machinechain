@@ -3707,3 +3707,4 @@
 29912. feat: add user authentication #29912
 93634. feat: support email verification #93634
 75686. refactor: organize models into subfolders #75686
+23403. docs: update README with setup steps #23403
