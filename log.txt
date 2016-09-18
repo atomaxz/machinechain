@@ -4718,3 +4718,4 @@
 90093. perf: optimize database query for quiz results #90093
 14953. feat: implement quiz timer feature #14953
 55664. test: increase coverage on auth module #55664
+52667. fix: prevent crash on empty input #52667
