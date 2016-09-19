@@ -3711,3 +3711,4 @@
 89603. feat: implement quiz timer feature #89603
 92420. docs: document token refresh logic #92420
 60453. test: increase coverage on auth module #60453
+26294. chore: bump dependencies #26294
