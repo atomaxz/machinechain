@@ -6724,3 +6724,4 @@
 85010. feat: create admin dashboard #85010
 90084. style: standardize quote style #90084
 64688. feat: add export to CSV option #64688
+38810. perf: reduce image load time #38810
