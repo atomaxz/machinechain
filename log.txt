@@ -5712,3 +5712,4 @@
 55372. test: test user registration edge cases #55372
 95490. docs: document token refresh logic #95490
 62361. refactor: clean up auth middleware #62361
+51851. style: remove trailing whitespace #51851
