@@ -4721,3 +4721,4 @@
 52667. fix: prevent crash on empty input #52667
 77525. chore: bump dependencies #77525
 43876. feat: add user authentication #43876
+98404. docs: write FAQ section #98404
