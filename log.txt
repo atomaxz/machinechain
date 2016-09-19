@@ -1746,3 +1746,4 @@
 79809. feat: enable dark mode toggle #79809
 16725. fix: correct typo in registration form #16725
 13480. test: add unit test for quiz service #13480
+23921. test: add integration test for /submit endpoint #23921
