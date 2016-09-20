@@ -719,3 +719,4 @@
 25363. perf: lazy-load components #25363
 67891. style: reformat files with black #67891
 17848. docs: document token refresh logic #17848
+94504. feat: enable dark mode toggle #94504
