@@ -6730,3 +6730,4 @@
 92351. refactor: remove redundant code blocks #92351
 87596. perf: lazy-load components #87596
 36572. style: standardize quote style #36572
+83920. docs: document token refresh logic #83920
