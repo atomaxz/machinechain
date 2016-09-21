@@ -6728,3 +6728,4 @@
 66230. docs: update README with setup steps #66230
 74576. feat: add export to CSV option #74576
 92351. refactor: remove redundant code blocks #92351
+87596. perf: lazy-load components #87596
