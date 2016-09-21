@@ -6726,3 +6726,4 @@
 64688. feat: add export to CSV option #64688
 38810. perf: reduce image load time #38810
 66230. docs: update README with setup steps #66230
+74576. feat: add export to CSV option #74576
