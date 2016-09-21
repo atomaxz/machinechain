@@ -4724,3 +4724,4 @@
 98404. docs: write FAQ section #98404
 49895. style: reformat files with black #49895
 69655. test: increase coverage on auth module #69655
+54476. style: reformat files with black #54476
