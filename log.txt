@@ -3716,3 +3716,4 @@
 48077. docs: write FAQ section #48077
 32381. docs: improve code comments in utils #32381
 4119. test: test user registration edge cases #4119
+2061. test: increase coverage on auth module #2061
