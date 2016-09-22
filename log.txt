@@ -4726,3 +4726,4 @@
 69655. test: increase coverage on auth module #69655
 54476. style: reformat files with black #54476
 49190. style: reformat files with black #49190
+68808. fix: fix broken CSS in mobile view #68808
