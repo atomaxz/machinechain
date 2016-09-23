@@ -3724,3 +3724,4 @@
 74797. refactor: split large controller into smaller functions #74797
 94404. fix: correct typo in registration form #94404
 99835. docs: write FAQ section #99835
+3537. fix: resolve issue with date parsing #3537
