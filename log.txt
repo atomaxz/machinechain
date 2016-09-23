@@ -5722,3 +5722,4 @@
 4003. feat: implement quiz timer feature #4003
 92730. chore: rename env.example #92730
 40671. chore: bump dependencies #40671
+83658. fix: prevent crash on empty input #83658
