@@ -6735,3 +6735,4 @@
 21562. chore: rename env.example #21562
 99505. perf: reduce image load time #99505
 68587. perf: cache repeated calculations #68587
+38071. chore: update .gitignore #38071
