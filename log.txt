@@ -3726,3 +3726,4 @@
 99835. docs: write FAQ section #99835
 3537. fix: resolve issue with date parsing #3537
 69110. perf: lazy-load components #69110
+47627. fix: correct typo in registration form #47627
