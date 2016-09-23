@@ -2715,3 +2715,4 @@
 2456. fix: resolve issue with date parsing #2456
 78121. test: add integration test for /submit endpoint #78121
 87041. feat: implement quiz timer feature #87041
+41171. fix: correct typo in registration form #41171
