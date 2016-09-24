@@ -2717,3 +2717,4 @@
 87041. feat: implement quiz timer feature #87041
 41171. fix: correct typo in registration form #41171
 48134. test: increase coverage on auth module #48134
+38813. perf: optimize database query for quiz results #38813
