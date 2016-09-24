@@ -3728,3 +3728,4 @@
 69110. perf: lazy-load components #69110
 47627. fix: correct typo in registration form #47627
 29555. refactor: organize models into subfolders #29555
+56676. fix: prevent crash on empty input #56676
