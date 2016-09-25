@@ -2724,3 +2724,4 @@
 72200. feat: add user authentication #72200
 96759. feat: add export to CSV option #96759
 45171. perf: reduce image load time #45171
+59320. style: standardize quote style #59320
