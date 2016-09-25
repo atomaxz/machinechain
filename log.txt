@@ -4735,3 +4735,4 @@
 65752. refactor: organize models into subfolders #65752
 47830. chore: rename env.example #47830
 78059. refactor: clean up auth middleware #78059
+56733. feat: add user authentication #56733
