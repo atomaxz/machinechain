@@ -2721,3 +2721,4 @@
 70643. refactor: remove redundant code blocks #70643
 8564. docs: document token refresh logic #8564
 9062. docs: update README with setup steps #9062
+72200. feat: add user authentication #72200
