@@ -5728,3 +5728,4 @@
 99288. style: apply consistent indentation #99288
 16078. style: reformat files with black #16078
 72016. feat: support email verification #72016
+75855. fix: fix null pointer exception on login #75855
