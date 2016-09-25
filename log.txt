@@ -2723,3 +2723,4 @@
 9062. docs: update README with setup steps #9062
 72200. feat: add user authentication #72200
 96759. feat: add export to CSV option #96759
+45171. perf: reduce image load time #45171
