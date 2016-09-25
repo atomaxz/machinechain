@@ -5727,3 +5727,4 @@
 6496. refactor: remove redundant code blocks #6496
 99288. style: apply consistent indentation #99288
 16078. style: reformat files with black #16078
+72016. feat: support email verification #72016
