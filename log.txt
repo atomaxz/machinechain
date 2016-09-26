@@ -737,3 +737,4 @@
 56463. chore: add GitHub actions badge #56463
 28502. style: remove trailing whitespace #28502
 82022. chore: rename env.example #82022
+33437. fix: fix broken CSS in mobile view #33437
