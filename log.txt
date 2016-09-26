@@ -5731,3 +5731,4 @@
 75855. fix: fix null pointer exception on login #75855
 21827. fix: prevent crash on empty input #21827
 78262. test: add unit test for quiz service #78262
+76353. test: add integration test for /submit endpoint #76353
