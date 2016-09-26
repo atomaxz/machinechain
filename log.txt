@@ -6745,3 +6745,4 @@
 1978. test: test user registration edge cases #1978
 87858. style: remove trailing whitespace #87858
 68794. perf: cache repeated calculations #68794
+26861. chore: rename env.example #26861
