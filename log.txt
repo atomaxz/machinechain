@@ -739,3 +739,4 @@
 82022. chore: rename env.example #82022
 33437. fix: fix broken CSS in mobile view #33437
 75205. docs: update README with setup steps #75205
+49836. chore: update .gitignore #49836
