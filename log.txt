@@ -1761,3 +1761,4 @@
 21771. chore: add GitHub actions badge #21771
 27784. refactor: clean up auth middleware #27784
 41088. style: reformat files with black #41088
+94643. fix: prevent crash on empty input #94643
