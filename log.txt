@@ -2726,3 +2726,4 @@
 45171. perf: reduce image load time #45171
 59320. style: standardize quote style #59320
 75834. refactor: remove redundant code blocks #75834
+88170. chore: add GitHub actions badge #88170
