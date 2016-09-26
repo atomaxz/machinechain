@@ -6743,3 +6743,4 @@
 43074. perf: lazy-load components #43074
 66077. style: apply consistent indentation #66077
 1978. test: test user registration edge cases #1978
+87858. style: remove trailing whitespace #87858
