@@ -2730,3 +2730,4 @@
 7751. style: remove trailing whitespace #7751
 37552. feat: implement quiz timer feature #37552
 36234. docs: add API usage examples #36234
+55174. test: increase coverage on auth module #55174
