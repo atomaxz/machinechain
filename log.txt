@@ -6749,3 +6749,4 @@
 93503. perf: reduce image load time #93503
 13229. chore: add GitHub actions badge #13229
 70035. style: standardize quote style #70035
+31195. chore: bump dependencies #31195
