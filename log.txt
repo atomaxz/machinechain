@@ -2733,3 +2733,4 @@
 55174. test: increase coverage on auth module #55174
 99307. refactor: organize models into subfolders #99307
 52029. fix: fix null pointer exception on login #52029
+88790. test: add unit test for quiz service #88790
