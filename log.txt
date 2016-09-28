@@ -6750,3 +6750,4 @@
 13229. chore: add GitHub actions badge #13229
 70035. style: standardize quote style #70035
 31195. chore: bump dependencies #31195
+74013. perf: optimize database query for quiz results #74013
