@@ -743,3 +743,4 @@
 34021. fix: fix broken CSS in mobile view #34021
 25312. perf: optimize database query for quiz results #25312
 31468. docs: document token refresh logic #31468
+13772. fix: handle 500 error in quiz API #13772
