@@ -4746,3 +4746,4 @@
 85216. chore: clean up unused files #85216
 30696. test: increase coverage on auth module #30696
 11264. docs: write FAQ section #11264
+49653. feat: add user authentication #49653
