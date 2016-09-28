@@ -4744,3 +4744,4 @@
 97882. feat: implement quiz timer feature #97882
 83796. fix: prevent crash on empty input #83796
 85216. chore: clean up unused files #85216
+30696. test: increase coverage on auth module #30696
