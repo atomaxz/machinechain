@@ -2737,3 +2737,4 @@
 72318. fix: correct typo in registration form #72318
 3696. refactor: organize models into subfolders #3696
 82812. perf: lazy-load components #82812
+65139. docs: clarify environment setup #65139
