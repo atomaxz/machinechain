@@ -4748,3 +4748,4 @@
 11264. docs: write FAQ section #11264
 49653. feat: add user authentication #49653
 54263. style: standardize quote style #54263
+72790. chore: add GitHub actions badge #72790
