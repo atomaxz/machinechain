@@ -1768,3 +1768,4 @@
 26371. refactor: refactor quiz grading logic #26371
 76593. chore: add GitHub actions badge #76593
 5679. refactor: organize models into subfolders #5679
+66241. docs: update README with setup steps #66241
