@@ -3744,3 +3744,4 @@
 46612. feat: add user authentication #46612
 41193. fix: prevent crash on empty input #41193
 80444. style: remove trailing whitespace #80444
+20010. perf: reduce image load time #20010
