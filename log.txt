@@ -3746,3 +3746,4 @@
 80444. style: remove trailing whitespace #80444
 20010. perf: reduce image load time #20010
 90067. refactor: split large controller into smaller functions #90067
+25815. refactor: clean up auth middleware #25815
