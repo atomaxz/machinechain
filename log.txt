@@ -1771,3 +1771,4 @@
 66241. docs: update README with setup steps #66241
 39217. test: mock database connection in test suite #39217
 37478. fix: correct typo in registration form #37478
+21778. fix: fix broken CSS in mobile view #21778
