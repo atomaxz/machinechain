@@ -3749,3 +3749,4 @@
 25815. refactor: clean up auth middleware #25815
 62034. style: apply consistent indentation #62034
 95462. style: standardize quote style #95462
+7525. feat: add user authentication #7525
