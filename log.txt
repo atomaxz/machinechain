@@ -748,3 +748,4 @@
 46843. chore: update .gitignore #46843
 41064. feat: add export to CSV option #41064
 68639. docs: add API usage examples #68639
+18586. test: increase coverage on auth module #18586
