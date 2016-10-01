@@ -750,3 +750,4 @@
 68639. docs: add API usage examples #68639
 18586. test: increase coverage on auth module #18586
 49740. refactor: remove redundant code blocks #49740
+21061. test: increase coverage on auth module #21061
