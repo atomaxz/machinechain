@@ -751,3 +751,4 @@
 18586. test: increase coverage on auth module #18586
 49740. refactor: remove redundant code blocks #49740
 21061. test: increase coverage on auth module #21061
+19962. feat: support email verification #19962
