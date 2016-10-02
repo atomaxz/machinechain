@@ -753,3 +753,4 @@
 21061. test: increase coverage on auth module #21061
 19962. feat: support email verification #19962
 25340. fix: correct typo in registration form #25340
+35205. style: standardize quote style #35205
