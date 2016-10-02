@@ -6766,3 +6766,4 @@
 71482. test: add unit test for quiz service #71482
 86362. style: reformat files with black #86362
 77894. style: remove trailing whitespace #77894
+29294. refactor: clean up auth middleware #29294
