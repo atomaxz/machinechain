@@ -752,3 +752,4 @@
 49740. refactor: remove redundant code blocks #49740
 21061. test: increase coverage on auth module #21061
 19962. feat: support email verification #19962
+25340. fix: correct typo in registration form #25340
