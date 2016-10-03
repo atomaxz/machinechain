@@ -3753,3 +3753,4 @@
 69990. docs: update README with setup steps #69990
 51659. chore: update .gitignore #51659
 30744. feat: support email verification #30744
+47679. fix: fix null pointer exception on login #47679
