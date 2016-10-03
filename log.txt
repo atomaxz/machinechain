@@ -6769,3 +6769,4 @@
 29294. refactor: clean up auth middleware #29294
 83934. chore: update .gitignore #83934
 22913. chore: clean up unused files #22913
+8288. feat: enable dark mode toggle #8288
