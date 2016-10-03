@@ -2747,3 +2747,4 @@
 71984. perf: lazy-load components #71984
 12018. perf: lazy-load components #12018
 20739. feat: support email verification #20739
+52882. perf: reduce image load time #52882
