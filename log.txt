@@ -2746,3 +2746,4 @@
 28886. fix: fix null pointer exception on login #28886
 71984. perf: lazy-load components #71984
 12018. perf: lazy-load components #12018
+20739. feat: support email verification #20739
