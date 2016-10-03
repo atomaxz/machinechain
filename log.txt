@@ -3752,3 +3752,4 @@
 7525. feat: add user authentication #7525
 69990. docs: update README with setup steps #69990
 51659. chore: update .gitignore #51659
+30744. feat: support email verification #30744
