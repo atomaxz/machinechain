@@ -755,3 +755,4 @@
 25340. fix: correct typo in registration form #25340
 35205. style: standardize quote style #35205
 53691. test: add integration test for /submit endpoint #53691
+45816. feat: support email verification #45816
