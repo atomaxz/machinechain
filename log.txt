@@ -1782,3 +1782,4 @@
 5295. perf: reduce image load time #5295
 38724. fix: prevent crash on empty input #38724
 95464. docs: improve code comments in utils #95464
+42451. style: reformat files with black #42451
