@@ -4760,3 +4760,4 @@
 19252. fix: handle 500 error in quiz API #19252
 1010. style: remove trailing whitespace #1010
 96274. feat: create admin dashboard #96274
+39459. chore: add GitHub actions badge #39459
