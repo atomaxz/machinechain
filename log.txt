@@ -1780,3 +1780,4 @@
 28391. docs: improve code comments in utils #28391
 16728. docs: document token refresh logic #16728
 5295. perf: reduce image load time #5295
+38724. fix: prevent crash on empty input #38724
