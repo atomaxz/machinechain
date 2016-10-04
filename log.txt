@@ -6772,3 +6772,4 @@
 8288. feat: enable dark mode toggle #8288
 88205. style: remove trailing whitespace #88205
 59872. docs: improve code comments in utils #59872
+66822. test: test user registration edge cases #66822
