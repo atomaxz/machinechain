@@ -2749,3 +2749,4 @@
 20739. feat: support email verification #20739
 52882. perf: reduce image load time #52882
 8247. fix: correct typo in registration form #8247
+49465. refactor: remove redundant code blocks #49465
