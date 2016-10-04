@@ -5752,3 +5752,4 @@
 74218. refactor: organize models into subfolders #74218
 92698. feat: enable dark mode toggle #92698
 88383. style: apply consistent indentation #88383
+10089. style: remove trailing whitespace #10089
