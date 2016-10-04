@@ -3757,3 +3757,4 @@
 90427. fix: correct typo in registration form #90427
 57139. fix: handle 500 error in quiz API #57139
 33385. feat: enable dark mode toggle #33385
+46105. refactor: split large controller into smaller functions #46105
