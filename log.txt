@@ -1779,3 +1779,4 @@
 77534. style: apply consistent indentation #77534
 28391. docs: improve code comments in utils #28391
 16728. docs: document token refresh logic #16728
+5295. perf: reduce image load time #5295
