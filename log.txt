@@ -2750,3 +2750,4 @@
 52882. perf: reduce image load time #52882
 8247. fix: correct typo in registration form #8247
 49465. refactor: remove redundant code blocks #49465
+75881. perf: reduce image load time #75881
