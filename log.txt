@@ -2751,3 +2751,4 @@
 8247. fix: correct typo in registration form #8247
 49465. refactor: remove redundant code blocks #49465
 75881. perf: reduce image load time #75881
+87587. refactor: clean up auth middleware #87587
