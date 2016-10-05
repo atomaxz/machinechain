@@ -4763,3 +4763,4 @@
 39459. chore: add GitHub actions badge #39459
 58156. docs: improve code comments in utils #58156
 36735. docs: add API usage examples #36735
+21503. feat: enable dark mode toggle #21503
