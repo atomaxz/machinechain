@@ -4765,3 +4765,4 @@
 36735. docs: add API usage examples #36735
 21503. feat: enable dark mode toggle #21503
 90678. feat: enable dark mode toggle #90678
+64191. feat: create admin dashboard #64191
