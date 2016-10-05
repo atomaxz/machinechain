@@ -1787,3 +1787,4 @@
 80684. perf: lazy-load components #80684
 97017. docs: add API usage examples #97017
 3823. perf: cache repeated calculations #3823
+17761. perf: optimize database query for quiz results #17761
