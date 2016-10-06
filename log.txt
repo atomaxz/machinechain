@@ -5762,3 +5762,4 @@
 38101. chore: bump dependencies #38101
 50535. refactor: remove redundant code blocks #50535
 55373. test: test user registration edge cases #55373
+8862. docs: update README with setup steps #8862
