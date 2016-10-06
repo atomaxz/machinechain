@@ -765,3 +765,4 @@
 84930. fix: correct typo in registration form #84930
 64391. refactor: clean up auth middleware #64391
 69569. chore: clean up unused files #69569
+46039. fix: fix broken CSS in mobile view #46039
