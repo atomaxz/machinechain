@@ -5761,3 +5761,4 @@
 65891. refactor: remove redundant code blocks #65891
 38101. chore: bump dependencies #38101
 50535. refactor: remove redundant code blocks #50535
+55373. test: test user registration edge cases #55373
