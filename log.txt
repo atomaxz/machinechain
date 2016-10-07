@@ -5765,3 +5765,4 @@
 8862. docs: update README with setup steps #8862
 13517. test: increase coverage on auth module #13517
 22062. test: add unit test for quiz service #22062
+31488. refactor: remove redundant code blocks #31488
