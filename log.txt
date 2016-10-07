@@ -3766,3 +3766,4 @@
 98821. test: increase coverage on auth module #98821
 34363. test: add integration test for /submit endpoint #34363
 96905. fix: prevent crash on empty input #96905
+20809. docs: document token refresh logic #20809
