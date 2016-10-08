@@ -1794,3 +1794,4 @@
 45182. fix: correct typo in registration form #45182
 42811. refactor: remove redundant code blocks #42811
 96519. docs: clarify environment setup #96519
+90608. docs: update README with setup steps #90608
