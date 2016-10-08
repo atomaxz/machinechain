@@ -4770,3 +4770,4 @@
 90936. test: add unit test for quiz service #90936
 54108. perf: optimize database query for quiz results #54108
 20960. feat: add user authentication #20960
+82301. test: test user registration edge cases #82301
