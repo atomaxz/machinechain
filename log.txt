@@ -773,3 +773,4 @@
 59662. style: rename variables for clarity #59662
 64291. docs: add API usage examples #64291
 72041. refactor: remove redundant code blocks #72041
+4254. docs: document token refresh logic #4254
