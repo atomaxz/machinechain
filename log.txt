@@ -774,3 +774,4 @@
 64291. docs: add API usage examples #64291
 72041. refactor: remove redundant code blocks #72041
 4254. docs: document token refresh logic #4254
+60503. fix: correct typo in registration form #60503
