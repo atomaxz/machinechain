@@ -4772,3 +4772,4 @@
 20960. feat: add user authentication #20960
 82301. test: test user registration edge cases #82301
 57440. docs: document token refresh logic #57440
+96075. chore: add GitHub actions badge #96075
