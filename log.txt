@@ -5770,3 +5770,4 @@
 29159. test: add unit test for quiz service #29159
 3271. style: apply consistent indentation #3271
 28828. fix: fix broken CSS in mobile view #28828
+42554. refactor: clean up auth middleware #42554
