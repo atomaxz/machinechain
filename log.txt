@@ -4773,3 +4773,4 @@
 82301. test: test user registration edge cases #82301
 57440. docs: document token refresh logic #57440
 96075. chore: add GitHub actions badge #96075
+91848. perf: reduce image load time #91848
