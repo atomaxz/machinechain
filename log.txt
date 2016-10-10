@@ -2761,3 +2761,4 @@
 43574. style: remove trailing whitespace #43574
 21752. refactor: organize models into subfolders #21752
 34924. perf: cache repeated calculations #34924
+41418. style: remove trailing whitespace #41418
