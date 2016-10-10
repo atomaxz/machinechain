@@ -6786,3 +6786,4 @@
 95796. feat: create admin dashboard #95796
 0165. style: rename variables for clarity #165
 12802. style: apply consistent indentation #12802
+90604. refactor: organize models into subfolders #90604
