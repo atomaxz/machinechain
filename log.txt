@@ -3772,3 +3772,4 @@
 90246. test: add integration test for /submit endpoint #90246
 46262. refactor: organize models into subfolders #46262
 91811. test: add unit test for quiz service #91811
+66744. perf: optimize database query for quiz results #66744
