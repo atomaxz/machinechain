@@ -3774,3 +3774,4 @@
 91811. test: add unit test for quiz service #91811
 66744. perf: optimize database query for quiz results #66744
 68670. perf: lazy-load components #68670
+21536. fix: fix broken CSS in mobile view #21536
