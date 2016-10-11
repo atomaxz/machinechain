@@ -778,3 +778,4 @@
 20896. fix: fix broken CSS in mobile view #20896
 25173. fix: prevent crash on empty input #25173
 58633. fix: fix broken CSS in mobile view #58633
+31120. perf: lazy-load components #31120
