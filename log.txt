@@ -4777,3 +4777,4 @@
 56271. chore: bump dependencies #56271
 46449. refactor: remove redundant code blocks #46449
 89173. chore: bump dependencies #89173
+18437. feat: support email verification #18437
