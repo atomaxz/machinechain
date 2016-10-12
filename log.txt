@@ -5773,3 +5773,4 @@
 42554. refactor: clean up auth middleware #42554
 45087. docs: write FAQ section #45087
 31554. docs: improve code comments in utils #31554
+39949. fix: fix broken CSS in mobile view #39949
