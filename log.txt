@@ -6793,3 +6793,4 @@
 66893. chore: update .gitignore #66893
 49629. fix: fix null pointer exception on login #49629
 90055. docs: clarify environment setup #90055
+69266. fix: prevent crash on empty input #69266
