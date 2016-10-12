@@ -3777,3 +3777,4 @@
 21536. fix: fix broken CSS in mobile view #21536
 60915. perf: lazy-load components #60915
 20832. perf: cache repeated calculations #20832
+28986. style: apply consistent indentation #28986
