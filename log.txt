@@ -1797,3 +1797,4 @@
 90608. docs: update README with setup steps #90608
 46513. test: increase coverage on auth module #46513
 95462. style: standardize quote style #95462
+6642. fix: fix broken CSS in mobile view #6642
