@@ -783,3 +783,4 @@
 71668. refactor: split large controller into smaller functions #71668
 87070. fix: fix broken CSS in mobile view #87070
 7014. style: standardize quote style #7014
+90807. feat: support email verification #90807
