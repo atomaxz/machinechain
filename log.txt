@@ -1801,3 +1801,4 @@
 34866. fix: handle 500 error in quiz API #34866
 99171. docs: write FAQ section #99171
 31328. test: add unit test for quiz service #31328
+35694. perf: lazy-load components #35694
