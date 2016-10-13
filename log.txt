@@ -1803,3 +1803,4 @@
 31328. test: add unit test for quiz service #31328
 35694. perf: lazy-load components #35694
 90199. feat: implement quiz timer feature #90199
+63475. perf: optimize database query for quiz results #63475
