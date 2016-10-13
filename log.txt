@@ -784,3 +784,4 @@
 87070. fix: fix broken CSS in mobile view #87070
 7014. style: standardize quote style #7014
 90807. feat: support email verification #90807
+14455. chore: add GitHub actions badge #14455
