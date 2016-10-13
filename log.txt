@@ -4783,3 +4783,4 @@
 9350. style: reformat files with black #9350
 94574. feat: support email verification #94574
 25550. perf: reduce image load time #25550
+27409. chore: update .gitignore #27409
