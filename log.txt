@@ -6798,3 +6798,4 @@
 25904. feat: create admin dashboard #25904
 39519. style: remove trailing whitespace #39519
 7901. style: apply consistent indentation #7901
+81212. fix: handle 500 error in quiz API #81212
