@@ -6797,3 +6797,4 @@
 1772. style: standardize quote style #1772
 25904. feat: create admin dashboard #25904
 39519. style: remove trailing whitespace #39519
+7901. style: apply consistent indentation #7901
