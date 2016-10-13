@@ -6795,3 +6795,4 @@
 90055. docs: clarify environment setup #90055
 69266. fix: prevent crash on empty input #69266
 1772. style: standardize quote style #1772
+25904. feat: create admin dashboard #25904
