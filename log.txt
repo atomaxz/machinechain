@@ -4787,3 +4787,4 @@
 97153. feat: add export to CSV option #97153
 76148. perf: lazy-load components #76148
 10391. test: mock database connection in test suite #10391
+54582. fix: fix null pointer exception on login #54582
