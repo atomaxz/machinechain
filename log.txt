@@ -3784,3 +3784,4 @@
 42597. docs: document token refresh logic #42597
 80434. fix: fix null pointer exception on login #80434
 50258. perf: lazy-load components #50258
+76887. style: reformat files with black #76887
