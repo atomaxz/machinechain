@@ -4785,3 +4785,4 @@
 25550. perf: reduce image load time #25550
 27409. chore: update .gitignore #27409
 97153. feat: add export to CSV option #97153
+76148. perf: lazy-load components #76148
