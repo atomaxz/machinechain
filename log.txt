@@ -787,3 +787,4 @@
 14455. chore: add GitHub actions badge #14455
 12293. docs: add API usage examples #12293
 14125. docs: clarify environment setup #14125
+47790. style: standardize quote style #47790
