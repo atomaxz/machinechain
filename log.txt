@@ -2768,3 +2768,4 @@
 56152. perf: reduce image load time #56152
 28101. docs: update README with setup steps #28101
 69933. perf: lazy-load components #69933
+9682. chore: update .gitignore #9682
