@@ -788,3 +788,4 @@
 12293. docs: add API usage examples #12293
 14125. docs: clarify environment setup #14125
 47790. style: standardize quote style #47790
+21757. perf: lazy-load components #21757
