@@ -4789,3 +4789,4 @@
 10391. test: mock database connection in test suite #10391
 54582. fix: fix null pointer exception on login #54582
 29498. test: mock database connection in test suite #29498
+20847. feat: add export to CSV option #20847
