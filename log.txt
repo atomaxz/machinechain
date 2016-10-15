@@ -1810,3 +1810,4 @@
 20474. perf: cache repeated calculations #20474
 27717. feat: add user authentication #27717
 67911. fix: resolve issue with date parsing #67911
+47424. feat: add export to CSV option #47424
