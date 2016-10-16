@@ -791,3 +791,4 @@
 21757. perf: lazy-load components #21757
 71679. fix: fix broken CSS in mobile view #71679
 34326. feat: support email verification #34326
+89245. style: rename variables for clarity #89245
