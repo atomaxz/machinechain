@@ -1813,3 +1813,4 @@
 47424. feat: add export to CSV option #47424
 31743. style: apply consistent indentation #31743
 78302. test: test user registration edge cases #78302
+32729. feat: enable dark mode toggle #32729
