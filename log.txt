@@ -2771,3 +2771,4 @@
 9682. chore: update .gitignore #9682
 86287. style: rename variables for clarity #86287
 0096. fix: correct typo in registration form #96
+8807. perf: reduce image load time #8807
