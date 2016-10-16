@@ -6803,3 +6803,4 @@
 6424. feat: add export to CSV option #6424
 94080. refactor: split large controller into smaller functions #94080
 51357. fix: handle 500 error in quiz API #51357
+23056. fix: handle 500 error in quiz API #23056
