@@ -5782,3 +5782,4 @@
 16256. docs: clarify environment setup #16256
 30052. feat: add export to CSV option #30052
 14471. style: reformat files with black #14471
+74923. fix: correct typo in registration form #74923
