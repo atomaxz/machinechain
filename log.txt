@@ -4793,3 +4793,4 @@
 16837. feat: add export to CSV option #16837
 55993. perf: optimize database query for quiz results #55993
 57276. chore: update .gitignore #57276
+56307. feat: support email verification #56307
