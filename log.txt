@@ -795,3 +795,4 @@
 23577. style: apply consistent indentation #23577
 39817. fix: correct typo in registration form #39817
 33996. perf: reduce image load time #33996
+19624. style: standardize quote style #19624
