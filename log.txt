@@ -6804,3 +6804,4 @@
 94080. refactor: split large controller into smaller functions #94080
 51357. fix: handle 500 error in quiz API #51357
 23056. fix: handle 500 error in quiz API #23056
+89363. feat: add user authentication #89363
