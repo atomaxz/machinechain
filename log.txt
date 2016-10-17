@@ -1816,3 +1816,4 @@
 32729. feat: enable dark mode toggle #32729
 60672. perf: lazy-load components #60672
 82827. perf: lazy-load components #82827
+66049. refactor: split large controller into smaller functions #66049
