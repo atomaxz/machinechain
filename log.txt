@@ -6806,3 +6806,4 @@
 23056. fix: handle 500 error in quiz API #23056
 89363. feat: add user authentication #89363
 32737. style: reformat files with black #32737
+66974. style: reformat files with black #66974
