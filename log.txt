@@ -5784,3 +5784,4 @@
 14471. style: reformat files with black #14471
 74923. fix: correct typo in registration form #74923
 56782. perf: lazy-load components #56782
+48260. fix: fix null pointer exception on login #48260
