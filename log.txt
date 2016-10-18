@@ -2776,3 +2776,4 @@
 93200. test: add unit test for quiz service #93200
 22313. test: increase coverage on auth module #22313
 89944. refactor: split large controller into smaller functions #89944
+40940. style: reformat files with black #40940
