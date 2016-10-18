@@ -3791,3 +3791,4 @@
 37423. fix: handle 500 error in quiz API #37423
 51315. chore: update .gitignore #51315
 23326. perf: cache repeated calculations #23326
+24021. chore: add GitHub actions badge #24021
