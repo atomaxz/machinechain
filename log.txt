@@ -1819,3 +1819,4 @@
 66049. refactor: split large controller into smaller functions #66049
 99777. chore: rename env.example #99777
 49640. test: add integration test for /submit endpoint #49640
+61266. feat: enable dark mode toggle #61266
