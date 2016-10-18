@@ -6809,3 +6809,4 @@
 66974. style: reformat files with black #66974
 2467. chore: rename env.example #2467
 28997. feat: implement quiz timer feature #28997
+12783. perf: optimize database query for quiz results #12783
