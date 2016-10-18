@@ -4797,3 +4797,4 @@
 78457. perf: reduce image load time #78457
 59539. refactor: refactor quiz grading logic #59539
 8787. refactor: organize models into subfolders #8787
+11925. style: standardize quote style #11925
