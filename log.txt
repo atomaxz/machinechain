@@ -4800,3 +4800,4 @@
 11925. style: standardize quote style #11925
 50870. test: test user registration edge cases #50870
 22937. docs: improve code comments in utils #22937
+94180. fix: correct typo in registration form #94180
