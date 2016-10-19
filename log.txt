@@ -4802,3 +4802,4 @@
 22937. docs: improve code comments in utils #22937
 94180. fix: correct typo in registration form #94180
 76495. style: apply consistent indentation #76495
+45675. fix: prevent crash on empty input #45675
