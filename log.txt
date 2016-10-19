@@ -3793,3 +3793,4 @@
 23326. perf: cache repeated calculations #23326
 24021. chore: add GitHub actions badge #24021
 32888. test: add integration test for /submit endpoint #32888
+54284. fix: prevent crash on empty input #54284
