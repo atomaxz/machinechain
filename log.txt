@@ -1823,3 +1823,4 @@
 62905. style: apply consistent indentation #62905
 20103. perf: lazy-load components #20103
 64768. fix: prevent crash on empty input #64768
+22023. perf: lazy-load components #22023
