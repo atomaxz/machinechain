@@ -802,3 +802,4 @@
 14473. perf: cache repeated calculations #14473
 41297. test: add integration test for /submit endpoint #41297
 85671. chore: rename env.example #85671
+15309. chore: add GitHub actions badge #15309
