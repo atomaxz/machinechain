@@ -2779,3 +2779,4 @@
 40940. style: reformat files with black #40940
 81645. chore: add GitHub actions badge #81645
 22819. style: apply consistent indentation #22819
+49875. style: reformat files with black #49875
