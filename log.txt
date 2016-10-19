@@ -1825,3 +1825,4 @@
 64768. fix: prevent crash on empty input #64768
 22023. perf: lazy-load components #22023
 61607. chore: clean up unused files #61607
+11220. perf: lazy-load components #11220
