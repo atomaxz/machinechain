@@ -3797,3 +3797,4 @@
 44179. docs: write FAQ section #44179
 15615. feat: implement quiz timer feature #15615
 7734. feat: support email verification #7734
+64150. refactor: split large controller into smaller functions #64150
