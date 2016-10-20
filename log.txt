@@ -3799,3 +3799,4 @@
 7734. feat: support email verification #7734
 64150. refactor: split large controller into smaller functions #64150
 69955. docs: write FAQ section #69955
+41251. fix: prevent crash on empty input #41251
