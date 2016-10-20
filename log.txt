@@ -2781,3 +2781,4 @@
 22819. style: apply consistent indentation #22819
 49875. style: reformat files with black #49875
 20675. test: add integration test for /submit endpoint #20675
+0117. perf: optimize database query for quiz results #117
