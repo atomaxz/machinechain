@@ -805,3 +805,4 @@
 15309. chore: add GitHub actions badge #15309
 2729. chore: clean up unused files #2729
 95655. fix: fix broken CSS in mobile view #95655
+75883. style: apply consistent indentation #75883
