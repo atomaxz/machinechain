@@ -5797,3 +5797,4 @@
 32712. chore: update .gitignore #32712
 2623. fix: resolve issue with date parsing #2623
 39602. style: reformat files with black #39602
+19934. test: add integration test for /submit endpoint #19934
