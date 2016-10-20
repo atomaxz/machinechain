@@ -806,3 +806,4 @@
 2729. chore: clean up unused files #2729
 95655. fix: fix broken CSS in mobile view #95655
 75883. style: apply consistent indentation #75883
+64314. chore: bump dependencies #64314
