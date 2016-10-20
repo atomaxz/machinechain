@@ -1828,3 +1828,4 @@
 11220. perf: lazy-load components #11220
 71903. style: apply consistent indentation #71903
 18196. docs: clarify environment setup #18196
+49521. fix: fix null pointer exception on login #49521
