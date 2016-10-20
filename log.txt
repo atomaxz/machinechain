@@ -6814,3 +6814,4 @@
 19358. feat: enable dark mode toggle #19358
 51270. perf: lazy-load components #51270
 56850. fix: handle 500 error in quiz API #56850
+64901. style: standardize quote style #64901
