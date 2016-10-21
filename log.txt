@@ -812,3 +812,4 @@
 73989. feat: enable dark mode toggle #73989
 57880. docs: write FAQ section #57880
 77880. feat: enable dark mode toggle #77880
+60088. docs: write FAQ section #60088
