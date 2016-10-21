@@ -5799,3 +5799,4 @@
 39602. style: reformat files with black #39602
 19934. test: add integration test for /submit endpoint #19934
 84131. perf: cache repeated calculations #84131
+88203. test: increase coverage on auth module #88203
