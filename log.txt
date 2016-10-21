@@ -3801,3 +3801,4 @@
 69955. docs: write FAQ section #69955
 41251. fix: prevent crash on empty input #41251
 64567. feat: add export to CSV option #64567
+2622. test: add unit test for quiz service #2622
