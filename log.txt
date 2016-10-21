@@ -1831,3 +1831,4 @@
 49521. fix: fix null pointer exception on login #49521
 66000. chore: add GitHub actions badge #66000
 88941. fix: resolve issue with date parsing #88941
+63292. refactor: clean up auth middleware #63292
