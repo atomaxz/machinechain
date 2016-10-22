@@ -813,3 +813,4 @@
 57880. docs: write FAQ section #57880
 77880. feat: enable dark mode toggle #77880
 60088. docs: write FAQ section #60088
+7343. refactor: split large controller into smaller functions #7343
