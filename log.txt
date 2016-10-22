@@ -5801,3 +5801,4 @@
 84131. perf: cache repeated calculations #84131
 88203. test: increase coverage on auth module #88203
 22983. feat: enable dark mode toggle #22983
+40576. style: apply consistent indentation #40576
