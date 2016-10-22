@@ -815,3 +815,4 @@
 60088. docs: write FAQ section #60088
 7343. refactor: split large controller into smaller functions #7343
 62609. feat: add user authentication #62609
+49143. fix: correct typo in registration form #49143
