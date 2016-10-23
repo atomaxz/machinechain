@@ -2786,3 +2786,4 @@
 42520. test: add integration test for /submit endpoint #42520
 40730. style: remove trailing whitespace #40730
 47304. fix: resolve issue with date parsing #47304
+12401. feat: add user authentication #12401
