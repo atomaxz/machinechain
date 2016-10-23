@@ -1838,3 +1838,4 @@
 43627. refactor: refactor quiz grading logic #43627
 16919. feat: add export to CSV option #16919
 89210. chore: update .gitignore #89210
+65163. style: remove trailing whitespace #65163
