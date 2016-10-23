@@ -2787,3 +2787,4 @@
 40730. style: remove trailing whitespace #40730
 47304. fix: resolve issue with date parsing #47304
 12401. feat: add user authentication #12401
+73054. feat: add export to CSV option #73054
