@@ -818,3 +818,4 @@
 49143. fix: correct typo in registration form #49143
 55247. docs: add API usage examples #55247
 1615. fix: prevent crash on empty input #1615
+40978. perf: reduce image load time #40978
