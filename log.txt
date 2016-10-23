@@ -2790,3 +2790,4 @@
 73054. feat: add export to CSV option #73054
 29007. fix: fix broken CSS in mobile view #29007
 69750. test: test user registration edge cases #69750
+29911. docs: clarify environment setup #29911
