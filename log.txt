@@ -1842,3 +1842,4 @@
 24227. fix: fix null pointer exception on login #24227
 75028. docs: document token refresh logic #75028
 62208. perf: reduce image load time #62208
+41659. refactor: clean up auth middleware #41659
