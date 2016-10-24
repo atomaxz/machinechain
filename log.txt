@@ -2791,3 +2791,4 @@
 29007. fix: fix broken CSS in mobile view #29007
 69750. test: test user registration edge cases #69750
 29911. docs: clarify environment setup #29911
+3066. docs: write FAQ section #3066
