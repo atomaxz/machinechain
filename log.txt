@@ -823,3 +823,4 @@
 37519. perf: lazy-load components #37519
 25924. feat: implement quiz timer feature #25924
 54727. docs: document token refresh logic #54727
+19751. refactor: split large controller into smaller functions #19751
