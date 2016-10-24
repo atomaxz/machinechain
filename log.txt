@@ -5807,3 +5807,4 @@
 55707. refactor: remove redundant code blocks #55707
 31497. fix: resolve issue with date parsing #31497
 97034. fix: handle 500 error in quiz API #97034
+86822. docs: write FAQ section #86822
