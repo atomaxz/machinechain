@@ -5811,3 +5811,4 @@
 69046. test: increase coverage on auth module #69046
 2983. refactor: remove redundant code blocks #2983
 99367. style: standardize quote style #99367
+62724. feat: add export to CSV option #62724
