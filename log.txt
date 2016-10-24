@@ -5808,3 +5808,4 @@
 31497. fix: resolve issue with date parsing #31497
 97034. fix: handle 500 error in quiz API #97034
 86822. docs: write FAQ section #86822
+69046. test: increase coverage on auth module #69046
