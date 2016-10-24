@@ -2792,3 +2792,4 @@
 69750. test: test user registration edge cases #69750
 29911. docs: clarify environment setup #29911
 3066. docs: write FAQ section #3066
+71293. feat: enable dark mode toggle #71293
