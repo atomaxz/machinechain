@@ -1843,3 +1843,4 @@
 75028. docs: document token refresh logic #75028
 62208. perf: reduce image load time #62208
 41659. refactor: clean up auth middleware #41659
+56909. feat: add user authentication #56909
