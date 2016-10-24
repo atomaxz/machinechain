@@ -3810,3 +3810,4 @@
 19175. test: add unit test for quiz service #19175
 57628. chore: bump dependencies #57628
 11714. perf: lazy-load components #11714
+68143. test: increase coverage on auth module #68143
