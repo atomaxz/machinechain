@@ -5815,3 +5815,4 @@
 28759. test: mock database connection in test suite #28759
 42941. perf: cache repeated calculations #42941
 17787. style: remove trailing whitespace #17787
+19840. fix: fix null pointer exception on login #19840
