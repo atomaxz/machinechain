@@ -4819,3 +4819,4 @@
 95057. refactor: refactor quiz grading logic #95057
 44799. fix: prevent crash on empty input #44799
 74272. docs: add API usage examples #74272
+92124. feat: support email verification #92124
