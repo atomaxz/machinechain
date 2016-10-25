@@ -827,3 +827,4 @@
 94487. chore: rename env.example #94487
 66700. style: rename variables for clarity #66700
 4025. test: mock database connection in test suite #4025
+40441. chore: update .gitignore #40441
