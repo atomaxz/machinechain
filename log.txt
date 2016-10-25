@@ -6826,3 +6826,4 @@
 54612. chore: update .gitignore #54612
 56229. docs: update README with setup steps #56229
 92296. chore: bump dependencies #92296
+30378. refactor: clean up auth middleware #30378
