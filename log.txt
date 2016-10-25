@@ -2797,3 +2797,4 @@
 61513. test: increase coverage on auth module #61513
 1967. perf: cache repeated calculations #1967
 9961. feat: support email verification #9961
+73009. test: increase coverage on auth module #73009
