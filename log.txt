@@ -2798,3 +2798,4 @@
 1967. perf: cache repeated calculations #1967
 9961. feat: support email verification #9961
 73009. test: increase coverage on auth module #73009
+26372. feat: create admin dashboard #26372
