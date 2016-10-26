@@ -4826,3 +4826,4 @@
 70329. chore: add GitHub actions badge #70329
 43321. test: add unit test for quiz service #43321
 44147. docs: document token refresh logic #44147
+25529. fix: correct typo in registration form #25529
