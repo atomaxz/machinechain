@@ -5817,3 +5817,4 @@
 17787. style: remove trailing whitespace #17787
 19840. fix: fix null pointer exception on login #19840
 48730. refactor: clean up auth middleware #48730
+3229. fix: resolve issue with date parsing #3229
