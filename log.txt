@@ -2806,3 +2806,4 @@
 75543. style: reformat files with black #75543
 34285. fix: handle 500 error in quiz API #34285
 57887. feat: support email verification #57887
+17452. refactor: split large controller into smaller functions #17452
