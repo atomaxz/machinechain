@@ -831,3 +831,4 @@
 78936. feat: add user authentication #78936
 80299. docs: clarify environment setup #80299
 91553. style: reformat files with black #91553
+62049. feat: support email verification #62049
