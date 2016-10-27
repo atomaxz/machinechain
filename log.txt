@@ -1849,3 +1849,4 @@
 52356. fix: handle 500 error in quiz API #52356
 81067. refactor: split large controller into smaller functions #81067
 21096. fix: resolve issue with date parsing #21096
+12522. test: test user registration edge cases #12522
