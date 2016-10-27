@@ -2805,3 +2805,4 @@
 59126. perf: reduce image load time #59126
 75543. style: reformat files with black #75543
 34285. fix: handle 500 error in quiz API #34285
+57887. feat: support email verification #57887
