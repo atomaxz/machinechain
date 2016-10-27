@@ -3817,3 +3817,4 @@
 53400. style: rename variables for clarity #53400
 31614. chore: add GitHub actions badge #31614
 42479. fix: fix broken CSS in mobile view #42479
+60436. test: add integration test for /submit endpoint #60436
