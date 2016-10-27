@@ -3818,3 +3818,4 @@
 31614. chore: add GitHub actions badge #31614
 42479. fix: fix broken CSS in mobile view #42479
 60436. test: add integration test for /submit endpoint #60436
+45149. perf: cache repeated calculations #45149
