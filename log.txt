@@ -5822,3 +5822,4 @@
 25144. style: rename variables for clarity #25144
 2929. chore: update .gitignore #2929
 71772. refactor: refactor quiz grading logic #71772
+59523. perf: lazy-load components #59523
