@@ -832,3 +832,4 @@
 80299. docs: clarify environment setup #80299
 91553. style: reformat files with black #91553
 62049. feat: support email verification #62049
+42795. feat: support email verification #42795
