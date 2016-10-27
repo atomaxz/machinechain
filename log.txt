@@ -5820,3 +5820,4 @@
 3229. fix: resolve issue with date parsing #3229
 66554. feat: add export to CSV option #66554
 25144. style: rename variables for clarity #25144
+2929. chore: update .gitignore #2929
