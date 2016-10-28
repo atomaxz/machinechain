@@ -2809,3 +2809,4 @@
 17452. refactor: split large controller into smaller functions #17452
 88923. test: increase coverage on auth module #88923
 97848. docs: clarify environment setup #97848
+66998. perf: lazy-load components #66998
