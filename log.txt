@@ -4832,3 +4832,4 @@
 38163. fix: fix broken CSS in mobile view #38163
 45913. chore: clean up unused files #45913
 80756. refactor: refactor quiz grading logic #80756
+86759. perf: reduce image load time #86759
