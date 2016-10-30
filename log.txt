@@ -1854,3 +1854,4 @@
 55794. chore: add GitHub actions badge #55794
 75382. perf: cache repeated calculations #75382
 23797. style: reformat files with black #23797
+49548. refactor: organize models into subfolders #49548
