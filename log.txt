@@ -6836,3 +6836,4 @@
 95147. chore: bump dependencies #95147
 22660. docs: improve code comments in utils #22660
 70350. perf: lazy-load components #70350
+52886. test: increase coverage on auth module #52886
