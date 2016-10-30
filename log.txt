@@ -2811,3 +2811,4 @@
 97848. docs: clarify environment setup #97848
 66998. perf: lazy-load components #66998
 3638. fix: fix broken CSS in mobile view #3638
+41463. perf: cache repeated calculations #41463
