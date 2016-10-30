@@ -3829,3 +3829,4 @@
 5105. feat: create admin dashboard #5105
 1446. style: remove trailing whitespace #1446
 52091. refactor: clean up auth middleware #52091
+67181. test: increase coverage on auth module #67181
