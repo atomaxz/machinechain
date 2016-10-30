@@ -6837,3 +6837,4 @@
 22660. docs: improve code comments in utils #22660
 70350. perf: lazy-load components #70350
 52886. test: increase coverage on auth module #52886
+30389. perf: reduce image load time #30389
