@@ -1858,3 +1858,4 @@
 13971. style: reformat files with black #13971
 62785. feat: add export to CSV option #62785
 26249. perf: optimize database query for quiz results #26249
+8904. test: test user registration edge cases #8904
