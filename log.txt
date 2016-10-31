@@ -5832,3 +5832,4 @@
 35578. fix: resolve issue with date parsing #35578
 28011. style: apply consistent indentation #28011
 68473. fix: fix broken CSS in mobile view #68473
+27274. feat: create admin dashboard #27274
