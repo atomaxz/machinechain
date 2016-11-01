@@ -5836,3 +5836,4 @@
 0861. test: add integration test for /submit endpoint #861
 78879. refactor: organize models into subfolders #78879
 34802. docs: update README with setup steps #34802
+29154. fix: correct typo in registration form #29154
