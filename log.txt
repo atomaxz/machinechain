@@ -2812,3 +2812,4 @@
 66998. perf: lazy-load components #66998
 3638. fix: fix broken CSS in mobile view #3638
 41463. perf: cache repeated calculations #41463
+30752. refactor: split large controller into smaller functions #30752
