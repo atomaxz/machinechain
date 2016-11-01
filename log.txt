@@ -6839,3 +6839,4 @@
 52886. test: increase coverage on auth module #52886
 30389. perf: reduce image load time #30389
 59679. refactor: split large controller into smaller functions #59679
+26690. style: standardize quote style #26690
