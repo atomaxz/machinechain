@@ -5838,3 +5838,4 @@
 34802. docs: update README with setup steps #34802
 29154. fix: correct typo in registration form #29154
 80467. docs: improve code comments in utils #80467
+82054. fix: fix null pointer exception on login #82054
