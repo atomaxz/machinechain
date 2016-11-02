@@ -847,3 +847,4 @@
 52519. docs: document token refresh logic #52519
 44904. refactor: refactor quiz grading logic #44904
 20911. fix: handle 500 error in quiz API #20911
+2384. fix: correct typo in registration form #2384
