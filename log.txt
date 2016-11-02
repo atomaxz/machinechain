@@ -3840,3 +3840,4 @@
 6947. docs: clarify environment setup #6947
 25541. perf: cache repeated calculations #25541
 0275. feat: create admin dashboard #275
+64734. feat: support email verification #64734
