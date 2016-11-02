@@ -2819,3 +2819,4 @@
 68500. refactor: split large controller into smaller functions #68500
 38830. test: add integration test for /submit endpoint #38830
 82430. perf: reduce image load time #82430
+63744. fix: fix null pointer exception on login #63744
