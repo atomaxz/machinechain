@@ -1862,3 +1862,4 @@
 56210. test: test user registration edge cases #56210
 37258. refactor: remove redundant code blocks #37258
 17352. refactor: organize models into subfolders #17352
+7404. style: standardize quote style #7404
