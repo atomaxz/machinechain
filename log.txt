@@ -1861,3 +1861,4 @@
 8904. test: test user registration edge cases #8904
 56210. test: test user registration edge cases #56210
 37258. refactor: remove redundant code blocks #37258
+17352. refactor: organize models into subfolders #17352
