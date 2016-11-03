@@ -1867,3 +1867,4 @@
 76958. style: apply consistent indentation #76958
 21837. docs: update README with setup steps #21837
 26081. docs: add API usage examples #26081
+21076. docs: clarify environment setup #21076
