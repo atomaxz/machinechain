@@ -6842,3 +6842,4 @@
 26690. style: standardize quote style #26690
 13003. refactor: organize models into subfolders #13003
 35856. feat: enable dark mode toggle #35856
+57283. test: increase coverage on auth module #57283
