@@ -5840,3 +5840,4 @@
 80467. docs: improve code comments in utils #80467
 82054. fix: fix null pointer exception on login #82054
 31557. docs: write FAQ section #31557
+66954. test: test user registration edge cases #66954
