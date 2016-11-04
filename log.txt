@@ -2826,3 +2826,4 @@
 28313. perf: cache repeated calculations #28313
 4288. test: test user registration edge cases #4288
 8993. test: add unit test for quiz service #8993
+27304. fix: prevent crash on empty input #27304
