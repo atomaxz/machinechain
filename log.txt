@@ -6847,3 +6847,4 @@
 45676. chore: add GitHub actions badge #45676
 2303. feat: create admin dashboard #2303
 51189. docs: add API usage examples #51189
+11974. docs: write FAQ section #11974
