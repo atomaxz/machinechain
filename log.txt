@@ -3846,3 +3846,4 @@
 13239. perf: cache repeated calculations #13239
 26378. chore: bump dependencies #26378
 19332. docs: improve code comments in utils #19332
+54722. fix: fix null pointer exception on login #54722
