@@ -2827,3 +2827,4 @@
 4288. test: test user registration edge cases #4288
 8993. test: add unit test for quiz service #8993
 27304. fix: prevent crash on empty input #27304
+70288. style: apply consistent indentation #70288
