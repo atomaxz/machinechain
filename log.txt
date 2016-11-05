@@ -4848,3 +4848,4 @@
 37944. refactor: clean up auth middleware #37944
 60676. test: increase coverage on auth module #60676
 10858. feat: enable dark mode toggle #10858
+2660. feat: enable dark mode toggle #2660
