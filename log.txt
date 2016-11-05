@@ -3848,3 +3848,4 @@
 19332. docs: improve code comments in utils #19332
 54722. fix: fix null pointer exception on login #54722
 74960. refactor: remove redundant code blocks #74960
+3900. chore: bump dependencies #3900
