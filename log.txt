@@ -852,3 +852,4 @@
 28597. fix: fix broken CSS in mobile view #28597
 65960. feat: add user authentication #65960
 36187. fix: resolve issue with date parsing #36187
+26281. fix: fix null pointer exception on login #26281
