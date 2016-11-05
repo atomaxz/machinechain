@@ -2833,3 +2833,4 @@
 30097. chore: clean up unused files #30097
 96932. feat: support email verification #96932
 71181. style: apply consistent indentation #71181
+15996. perf: reduce image load time #15996
