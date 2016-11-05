@@ -4850,3 +4850,4 @@
 10858. feat: enable dark mode toggle #10858
 2660. feat: enable dark mode toggle #2660
 1752. chore: bump dependencies #1752
+21963. chore: bump dependencies #21963
