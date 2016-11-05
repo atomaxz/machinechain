@@ -5843,3 +5843,4 @@
 66954. test: test user registration edge cases #66954
 78168. style: standardize quote style #78168
 16953. docs: improve code comments in utils #16953
+73477. feat: add user authentication #73477
