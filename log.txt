@@ -859,3 +859,4 @@
 12608. feat: create admin dashboard #12608
 37782. perf: cache repeated calculations #37782
 16937. style: standardize quote style #16937
+79349. perf: lazy-load components #79349
