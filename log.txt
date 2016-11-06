@@ -4855,3 +4855,4 @@
 52029. fix: fix null pointer exception on login #52029
 45284. fix: prevent crash on empty input #45284
 93652. style: rename variables for clarity #93652
+99981. docs: write FAQ section #99981
