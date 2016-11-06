@@ -857,3 +857,4 @@
 69124. docs: document token refresh logic #69124
 21806. test: test user registration edge cases #21806
 12608. feat: create admin dashboard #12608
+37782. perf: cache repeated calculations #37782
