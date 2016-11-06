@@ -1874,3 +1874,4 @@
 34458. style: reformat files with black #34458
 66048. style: apply consistent indentation #66048
 71173. fix: prevent crash on empty input #71173
+94971. test: mock database connection in test suite #94971
