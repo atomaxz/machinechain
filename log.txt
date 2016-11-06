@@ -2837,3 +2837,4 @@
 96921. test: mock database connection in test suite #96921
 4049. perf: lazy-load components #4049
 22870. test: test user registration edge cases #22870
+17120. fix: fix null pointer exception on login #17120
