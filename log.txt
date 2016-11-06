@@ -1873,3 +1873,4 @@
 83530. refactor: split large controller into smaller functions #83530
 34458. style: reformat files with black #34458
 66048. style: apply consistent indentation #66048
+71173. fix: prevent crash on empty input #71173
