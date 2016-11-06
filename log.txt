@@ -855,3 +855,4 @@
 26281. fix: fix null pointer exception on login #26281
 86794. refactor: organize models into subfolders #86794
 69124. docs: document token refresh logic #69124
+21806. test: test user registration edge cases #21806
