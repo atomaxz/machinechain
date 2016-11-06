@@ -1872,3 +1872,4 @@
 77490. fix: fix null pointer exception on login #77490
 83530. refactor: split large controller into smaller functions #83530
 34458. style: reformat files with black #34458
+66048. style: apply consistent indentation #66048
