@@ -861,3 +861,4 @@
 16937. style: standardize quote style #16937
 79349. perf: lazy-load components #79349
 14357. chore: bump dependencies #14357
+83069. test: increase coverage on auth module #83069
