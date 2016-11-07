@@ -5852,3 +5852,4 @@
 49190. style: reformat files with black #49190
 60135. chore: add GitHub actions badge #60135
 89159. test: increase coverage on auth module #89159
+30280. perf: reduce image load time #30280
