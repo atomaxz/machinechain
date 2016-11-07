@@ -6855,3 +6855,4 @@
 51940. style: rename variables for clarity #51940
 50857. fix: fix null pointer exception on login #50857
 82516. test: increase coverage on auth module #82516
+61866. feat: support email verification #61866
