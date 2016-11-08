@@ -2842,3 +2842,4 @@
 0924. fix: handle 500 error in quiz API #924
 43827. chore: update .gitignore #43827
 61474. refactor: split large controller into smaller functions #61474
+97053. fix: prevent crash on empty input #97053
