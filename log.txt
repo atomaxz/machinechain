@@ -4858,3 +4858,4 @@
 99981. docs: write FAQ section #99981
 56651. docs: write FAQ section #56651
 6131. perf: lazy-load components #6131
+94529. chore: update .gitignore #94529
