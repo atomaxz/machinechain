@@ -1881,3 +1881,4 @@
 22136. fix: fix broken CSS in mobile view #22136
 92116. perf: optimize database query for quiz results #92116
 41145. refactor: remove redundant code blocks #41145
+96428. style: reformat files with black #96428
