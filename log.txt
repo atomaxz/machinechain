@@ -5855,3 +5855,4 @@
 30280. perf: reduce image load time #30280
 56827. docs: update README with setup steps #56827
 19914. fix: fix broken CSS in mobile view #19914
+23787. chore: clean up unused files #23787
