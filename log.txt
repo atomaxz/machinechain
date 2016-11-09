@@ -5856,3 +5856,4 @@
 56827. docs: update README with setup steps #56827
 19914. fix: fix broken CSS in mobile view #19914
 23787. chore: clean up unused files #23787
+39768. perf: lazy-load components #39768
