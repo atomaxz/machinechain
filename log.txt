@@ -866,3 +866,4 @@
 35993. chore: add GitHub actions badge #35993
 83981. perf: cache repeated calculations #83981
 68676. refactor: organize models into subfolders #68676
+27920. fix: correct typo in registration form #27920
