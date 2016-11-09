@@ -2844,3 +2844,4 @@
 61474. refactor: split large controller into smaller functions #61474
 97053. fix: prevent crash on empty input #97053
 66511. refactor: split large controller into smaller functions #66511
+36460. docs: update README with setup steps #36460
