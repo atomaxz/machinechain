@@ -867,3 +867,4 @@
 83981. perf: cache repeated calculations #83981
 68676. refactor: organize models into subfolders #68676
 27920. fix: correct typo in registration form #27920
+24603. test: increase coverage on auth module #24603
