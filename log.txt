@@ -4861,3 +4861,4 @@
 94529. chore: update .gitignore #94529
 32939. style: remove trailing whitespace #32939
 37286. fix: handle 500 error in quiz API #37286
+46522. test: add integration test for /submit endpoint #46522
