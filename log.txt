@@ -5860,3 +5860,4 @@
 65714. style: standardize quote style #65714
 0983. chore: rename env.example #983
 19674. fix: fix null pointer exception on login #19674
+43012. refactor: organize models into subfolders #43012
