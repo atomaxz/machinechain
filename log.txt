@@ -869,3 +869,4 @@
 27920. fix: correct typo in registration form #27920
 24603. test: increase coverage on auth module #24603
 58370. feat: create admin dashboard #58370
+87790. refactor: remove redundant code blocks #87790
