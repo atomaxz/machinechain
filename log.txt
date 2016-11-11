@@ -873,3 +873,4 @@
 3895. test: mock database connection in test suite #3895
 68546. style: rename variables for clarity #68546
 86066. chore: update .gitignore #86066
+24046. feat: create admin dashboard #24046
