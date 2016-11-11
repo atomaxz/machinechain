@@ -2846,3 +2846,4 @@
 66511. refactor: split large controller into smaller functions #66511
 36460. docs: update README with setup steps #36460
 64076. style: remove trailing whitespace #64076
+42005. fix: prevent crash on empty input #42005
