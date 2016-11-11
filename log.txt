@@ -4863,3 +4863,4 @@
 37286. fix: handle 500 error in quiz API #37286
 46522. test: add integration test for /submit endpoint #46522
 22911. perf: reduce image load time #22911
+95803. test: add unit test for quiz service #95803
