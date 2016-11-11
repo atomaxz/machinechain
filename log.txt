@@ -3856,3 +3856,4 @@
 81340. docs: add API usage examples #81340
 73732. style: remove trailing whitespace #73732
 36961. feat: enable dark mode toggle #36961
+77105. feat: create admin dashboard #77105
