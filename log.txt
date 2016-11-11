@@ -4865,3 +4865,4 @@
 22911. perf: reduce image load time #22911
 95803. test: add unit test for quiz service #95803
 78247. test: add integration test for /submit endpoint #78247
+10862. fix: fix null pointer exception on login #10862
