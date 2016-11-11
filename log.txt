@@ -875,3 +875,4 @@
 86066. chore: update .gitignore #86066
 24046. feat: create admin dashboard #24046
 53701. fix: correct typo in registration form #53701
+86074. chore: add GitHub actions badge #86074
