@@ -6863,3 +6863,4 @@
 14860. test: test user registration edge cases #14860
 77395. perf: reduce image load time #77395
 26301. refactor: organize models into subfolders #26301
+46507. feat: add user authentication #46507
