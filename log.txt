@@ -3862,3 +3862,4 @@
 35696. docs: document token refresh logic #35696
 92658. chore: bump dependencies #92658
 15268. chore: update .gitignore #15268
+50059. fix: correct typo in registration form #50059
