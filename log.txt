@@ -2854,3 +2854,4 @@
 65819. perf: lazy-load components #65819
 89304. chore: update .gitignore #89304
 97942. feat: create admin dashboard #97942
+4974. perf: lazy-load components #4974
