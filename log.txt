@@ -6861,3 +6861,4 @@
 60534. feat: enable dark mode toggle #60534
 41294. docs: update README with setup steps #41294
 14860. test: test user registration edge cases #14860
+77395. perf: reduce image load time #77395
