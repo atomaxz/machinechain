@@ -5863,3 +5863,4 @@
 43012. refactor: organize models into subfolders #43012
 43871. style: rename variables for clarity #43871
 23973. docs: clarify environment setup #23973
+60462. chore: update .gitignore #60462
