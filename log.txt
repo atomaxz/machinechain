@@ -1888,3 +1888,4 @@
 9565. docs: document token refresh logic #9565
 29390. style: apply consistent indentation #29390
 82983. test: increase coverage on auth module #82983
+10435. feat: support email verification #10435
