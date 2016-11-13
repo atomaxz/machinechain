@@ -3866,3 +3866,4 @@
 22551. feat: add export to CSV option #22551
 80687. feat: implement quiz timer feature #80687
 27159. test: mock database connection in test suite #27159
+74680. feat: add user authentication #74680
