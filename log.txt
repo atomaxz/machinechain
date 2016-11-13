@@ -5865,3 +5865,4 @@
 23973. docs: clarify environment setup #23973
 60462. chore: update .gitignore #60462
 93291. style: apply consistent indentation #93291
+28333. chore: rename env.example #28333
