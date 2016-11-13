@@ -1887,3 +1887,4 @@
 88964. test: mock database connection in test suite #88964
 9565. docs: document token refresh logic #9565
 29390. style: apply consistent indentation #29390
+82983. test: increase coverage on auth module #82983
