@@ -2858,3 +2858,4 @@
 80094. fix: correct typo in registration form #80094
 34472. style: remove trailing whitespace #34472
 62667. refactor: remove redundant code blocks #62667
+12825. style: remove trailing whitespace #12825
