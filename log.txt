@@ -1889,3 +1889,4 @@
 29390. style: apply consistent indentation #29390
 82983. test: increase coverage on auth module #82983
 10435. feat: support email verification #10435
+6238. refactor: split large controller into smaller functions #6238
