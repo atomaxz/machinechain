@@ -4872,3 +4872,4 @@
 41753. test: increase coverage on auth module #41753
 66343. perf: reduce image load time #66343
 42255. chore: clean up unused files #42255
+78870. feat: support email verification #78870
