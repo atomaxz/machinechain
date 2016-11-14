@@ -1891,3 +1891,4 @@
 10435. feat: support email verification #10435
 6238. refactor: split large controller into smaller functions #6238
 63008. perf: lazy-load components #63008
+71041. style: reformat files with black #71041
