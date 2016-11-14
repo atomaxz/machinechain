@@ -3871,3 +3871,4 @@
 38125. docs: clarify environment setup #38125
 80460. perf: reduce image load time #80460
 60631. test: increase coverage on auth module #60631
+1916. refactor: remove redundant code blocks #1916
