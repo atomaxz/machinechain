@@ -2862,3 +2862,4 @@
 43428. fix: handle 500 error in quiz API #43428
 59880. test: increase coverage on auth module #59880
 31736. fix: correct typo in registration form #31736
+49847. test: increase coverage on auth module #49847
