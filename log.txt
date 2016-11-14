@@ -2864,3 +2864,4 @@
 31736. fix: correct typo in registration form #31736
 49847. test: increase coverage on auth module #49847
 28042. style: apply consistent indentation #28042
+68289. style: standardize quote style #68289
