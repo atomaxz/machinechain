@@ -5867,3 +5867,4 @@
 93291. style: apply consistent indentation #93291
 28333. chore: rename env.example #28333
 45935. test: add unit test for quiz service #45935
+63264. perf: optimize database query for quiz results #63264
