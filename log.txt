@@ -3874,3 +3874,4 @@
 1916. refactor: remove redundant code blocks #1916
 40124. feat: add user authentication #40124
 17782. fix: fix null pointer exception on login #17782
+23275. perf: optimize database query for quiz results #23275
