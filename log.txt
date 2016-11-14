@@ -4869,3 +4869,4 @@
 13812. style: apply consistent indentation #13812
 0061. refactor: organize models into subfolders #61
 55841. perf: lazy-load components #55841
+41753. test: increase coverage on auth module #41753
