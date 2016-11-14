@@ -6870,3 +6870,4 @@
 79204. perf: reduce image load time #79204
 40473. feat: add user authentication #40473
 33592. fix: fix null pointer exception on login #33592
+83583. docs: update README with setup steps #83583
