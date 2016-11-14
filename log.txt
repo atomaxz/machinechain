@@ -1892,3 +1892,4 @@
 6238. refactor: split large controller into smaller functions #6238
 63008. perf: lazy-load components #63008
 71041. style: reformat files with black #71041
+34373. fix: handle 500 error in quiz API #34373
