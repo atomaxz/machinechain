@@ -6871,3 +6871,4 @@
 40473. feat: add user authentication #40473
 33592. fix: fix null pointer exception on login #33592
 83583. docs: update README with setup steps #83583
+31478. test: increase coverage on auth module #31478
