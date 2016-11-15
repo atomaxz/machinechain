@@ -4873,3 +4873,4 @@
 66343. perf: reduce image load time #66343
 42255. chore: clean up unused files #42255
 78870. feat: support email verification #78870
+85112. feat: add export to CSV option #85112
