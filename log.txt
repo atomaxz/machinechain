@@ -1893,3 +1893,4 @@
 63008. perf: lazy-load components #63008
 71041. style: reformat files with black #71041
 34373. fix: handle 500 error in quiz API #34373
+81540. test: mock database connection in test suite #81540
