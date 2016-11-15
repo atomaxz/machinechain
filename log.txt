@@ -2866,3 +2866,4 @@
 28042. style: apply consistent indentation #28042
 68289. style: standardize quote style #68289
 77391. style: rename variables for clarity #77391
+87506. style: standardize quote style #87506
