@@ -881,3 +881,4 @@
 27496. fix: fix broken CSS in mobile view #27496
 9009. docs: add API usage examples #9009
 22963. refactor: remove redundant code blocks #22963
+15893. chore: bump dependencies #15893
