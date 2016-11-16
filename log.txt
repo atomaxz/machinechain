@@ -6878,3 +6878,4 @@
 89669. test: test user registration edge cases #89669
 61516. refactor: organize models into subfolders #61516
 93088. test: increase coverage on auth module #93088
+94761. style: standardize quote style #94761
