@@ -5873,3 +5873,4 @@
 89491. feat: implement quiz timer feature #89491
 48434. fix: prevent crash on empty input #48434
 13117. refactor: organize models into subfolders #13117
+92407. fix: handle 500 error in quiz API #92407
