@@ -1900,3 +1900,4 @@
 16371. fix: correct typo in registration form #16371
 87232. test: add integration test for /submit endpoint #87232
 13873. test: add integration test for /submit endpoint #13873
+39866. fix: correct typo in registration form #39866
