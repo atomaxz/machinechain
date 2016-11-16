@@ -6875,3 +6875,4 @@
 85322. style: standardize quote style #85322
 55338. refactor: organize models into subfolders #55338
 99660. docs: clarify environment setup #99660
+89669. test: test user registration edge cases #89669
