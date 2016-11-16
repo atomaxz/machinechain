@@ -886,3 +886,4 @@
 68543. style: rename variables for clarity #68543
 33810. fix: fix broken CSS in mobile view #33810
 14193. feat: support email verification #14193
+86675. docs: document token refresh logic #86675
