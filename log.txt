@@ -887,3 +887,4 @@
 33810. fix: fix broken CSS in mobile view #33810
 14193. feat: support email verification #14193
 86675. docs: document token refresh logic #86675
+80134. test: test user registration edge cases #80134
