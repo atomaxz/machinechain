@@ -5871,3 +5871,4 @@
 28839. refactor: refactor quiz grading logic #28839
 52738. perf: reduce image load time #52738
 89491. feat: implement quiz timer feature #89491
+48434. fix: prevent crash on empty input #48434
