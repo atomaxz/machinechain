@@ -888,3 +888,4 @@
 14193. feat: support email verification #14193
 86675. docs: document token refresh logic #86675
 80134. test: test user registration edge cases #80134
+46999. fix: fix null pointer exception on login #46999
