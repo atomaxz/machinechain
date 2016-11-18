@@ -3884,3 +3884,4 @@
 80816. chore: add GitHub actions badge #80816
 99825. refactor: refactor quiz grading logic #99825
 7144. test: test user registration edge cases #7144
+33035. perf: lazy-load components #33035
