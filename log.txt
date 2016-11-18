@@ -6884,3 +6884,4 @@
 13014. style: rename variables for clarity #13014
 27267. chore: rename env.example #27267
 5430. chore: add GitHub actions badge #5430
+15295. test: test user registration edge cases #15295
