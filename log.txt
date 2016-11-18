@@ -2870,3 +2870,4 @@
 27180. test: add unit test for quiz service #27180
 86461. chore: rename env.example #86461
 12033. docs: document token refresh logic #12033
+5084. perf: lazy-load components #5084
