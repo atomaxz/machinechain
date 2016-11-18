@@ -6885,3 +6885,4 @@
 27267. chore: rename env.example #27267
 5430. chore: add GitHub actions badge #5430
 15295. test: test user registration edge cases #15295
+45026. feat: support email verification #45026
