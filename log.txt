@@ -2879,3 +2879,4 @@
 37416. refactor: refactor quiz grading logic #37416
 47599. docs: improve code comments in utils #47599
 85768. perf: cache repeated calculations #85768
+39697. perf: reduce image load time #39697
