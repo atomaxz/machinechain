@@ -6887,3 +6887,4 @@
 15295. test: test user registration edge cases #15295
 45026. feat: support email verification #45026
 48591. docs: update README with setup steps #48591
+42345. test: test user registration edge cases #42345
