@@ -2874,3 +2874,4 @@
 48204. style: reformat files with black #48204
 0175. fix: resolve issue with date parsing #175
 46840. docs: add API usage examples #46840
+61074. fix: handle 500 error in quiz API #61074
