@@ -5884,3 +5884,4 @@
 8291. style: reformat files with black #8291
 85968. perf: lazy-load components #85968
 37445. fix: fix broken CSS in mobile view #37445
+64648. docs: write FAQ section #64648
