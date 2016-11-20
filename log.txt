@@ -5882,3 +5882,4 @@
 11993. fix: correct typo in registration form #11993
 51143. refactor: clean up auth middleware #51143
 8291. style: reformat files with black #8291
+85968. perf: lazy-load components #85968
