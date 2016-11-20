@@ -2882,3 +2882,4 @@
 39697. perf: reduce image load time #39697
 64019. perf: cache repeated calculations #64019
 81634. chore: clean up unused files #81634
+33021. test: increase coverage on auth module #33021
