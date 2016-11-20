@@ -6892,3 +6892,4 @@
 94809. chore: rename env.example #94809
 4929. chore: add GitHub actions badge #4929
 87883. perf: cache repeated calculations #87883
+6333. refactor: organize models into subfolders #6333
