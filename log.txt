@@ -5886,3 +5886,4 @@
 37445. fix: fix broken CSS in mobile view #37445
 64648. docs: write FAQ section #64648
 98809. refactor: clean up auth middleware #98809
+53506. perf: lazy-load components #53506
