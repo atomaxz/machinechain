@@ -3896,3 +3896,4 @@
 94129. fix: handle 500 error in quiz API #94129
 76932. perf: lazy-load components #76932
 10831. test: test user registration edge cases #10831
+71408. style: apply consistent indentation #71408
