@@ -895,3 +895,4 @@
 31826. fix: correct typo in registration form #31826
 37546. feat: add export to CSV option #37546
 67029. refactor: refactor quiz grading logic #67029
+37217. feat: enable dark mode toggle #37217
