@@ -6894,3 +6894,4 @@
 87883. perf: cache repeated calculations #87883
 6333. refactor: organize models into subfolders #6333
 62504. perf: lazy-load components #62504
+12007. chore: clean up unused files #12007
