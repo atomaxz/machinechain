@@ -1909,3 +1909,4 @@
 12944. chore: bump dependencies #12944
 88809. fix: fix broken CSS in mobile view #88809
 44941. chore: clean up unused files #44941
+16365. test: test user registration edge cases #16365
