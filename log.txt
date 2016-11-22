@@ -902,3 +902,4 @@
 54467. test: add unit test for quiz service #54467
 90453. style: remove trailing whitespace #90453
 63347. style: standardize quote style #63347
+15442. fix: fix broken CSS in mobile view #15442
