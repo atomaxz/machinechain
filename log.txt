@@ -2885,3 +2885,4 @@
 33021. test: increase coverage on auth module #33021
 38065. docs: write FAQ section #38065
 35137. feat: create admin dashboard #35137
+28174. feat: support email verification #28174
