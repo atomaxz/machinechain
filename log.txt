@@ -4887,3 +4887,4 @@
 13186. fix: resolve issue with date parsing #13186
 25144. style: rename variables for clarity #25144
 81012. chore: clean up unused files #81012
+51132. fix: fix null pointer exception on login #51132
