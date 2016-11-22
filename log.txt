@@ -5891,3 +5891,4 @@
 8573. chore: bump dependencies #8573
 54548. refactor: split large controller into smaller functions #54548
 93944. docs: clarify environment setup #93944
+52447. feat: create admin dashboard #52447
