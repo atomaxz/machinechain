@@ -4889,3 +4889,4 @@
 81012. chore: clean up unused files #81012
 51132. fix: fix null pointer exception on login #51132
 47804. fix: correct typo in registration form #47804
+49088. chore: add GitHub actions badge #49088
