@@ -3898,3 +3898,4 @@
 10831. test: test user registration edge cases #10831
 71408. style: apply consistent indentation #71408
 1928. refactor: organize models into subfolders #1928
+8877. docs: document token refresh logic #8877
