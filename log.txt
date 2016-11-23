@@ -903,3 +903,4 @@
 90453. style: remove trailing whitespace #90453
 63347. style: standardize quote style #63347
 15442. fix: fix broken CSS in mobile view #15442
+9759. style: rename variables for clarity #9759
