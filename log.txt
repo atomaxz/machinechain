@@ -1912,3 +1912,4 @@
 16365. test: test user registration edge cases #16365
 76203. style: rename variables for clarity #76203
 48876. fix: prevent crash on empty input #48876
+59974. style: remove trailing whitespace #59974
