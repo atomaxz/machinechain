@@ -2886,3 +2886,4 @@
 38065. docs: write FAQ section #38065
 35137. feat: create admin dashboard #35137
 28174. feat: support email verification #28174
+14488. fix: fix broken CSS in mobile view #14488
