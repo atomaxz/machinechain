@@ -4894,3 +4894,4 @@
 37010. feat: add user authentication #37010
 22211. chore: add GitHub actions badge #22211
 94018. perf: reduce image load time #94018
+46389. style: remove trailing whitespace #46389
