@@ -1915,3 +1915,4 @@
 59974. style: remove trailing whitespace #59974
 42115. chore: clean up unused files #42115
 87804. test: test user registration edge cases #87804
+97887. refactor: clean up auth middleware #97887
