@@ -906,3 +906,4 @@
 9759. style: rename variables for clarity #9759
 71574. docs: improve code comments in utils #71574
 5375. fix: fix null pointer exception on login #5375
+85132. chore: add GitHub actions badge #85132
