@@ -1917,3 +1917,4 @@
 87804. test: test user registration edge cases #87804
 97887. refactor: clean up auth middleware #97887
 9311. perf: lazy-load components #9311
+64585. refactor: organize models into subfolders #64585
