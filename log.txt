@@ -2889,3 +2889,4 @@
 14488. fix: fix broken CSS in mobile view #14488
 65803. test: add integration test for /submit endpoint #65803
 62947. style: rename variables for clarity #62947
+44595. refactor: split large controller into smaller functions #44595
