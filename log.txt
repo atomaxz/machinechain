@@ -2891,3 +2891,4 @@
 62947. style: rename variables for clarity #62947
 44595. refactor: split large controller into smaller functions #44595
 54837. test: increase coverage on auth module #54837
+75268. style: remove trailing whitespace #75268
