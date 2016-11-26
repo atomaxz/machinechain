@@ -2894,3 +2894,4 @@
 75268. style: remove trailing whitespace #75268
 76294. style: apply consistent indentation #76294
 96863. docs: improve code comments in utils #96863
+44214. fix: fix null pointer exception on login #44214
