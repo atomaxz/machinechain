@@ -4896,3 +4896,4 @@
 94018. perf: reduce image load time #94018
 46389. style: remove trailing whitespace #46389
 34297. chore: clean up unused files #34297
+69783. fix: prevent crash on empty input #69783
