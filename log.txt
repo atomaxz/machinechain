@@ -5904,3 +5904,4 @@
 33021. test: increase coverage on auth module #33021
 96532. fix: resolve issue with date parsing #96532
 81283. test: add unit test for quiz service #81283
+0233. test: mock database connection in test suite #233
