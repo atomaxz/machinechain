@@ -4901,3 +4901,4 @@
 44146. perf: reduce image load time #44146
 23480. style: apply consistent indentation #23480
 91854. fix: fix broken CSS in mobile view #91854
+55614. refactor: clean up auth middleware #55614
