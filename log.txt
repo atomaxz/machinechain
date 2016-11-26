@@ -3909,3 +3909,4 @@
 92547. refactor: refactor quiz grading logic #92547
 17172. chore: clean up unused files #17172
 45200. fix: handle 500 error in quiz API #45200
+90148. chore: bump dependencies #90148
