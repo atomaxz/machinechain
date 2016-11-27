@@ -4903,3 +4903,4 @@
 91854. fix: fix broken CSS in mobile view #91854
 55614. refactor: clean up auth middleware #55614
 42115. chore: clean up unused files #42115
+69239. feat: add user authentication #69239
