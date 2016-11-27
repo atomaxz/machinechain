@@ -1921,3 +1921,4 @@
 70528. style: standardize quote style #70528
 5050. chore: add GitHub actions badge #5050
 64806. fix: resolve issue with date parsing #64806
+99871. fix: prevent crash on empty input #99871
