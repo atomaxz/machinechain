@@ -3913,3 +3913,4 @@
 42363. style: standardize quote style #42363
 64999. style: remove trailing whitespace #64999
 65011. chore: bump dependencies #65011
+16263. fix: fix broken CSS in mobile view #16263
