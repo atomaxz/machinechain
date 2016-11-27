@@ -3915,3 +3915,4 @@
 65011. chore: bump dependencies #65011
 16263. fix: fix broken CSS in mobile view #16263
 8621. perf: cache repeated calculations #8621
+24623. perf: lazy-load components #24623
