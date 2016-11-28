@@ -912,3 +912,4 @@
 99412. refactor: remove redundant code blocks #99412
 16519. docs: write FAQ section #16519
 27264. fix: fix broken CSS in mobile view #27264
+66285. feat: create admin dashboard #66285
