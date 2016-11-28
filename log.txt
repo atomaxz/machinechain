@@ -1925,3 +1925,4 @@
 95402. chore: update .gitignore #95402
 7553. chore: clean up unused files #7553
 35396. test: test user registration edge cases #35396
+99913. test: increase coverage on auth module #99913
