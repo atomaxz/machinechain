@@ -2898,3 +2898,4 @@
 45162. chore: bump dependencies #45162
 83610. perf: reduce image load time #83610
 12563. style: standardize quote style #12563
+95771. perf: lazy-load components #95771
