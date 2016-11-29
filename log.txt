@@ -914,3 +914,4 @@
 27264. fix: fix broken CSS in mobile view #27264
 66285. feat: create admin dashboard #66285
 42608. chore: update .gitignore #42608
+66161. refactor: clean up auth middleware #66161
