@@ -2900,3 +2900,4 @@
 12563. style: standardize quote style #12563
 95771. perf: lazy-load components #95771
 42367. style: standardize quote style #42367
+27682. fix: correct typo in registration form #27682
