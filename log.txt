@@ -6912,3 +6912,4 @@
 25594. refactor: organize models into subfolders #25594
 74347. refactor: split large controller into smaller functions #74347
 23915. test: increase coverage on auth module #23915
+47845. refactor: refactor quiz grading logic #47845
