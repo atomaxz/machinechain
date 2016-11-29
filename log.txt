@@ -5910,3 +5910,4 @@
 61229. feat: enable dark mode toggle #61229
 20748. feat: implement quiz timer feature #20748
 12767. perf: reduce image load time #12767
+89061. perf: lazy-load components #89061
