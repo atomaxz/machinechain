@@ -6911,3 +6911,4 @@
 68327. chore: update .gitignore #68327
 25594. refactor: organize models into subfolders #25594
 74347. refactor: split large controller into smaller functions #74347
+23915. test: increase coverage on auth module #23915
