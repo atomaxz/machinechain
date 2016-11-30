@@ -2904,3 +2904,4 @@
 8698. style: apply consistent indentation #8698
 4872. docs: improve code comments in utils #4872
 2048. style: apply consistent indentation #2048
+71985. refactor: clean up auth middleware #71985
