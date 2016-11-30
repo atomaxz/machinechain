@@ -1927,3 +1927,4 @@
 35396. test: test user registration edge cases #35396
 99913. test: increase coverage on auth module #99913
 64957. perf: reduce image load time #64957
+47055. style: apply consistent indentation #47055
