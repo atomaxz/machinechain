@@ -1926,3 +1926,4 @@
 7553. chore: clean up unused files #7553
 35396. test: test user registration edge cases #35396
 99913. test: increase coverage on auth module #99913
+64957. perf: reduce image load time #64957
