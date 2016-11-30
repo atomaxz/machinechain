@@ -3920,3 +3920,4 @@
 81669. refactor: remove redundant code blocks #81669
 70387. chore: clean up unused files #70387
 71834. test: test user registration edge cases #71834
+99823. fix: prevent crash on empty input #99823
