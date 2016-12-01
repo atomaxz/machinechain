@@ -1929,3 +1929,4 @@
 64957. perf: reduce image load time #64957
 47055. style: apply consistent indentation #47055
 69564. test: add integration test for /submit endpoint #69564
+25722. refactor: refactor quiz grading logic #25722
