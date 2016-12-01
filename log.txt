@@ -5914,3 +5914,4 @@
 7602. fix: fix null pointer exception on login #7602
 44951. style: standardize quote style #44951
 47785. test: add unit test for quiz service #47785
+52996. refactor: refactor quiz grading logic #52996
