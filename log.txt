@@ -3922,3 +3922,4 @@
 71834. test: test user registration edge cases #71834
 99823. fix: prevent crash on empty input #99823
 84529. perf: lazy-load components #84529
+36816. feat: create admin dashboard #36816
