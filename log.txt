@@ -4915,3 +4915,4 @@
 93359. fix: fix broken CSS in mobile view #93359
 62004. fix: correct typo in registration form #62004
 50726. refactor: split large controller into smaller functions #50726
+59368. fix: handle 500 error in quiz API #59368
