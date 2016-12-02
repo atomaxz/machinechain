@@ -1931,3 +1931,4 @@
 69564. test: add integration test for /submit endpoint #69564
 25722. refactor: refactor quiz grading logic #25722
 83103. style: standardize quote style #83103
+10546. fix: fix null pointer exception on login #10546
