@@ -5915,3 +5915,4 @@
 44951. style: standardize quote style #44951
 47785. test: add unit test for quiz service #47785
 52996. refactor: refactor quiz grading logic #52996
+22490. refactor: clean up auth middleware #22490
