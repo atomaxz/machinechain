@@ -927,3 +927,4 @@
 21740. style: apply consistent indentation #21740
 78466. refactor: split large controller into smaller functions #78466
 46101. refactor: remove redundant code blocks #46101
+20309. test: test user registration edge cases #20309
