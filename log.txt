@@ -1937,3 +1937,4 @@
 43240. feat: enable dark mode toggle #43240
 35274. fix: prevent crash on empty input #35274
 68433. chore: clean up unused files #68433
+29568. perf: reduce image load time #29568
