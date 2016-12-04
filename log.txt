@@ -3934,3 +3934,4 @@
 5055. perf: lazy-load components #5055
 31743. style: apply consistent indentation #31743
 17255. style: rename variables for clarity #17255
+60789. style: remove trailing whitespace #60789
