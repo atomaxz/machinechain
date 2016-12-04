@@ -4924,3 +4924,4 @@
 8134. refactor: organize models into subfolders #8134
 72019. feat: enable dark mode toggle #72019
 34368. perf: cache repeated calculations #34368
+60660. test: mock database connection in test suite #60660
