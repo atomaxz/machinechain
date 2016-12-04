@@ -5923,3 +5923,4 @@
 18629. fix: prevent crash on empty input #18629
 71687. fix: resolve issue with date parsing #71687
 15395. feat: add user authentication #15395
+20335. fix: handle 500 error in quiz API #20335
