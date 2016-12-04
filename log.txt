@@ -5921,3 +5921,4 @@
 81049. chore: rename env.example #81049
 51195. style: rename variables for clarity #51195
 18629. fix: prevent crash on empty input #18629
+71687. fix: resolve issue with date parsing #71687
