@@ -1939,3 +1939,4 @@
 68433. chore: clean up unused files #68433
 29568. perf: reduce image load time #29568
 6148. chore: rename env.example #6148
+79683. style: apply consistent indentation #79683
