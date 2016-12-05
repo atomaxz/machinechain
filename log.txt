@@ -933,3 +933,4 @@
 8165. test: add integration test for /submit endpoint #8165
 35958. perf: reduce image load time #35958
 3858. docs: update README with setup steps #3858
+9299. test: test user registration edge cases #9299
