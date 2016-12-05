@@ -4927,3 +4927,4 @@
 60660. test: mock database connection in test suite #60660
 39153. style: standardize quote style #39153
 39641. fix: resolve issue with date parsing #39641
+32281. perf: lazy-load components #32281
