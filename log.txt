@@ -2915,3 +2915,4 @@
 33494. perf: cache repeated calculations #33494
 6585. refactor: clean up auth middleware #6585
 43464. test: increase coverage on auth module #43464
+35274. fix: prevent crash on empty input #35274
