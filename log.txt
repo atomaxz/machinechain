@@ -929,3 +929,4 @@
 46101. refactor: remove redundant code blocks #46101
 20309. test: test user registration edge cases #20309
 57293. refactor: organize models into subfolders #57293
+69447. feat: add user authentication #69447
