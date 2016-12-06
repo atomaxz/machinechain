@@ -1941,3 +1941,4 @@
 6148. chore: rename env.example #6148
 79683. style: apply consistent indentation #79683
 44908. style: reformat files with black #44908
+44540. test: increase coverage on auth module #44540
