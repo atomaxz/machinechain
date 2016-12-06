@@ -6926,3 +6926,4 @@
 9721. chore: update .gitignore #9721
 91465. refactor: organize models into subfolders #91465
 52223. style: apply consistent indentation #52223
+97889. feat: add user authentication #97889
