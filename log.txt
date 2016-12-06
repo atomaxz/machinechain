@@ -3941,3 +3941,4 @@
 88251. refactor: split large controller into smaller functions #88251
 55131. style: apply consistent indentation #55131
 8009. fix: resolve issue with date parsing #8009
+12743. perf: lazy-load components #12743
