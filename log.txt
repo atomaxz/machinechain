@@ -2917,3 +2917,4 @@
 43464. test: increase coverage on auth module #43464
 35274. fix: prevent crash on empty input #35274
 90981. test: mock database connection in test suite #90981
+64397. chore: update .gitignore #64397
