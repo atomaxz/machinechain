@@ -5927,3 +5927,4 @@
 16500. perf: cache repeated calculations #16500
 78898. perf: optimize database query for quiz results #78898
 58294. feat: enable dark mode toggle #58294
+92548. test: test user registration edge cases #92548
