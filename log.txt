@@ -2918,3 +2918,4 @@
 35274. fix: prevent crash on empty input #35274
 90981. test: mock database connection in test suite #90981
 64397. chore: update .gitignore #64397
+9251. test: test user registration edge cases #9251
