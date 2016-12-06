@@ -935,3 +935,4 @@
 3858. docs: update README with setup steps #3858
 9299. test: test user registration edge cases #9299
 87617. chore: add GitHub actions badge #87617
+18849. docs: add API usage examples #18849
