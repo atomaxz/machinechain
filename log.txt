@@ -5931,3 +5931,4 @@
 98647. fix: fix broken CSS in mobile view #98647
 34083. style: apply consistent indentation #34083
 79711. refactor: remove redundant code blocks #79711
+73878. perf: cache repeated calculations #73878
