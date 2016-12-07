@@ -5929,3 +5929,4 @@
 58294. feat: enable dark mode toggle #58294
 92548. test: test user registration edge cases #92548
 98647. fix: fix broken CSS in mobile view #98647
+34083. style: apply consistent indentation #34083
