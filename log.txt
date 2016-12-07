@@ -2920,3 +2920,4 @@
 64397. chore: update .gitignore #64397
 9251. test: test user registration edge cases #9251
 10853. fix: handle 500 error in quiz API #10853
+45276. perf: optimize database query for quiz results #45276
