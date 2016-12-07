@@ -1944,3 +1944,4 @@
 44540. test: increase coverage on auth module #44540
 65114. feat: enable dark mode toggle #65114
 15186. refactor: refactor quiz grading logic #15186
+39110. fix: handle 500 error in quiz API #39110
