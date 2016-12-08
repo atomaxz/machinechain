@@ -941,3 +941,4 @@
 52169. style: remove trailing whitespace #52169
 97364. chore: clean up unused files #97364
 94471. docs: write FAQ section #94471
+9410. test: increase coverage on auth module #9410
