@@ -942,3 +942,4 @@
 97364. chore: clean up unused files #97364
 94471. docs: write FAQ section #94471
 9410. test: increase coverage on auth module #9410
+77385. perf: reduce image load time #77385
