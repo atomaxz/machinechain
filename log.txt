@@ -1946,3 +1946,4 @@
 15186. refactor: refactor quiz grading logic #15186
 39110. fix: handle 500 error in quiz API #39110
 49899. feat: add export to CSV option #49899
+62091. perf: reduce image load time #62091
