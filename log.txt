@@ -4933,3 +4933,4 @@
 27947. test: test user registration edge cases #27947
 44662. style: apply consistent indentation #44662
 17812. test: add integration test for /submit endpoint #17812
+45237. test: mock database connection in test suite #45237
