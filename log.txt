@@ -3946,3 +3946,4 @@
 3971. feat: create admin dashboard #3971
 11437. refactor: refactor quiz grading logic #11437
 17133. perf: cache repeated calculations #17133
+57421. chore: add GitHub actions badge #57421
