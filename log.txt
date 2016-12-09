@@ -2923,3 +2923,4 @@
 45276. perf: optimize database query for quiz results #45276
 77711. test: mock database connection in test suite #77711
 89459. style: rename variables for clarity #89459
+46817. refactor: refactor quiz grading logic #46817
