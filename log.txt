@@ -2927,3 +2927,4 @@
 58922. chore: clean up unused files #58922
 47553. test: mock database connection in test suite #47553
 42338. docs: write FAQ section #42338
+60252. feat: support email verification #60252
