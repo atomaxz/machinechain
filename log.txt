@@ -3947,3 +3947,4 @@
 11437. refactor: refactor quiz grading logic #11437
 17133. perf: cache repeated calculations #17133
 57421. chore: add GitHub actions badge #57421
+58306. test: mock database connection in test suite #58306
