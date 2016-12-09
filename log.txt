@@ -944,3 +944,4 @@
 9410. test: increase coverage on auth module #9410
 77385. perf: reduce image load time #77385
 5958. refactor: organize models into subfolders #5958
+62812. style: apply consistent indentation #62812
