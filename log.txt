@@ -2928,3 +2928,4 @@
 47553. test: mock database connection in test suite #47553
 42338. docs: write FAQ section #42338
 60252. feat: support email verification #60252
+39883. refactor: remove redundant code blocks #39883
