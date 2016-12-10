@@ -5936,3 +5936,4 @@
 93904. chore: add GitHub actions badge #93904
 90660. perf: lazy-load components #90660
 74232. fix: fix null pointer exception on login #74232
+43840. test: add integration test for /submit endpoint #43840
