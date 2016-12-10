@@ -2929,3 +2929,4 @@
 42338. docs: write FAQ section #42338
 60252. feat: support email verification #60252
 39883. refactor: remove redundant code blocks #39883
+61280. fix: fix null pointer exception on login #61280
