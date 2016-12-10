@@ -4938,3 +4938,4 @@
 47043. fix: fix null pointer exception on login #47043
 98799. fix: resolve issue with date parsing #98799
 35109. perf: lazy-load components #35109
+22265. refactor: clean up auth middleware #22265
