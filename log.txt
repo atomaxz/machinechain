@@ -4937,3 +4937,4 @@
 35475. perf: optimize database query for quiz results #35475
 47043. fix: fix null pointer exception on login #47043
 98799. fix: resolve issue with date parsing #98799
+35109. perf: lazy-load components #35109
