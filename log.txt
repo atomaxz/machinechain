@@ -1955,3 +1955,4 @@
 64822. docs: update README with setup steps #64822
 19577. style: standardize quote style #19577
 37557. feat: enable dark mode toggle #37557
+60638. chore: rename env.example #60638
