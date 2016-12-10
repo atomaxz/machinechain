@@ -1953,3 +1953,4 @@
 36029. perf: reduce image load time #36029
 33066. test: add unit test for quiz service #33066
 64822. docs: update README with setup steps #64822
+19577. style: standardize quote style #19577
