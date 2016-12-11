@@ -6942,3 +6942,4 @@
 42260. chore: add GitHub actions badge #42260
 75964. test: add integration test for /submit endpoint #75964
 14480. fix: fix null pointer exception on login #14480
+33311. perf: optimize database query for quiz results #33311
