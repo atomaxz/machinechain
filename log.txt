@@ -5940,3 +5940,4 @@
 93175. perf: lazy-load components #93175
 31277. refactor: remove redundant code blocks #31277
 85433. perf: optimize database query for quiz results #85433
+21547. chore: add GitHub actions badge #21547
