@@ -2933,3 +2933,4 @@
 14428. style: apply consistent indentation #14428
 24596. feat: implement quiz timer feature #24596
 80860. docs: document token refresh logic #80860
+38479. fix: fix null pointer exception on login #38479
