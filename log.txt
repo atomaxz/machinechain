@@ -3950,3 +3950,4 @@
 58306. test: mock database connection in test suite #58306
 25040. docs: write FAQ section #25040
 10989. fix: fix broken CSS in mobile view #10989
+12481. perf: lazy-load components #12481
