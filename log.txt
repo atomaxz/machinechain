@@ -949,3 +949,4 @@
 32342. test: add unit test for quiz service #32342
 15620. docs: update README with setup steps #15620
 96726. docs: clarify environment setup #96726
+46991. perf: lazy-load components #46991
