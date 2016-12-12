@@ -951,3 +951,4 @@
 96726. docs: clarify environment setup #96726
 46991. perf: lazy-load components #46991
 0511. fix: prevent crash on empty input #511
+37951. refactor: clean up auth middleware #37951
