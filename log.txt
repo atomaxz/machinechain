@@ -6946,3 +6946,4 @@
 24830. fix: fix null pointer exception on login #24830
 5924. feat: support email verification #5924
 69516. perf: reduce image load time #69516
+31470. fix: correct typo in registration form #31470
