@@ -6945,3 +6945,4 @@
 33311. perf: optimize database query for quiz results #33311
 24830. fix: fix null pointer exception on login #24830
 5924. feat: support email verification #5924
+69516. perf: reduce image load time #69516
