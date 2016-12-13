@@ -5942,3 +5942,4 @@
 85433. perf: optimize database query for quiz results #85433
 21547. chore: add GitHub actions badge #21547
 16346. fix: fix null pointer exception on login #16346
+37241. perf: cache repeated calculations #37241
