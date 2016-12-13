@@ -1959,3 +1959,4 @@
 71223. perf: cache repeated calculations #71223
 2389. feat: create admin dashboard #2389
 77535. fix: correct typo in registration form #77535
+16320. test: add unit test for quiz service #16320
