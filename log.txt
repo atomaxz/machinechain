@@ -1960,3 +1960,4 @@
 2389. feat: create admin dashboard #2389
 77535. fix: correct typo in registration form #77535
 16320. test: add unit test for quiz service #16320
+36693. refactor: organize models into subfolders #36693
