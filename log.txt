@@ -3951,3 +3951,4 @@
 25040. docs: write FAQ section #25040
 10989. fix: fix broken CSS in mobile view #10989
 12481. perf: lazy-load components #12481
+26861. chore: rename env.example #26861
