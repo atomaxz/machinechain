@@ -2939,3 +2939,4 @@
 33427. test: add unit test for quiz service #33427
 84153. docs: clarify environment setup #84153
 85748. test: mock database connection in test suite #85748
+46497. chore: clean up unused files #46497
