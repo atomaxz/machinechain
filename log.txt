@@ -6949,3 +6949,4 @@
 31470. fix: correct typo in registration form #31470
 33585. feat: implement quiz timer feature #33585
 40982. perf: cache repeated calculations #40982
+31154. test: increase coverage on auth module #31154
