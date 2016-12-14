@@ -6952,3 +6952,4 @@
 31154. test: increase coverage on auth module #31154
 16616. feat: create admin dashboard #16616
 31644. feat: add export to CSV option #31644
+2236. chore: add GitHub actions badge #2236
