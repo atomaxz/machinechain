@@ -6956,3 +6956,4 @@
 19375. style: remove trailing whitespace #19375
 54254. perf: reduce image load time #54254
 99039. docs: add API usage examples #99039
+66961. style: standardize quote style #66961
