@@ -2942,3 +2942,4 @@
 46497. chore: clean up unused files #46497
 95172. docs: write FAQ section #95172
 24856. feat: support email verification #24856
+70479. perf: cache repeated calculations #70479
