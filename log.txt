@@ -4945,3 +4945,4 @@
 77369. feat: add export to CSV option #77369
 96009. fix: fix broken CSS in mobile view #96009
 53300. fix: fix broken CSS in mobile view #53300
+28486. perf: reduce image load time #28486
