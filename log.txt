@@ -3958,3 +3958,4 @@
 53750. chore: clean up unused files #53750
 96079. feat: implement quiz timer feature #96079
 2766. style: remove trailing whitespace #2766
+94358. chore: add GitHub actions badge #94358
