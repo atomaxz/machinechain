@@ -5947,3 +5947,4 @@
 79323. feat: create admin dashboard #79323
 71907. feat: enable dark mode toggle #71907
 20458. perf: cache repeated calculations #20458
+80457. feat: enable dark mode toggle #80457
