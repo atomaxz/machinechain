@@ -6959,3 +6959,4 @@
 66961. style: standardize quote style #66961
 88249. test: add integration test for /submit endpoint #88249
 33339. docs: update README with setup steps #33339
+95766. test: test user registration edge cases #95766
