@@ -4946,3 +4946,4 @@
 96009. fix: fix broken CSS in mobile view #96009
 53300. fix: fix broken CSS in mobile view #53300
 28486. perf: reduce image load time #28486
+62967. test: add integration test for /submit endpoint #62967
