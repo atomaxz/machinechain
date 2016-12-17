@@ -3962,3 +3962,4 @@
 42914. perf: reduce image load time #42914
 75405. test: add unit test for quiz service #75405
 55675. style: reformat files with black #55675
+72159. fix: handle 500 error in quiz API #72159
