@@ -2950,3 +2950,4 @@
 21331. fix: handle 500 error in quiz API #21331
 89129. chore: rename env.example #89129
 25565. chore: rename env.example #25565
+60022. docs: update README with setup steps #60022
