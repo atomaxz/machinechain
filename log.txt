@@ -5953,3 +5953,4 @@
 1638. perf: optimize database query for quiz results #1638
 39833. feat: create admin dashboard #39833
 36874. chore: bump dependencies #36874
+9806. fix: resolve issue with date parsing #9806
