@@ -4953,3 +4953,4 @@
 19589. test: add unit test for quiz service #19589
 9672. feat: add user authentication #9672
 7274. test: test user registration edge cases #7274
+18381. refactor: organize models into subfolders #18381
