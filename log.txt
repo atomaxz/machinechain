@@ -6964,3 +6964,4 @@
 8410. refactor: remove redundant code blocks #8410
 2249. chore: bump dependencies #2249
 33444. docs: document token refresh logic #33444
+1193. refactor: clean up auth middleware #1193
