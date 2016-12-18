@@ -4952,3 +4952,4 @@
 85632. style: rename variables for clarity #85632
 19589. test: add unit test for quiz service #19589
 9672. feat: add user authentication #9672
+7274. test: test user registration edge cases #7274
