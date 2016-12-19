@@ -2956,3 +2956,4 @@
 11824. docs: update README with setup steps #11824
 6957. feat: enable dark mode toggle #6957
 61018. style: rename variables for clarity #61018
+52304. perf: lazy-load components #52304
