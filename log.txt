@@ -2954,3 +2954,4 @@
 20161. test: add integration test for /submit endpoint #20161
 3477. chore: rename env.example #3477
 11824. docs: update README with setup steps #11824
+6957. feat: enable dark mode toggle #6957
