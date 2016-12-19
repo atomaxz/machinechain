@@ -3964,3 +3964,4 @@
 55675. style: reformat files with black #55675
 72159. fix: handle 500 error in quiz API #72159
 55965. chore: rename env.example #55965
+41708. fix: resolve issue with date parsing #41708
