@@ -6965,3 +6965,4 @@
 2249. chore: bump dependencies #2249
 33444. docs: document token refresh logic #33444
 1193. refactor: clean up auth middleware #1193
+86726. feat: enable dark mode toggle #86726
