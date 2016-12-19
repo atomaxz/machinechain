@@ -5961,3 +5961,4 @@
 8408. fix: correct typo in registration form #8408
 41099. refactor: clean up auth middleware #41099
 54917. docs: improve code comments in utils #54917
+59005. refactor: organize models into subfolders #59005
