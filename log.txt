@@ -1972,3 +1972,4 @@
 12399. refactor: remove redundant code blocks #12399
 88122. refactor: refactor quiz grading logic #88122
 52874. docs: update README with setup steps #52874
+63888. feat: add user authentication #63888
