@@ -6967,3 +6967,4 @@
 1193. refactor: clean up auth middleware #1193
 86726. feat: enable dark mode toggle #86726
 19773. refactor: split large controller into smaller functions #19773
+87828. feat: add user authentication #87828
