@@ -2959,3 +2959,4 @@
 52304. perf: lazy-load components #52304
 64152. test: test user registration edge cases #64152
 36725. docs: document token refresh logic #36725
+79957. chore: update .gitignore #79957
