@@ -5967,3 +5967,4 @@
 27583. chore: bump dependencies #27583
 81958. perf: optimize database query for quiz results #81958
 66149. perf: lazy-load components #66149
+38767. fix: fix broken CSS in mobile view #38767
