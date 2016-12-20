@@ -1975,3 +1975,4 @@
 63888. feat: add user authentication #63888
 72780. perf: cache repeated calculations #72780
 89877. test: add unit test for quiz service #89877
+90658. feat: add user authentication #90658
