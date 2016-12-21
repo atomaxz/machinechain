@@ -970,3 +970,4 @@
 72067. style: remove trailing whitespace #72067
 2165. refactor: refactor quiz grading logic #2165
 95396. style: remove trailing whitespace #95396
+94942. docs: write FAQ section #94942
