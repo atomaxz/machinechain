@@ -6972,3 +6972,4 @@
 31633. perf: reduce image load time #31633
 80525. test: add integration test for /submit endpoint #80525
 85361. chore: bump dependencies #85361
+78755. test: test user registration edge cases #78755
