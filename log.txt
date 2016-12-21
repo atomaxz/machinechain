@@ -1977,3 +1977,4 @@
 89877. test: add unit test for quiz service #89877
 90658. feat: add user authentication #90658
 65307. perf: optimize database query for quiz results #65307
+31288. test: add unit test for quiz service #31288
