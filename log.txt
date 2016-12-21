@@ -5968,3 +5968,4 @@
 81958. perf: optimize database query for quiz results #81958
 66149. perf: lazy-load components #66149
 38767. fix: fix broken CSS in mobile view #38767
+91689. fix: resolve issue with date parsing #91689
