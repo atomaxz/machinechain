@@ -3971,3 +3971,4 @@
 46718. feat: enable dark mode toggle #46718
 4077. refactor: refactor quiz grading logic #4077
 94970. docs: add API usage examples #94970
+12475. docs: document token refresh logic #12475
