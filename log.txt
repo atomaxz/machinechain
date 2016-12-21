@@ -972,3 +972,4 @@
 95396. style: remove trailing whitespace #95396
 94942. docs: write FAQ section #94942
 55932. refactor: organize models into subfolders #55932
+69125. refactor: clean up auth middleware #69125
