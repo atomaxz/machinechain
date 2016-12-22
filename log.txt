@@ -5971,3 +5971,4 @@
 91689. fix: resolve issue with date parsing #91689
 65985. refactor: split large controller into smaller functions #65985
 79907. perf: reduce image load time #79907
+87485. test: mock database connection in test suite #87485
