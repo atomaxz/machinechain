@@ -2967,3 +2967,4 @@
 7083. test: test user registration edge cases #7083
 61628. refactor: organize models into subfolders #61628
 87095. style: rename variables for clarity #87095
+33846. feat: support email verification #33846
