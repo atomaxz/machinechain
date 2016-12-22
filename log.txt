@@ -977,3 +977,4 @@
 95012. refactor: split large controller into smaller functions #95012
 71554. docs: add API usage examples #71554
 72467. fix: correct typo in registration form #72467
+94610. feat: add user authentication #94610
