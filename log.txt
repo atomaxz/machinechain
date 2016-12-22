@@ -5970,3 +5970,4 @@
 38767. fix: fix broken CSS in mobile view #38767
 91689. fix: resolve issue with date parsing #91689
 65985. refactor: split large controller into smaller functions #65985
+79907. perf: reduce image load time #79907
