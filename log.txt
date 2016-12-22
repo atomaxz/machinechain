@@ -6975,3 +6975,4 @@
 78755. test: test user registration edge cases #78755
 12930. docs: clarify environment setup #12930
 5787. perf: lazy-load components #5787
+41203. test: test user registration edge cases #41203
