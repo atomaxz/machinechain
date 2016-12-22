@@ -2964,3 +2964,4 @@
 46469. test: add unit test for quiz service #46469
 78414. perf: optimize database query for quiz results #78414
 14664. fix: handle 500 error in quiz API #14664
+7083. test: test user registration edge cases #7083
