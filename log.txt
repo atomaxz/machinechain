@@ -3972,3 +3972,4 @@
 4077. refactor: refactor quiz grading logic #4077
 94970. docs: add API usage examples #94970
 12475. docs: document token refresh logic #12475
+83317. perf: optimize database query for quiz results #83317
