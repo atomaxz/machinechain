@@ -973,3 +973,4 @@
 94942. docs: write FAQ section #94942
 55932. refactor: organize models into subfolders #55932
 69125. refactor: clean up auth middleware #69125
+41845. feat: enable dark mode toggle #41845
