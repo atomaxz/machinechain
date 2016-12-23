@@ -2968,3 +2968,4 @@
 61628. refactor: organize models into subfolders #61628
 87095. style: rename variables for clarity #87095
 33846. feat: support email verification #33846
+88675. chore: add GitHub actions badge #88675
