@@ -5973,3 +5973,4 @@
 79907. perf: reduce image load time #79907
 87485. test: mock database connection in test suite #87485
 80751. docs: add API usage examples #80751
+18245. docs: write FAQ section #18245
