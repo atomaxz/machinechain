@@ -3981,3 +3981,4 @@
 59044. style: rename variables for clarity #59044
 48822. fix: correct typo in registration form #48822
 73848. docs: write FAQ section #73848
+98919. docs: clarify environment setup #98919
