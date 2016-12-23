@@ -3980,3 +3980,4 @@
 96567. feat: enable dark mode toggle #96567
 59044. style: rename variables for clarity #59044
 48822. fix: correct typo in registration form #48822
+73848. docs: write FAQ section #73848
