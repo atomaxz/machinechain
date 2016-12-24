@@ -1984,3 +1984,4 @@
 8122. refactor: clean up auth middleware #8122
 69641. refactor: remove redundant code blocks #69641
 74190. test: test user registration edge cases #74190
+53593. test: add unit test for quiz service #53593
