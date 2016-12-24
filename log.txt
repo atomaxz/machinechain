@@ -1983,3 +1983,4 @@
 92112. docs: clarify environment setup #92112
 8122. refactor: clean up auth middleware #8122
 69641. refactor: remove redundant code blocks #69641
+74190. test: test user registration edge cases #74190
