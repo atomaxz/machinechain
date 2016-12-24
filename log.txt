@@ -6977,3 +6977,4 @@
 5787. perf: lazy-load components #5787
 41203. test: test user registration edge cases #41203
 83894. docs: add API usage examples #83894
+10699. feat: create admin dashboard #10699
