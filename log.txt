@@ -5977,3 +5977,4 @@
 12668. fix: fix null pointer exception on login #12668
 81577. refactor: organize models into subfolders #81577
 39932. chore: clean up unused files #39932
+67415. perf: optimize database query for quiz results #67415
