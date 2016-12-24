@@ -5975,3 +5975,4 @@
 80751. docs: add API usage examples #80751
 18245. docs: write FAQ section #18245
 12668. fix: fix null pointer exception on login #12668
+81577. refactor: organize models into subfolders #81577
