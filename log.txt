@@ -5982,3 +5982,4 @@
 95099. test: test user registration edge cases #95099
 43084. chore: clean up unused files #43084
 64789. perf: cache repeated calculations #64789
+66575. fix: fix broken CSS in mobile view #66575
