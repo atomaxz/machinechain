@@ -2979,3 +2979,4 @@
 50911. chore: clean up unused files #50911
 66438. chore: bump dependencies #66438
 58924. feat: create admin dashboard #58924
+84221. docs: update README with setup steps #84221
