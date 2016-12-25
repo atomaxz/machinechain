@@ -2977,3 +2977,4 @@
 45707. refactor: split large controller into smaller functions #45707
 36974. test: increase coverage on auth module #36974
 50911. chore: clean up unused files #50911
+66438. chore: bump dependencies #66438
