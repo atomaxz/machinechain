@@ -6980,3 +6980,4 @@
 10699. feat: create admin dashboard #10699
 4407. refactor: refactor quiz grading logic #4407
 13508. docs: document token refresh logic #13508
+7842. docs: update README with setup steps #7842
