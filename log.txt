@@ -5980,3 +5980,4 @@
 67415. perf: optimize database query for quiz results #67415
 53939. feat: create admin dashboard #53939
 95099. test: test user registration edge cases #95099
+43084. chore: clean up unused files #43084
