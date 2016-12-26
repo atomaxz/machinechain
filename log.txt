@@ -1988,3 +1988,4 @@
 49516. style: remove trailing whitespace #49516
 12189. fix: fix broken CSS in mobile view #12189
 13095. fix: resolve issue with date parsing #13095
+85680. test: test user registration edge cases #85680
