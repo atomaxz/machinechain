@@ -5984,3 +5984,4 @@
 64789. perf: cache repeated calculations #64789
 66575. fix: fix broken CSS in mobile view #66575
 25552. feat: support email verification #25552
+18366. refactor: clean up auth middleware #18366
