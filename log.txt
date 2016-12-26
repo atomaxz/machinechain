@@ -6982,3 +6982,4 @@
 13508. docs: document token refresh logic #13508
 7842. docs: update README with setup steps #7842
 48602. test: mock database connection in test suite #48602
+72263. refactor: split large controller into smaller functions #72263
