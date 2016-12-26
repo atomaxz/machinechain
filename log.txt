@@ -3986,3 +3986,4 @@
 22073. refactor: remove redundant code blocks #22073
 85196. fix: resolve issue with date parsing #85196
 84738. docs: document token refresh logic #84738
+1146. perf: cache repeated calculations #1146
