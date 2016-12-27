@@ -5988,3 +5988,4 @@
 90423. chore: rename env.example #90423
 57966. feat: add export to CSV option #57966
 8239. fix: fix broken CSS in mobile view #8239
+34346. test: mock database connection in test suite #34346
