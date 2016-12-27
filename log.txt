@@ -989,3 +989,4 @@
 69218. docs: write FAQ section #69218
 17127. perf: reduce image load time #17127
 54864. docs: update README with setup steps #54864
+26609. style: standardize quote style #26609
