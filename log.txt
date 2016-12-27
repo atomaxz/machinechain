@@ -988,3 +988,4 @@
 29097. test: add integration test for /submit endpoint #29097
 69218. docs: write FAQ section #69218
 17127. perf: reduce image load time #17127
+54864. docs: update README with setup steps #54864
