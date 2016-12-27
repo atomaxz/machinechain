@@ -5986,3 +5986,4 @@
 25552. feat: support email verification #25552
 18366. refactor: clean up auth middleware #18366
 90423. chore: rename env.example #90423
+57966. feat: add export to CSV option #57966
