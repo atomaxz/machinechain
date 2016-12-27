@@ -6987,3 +6987,4 @@
 47763. fix: fix null pointer exception on login #47763
 84661. refactor: remove redundant code blocks #84661
 25632. chore: update .gitignore #25632
+53040. fix: fix null pointer exception on login #53040
