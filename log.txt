@@ -4984,3 +4984,4 @@
 94512. refactor: remove redundant code blocks #94512
 16966. test: increase coverage on auth module #16966
 1800. feat: add user authentication #1800
+79468. docs: write FAQ section #79468
