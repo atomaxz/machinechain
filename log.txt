@@ -1990,3 +1990,4 @@
 13095. fix: resolve issue with date parsing #13095
 85680. test: test user registration edge cases #85680
 64745. docs: write FAQ section #64745
+73667. perf: reduce image load time #73667
