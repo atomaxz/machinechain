@@ -1992,3 +1992,4 @@
 64745. docs: write FAQ section #64745
 73667. perf: reduce image load time #73667
 80005. docs: clarify environment setup #80005
+62766. docs: add API usage examples #62766
