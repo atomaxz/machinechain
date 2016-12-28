@@ -1993,3 +1993,4 @@
 73667. perf: reduce image load time #73667
 80005. docs: clarify environment setup #80005
 62766. docs: add API usage examples #62766
+94720. perf: cache repeated calculations #94720
