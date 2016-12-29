@@ -4986,3 +4986,4 @@
 1800. feat: add user authentication #1800
 79468. docs: write FAQ section #79468
 78223. feat: enable dark mode toggle #78223
+52340. docs: document token refresh logic #52340
