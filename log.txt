@@ -3996,3 +3996,4 @@
 97827. style: standardize quote style #97827
 18274. refactor: organize models into subfolders #18274
 80468. docs: write FAQ section #80468
+40784. fix: fix broken CSS in mobile view #40784
