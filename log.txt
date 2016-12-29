@@ -6991,3 +6991,4 @@
 67445. docs: improve code comments in utils #67445
 16911. refactor: split large controller into smaller functions #16911
 37742. chore: update .gitignore #37742
+20092. perf: lazy-load components #20092
