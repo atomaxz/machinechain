@@ -2991,3 +2991,4 @@
 67857. docs: write FAQ section #67857
 99384. feat: create admin dashboard #99384
 58144. refactor: remove redundant code blocks #58144
+8423. test: increase coverage on auth module #8423
