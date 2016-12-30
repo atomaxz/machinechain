@@ -1995,3 +1995,4 @@
 62766. docs: add API usage examples #62766
 94720. perf: cache repeated calculations #94720
 32293. fix: fix null pointer exception on login #32293
+86076. style: remove trailing whitespace #86076
