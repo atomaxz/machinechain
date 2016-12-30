@@ -1996,3 +1996,4 @@
 94720. perf: cache repeated calculations #94720
 32293. fix: fix null pointer exception on login #32293
 86076. style: remove trailing whitespace #86076
+5547. feat: support email verification #5547
