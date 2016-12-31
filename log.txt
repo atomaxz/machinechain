@@ -1997,3 +1997,4 @@
 32293. fix: fix null pointer exception on login #32293
 86076. style: remove trailing whitespace #86076
 5547. feat: support email verification #5547
+87342. chore: bump dependencies #87342
