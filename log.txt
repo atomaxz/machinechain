@@ -5997,3 +5997,4 @@
 99683. feat: implement quiz timer feature #99683
 68312. refactor: clean up auth middleware #68312
 80498. fix: handle 500 error in quiz API #80498
+54851. perf: optimize database query for quiz results #54851
