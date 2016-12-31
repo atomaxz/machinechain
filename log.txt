@@ -2997,3 +2997,4 @@
 77827. fix: fix null pointer exception on login #77827
 19629. style: remove trailing whitespace #19629
 66170. test: add unit test for quiz service #66170
+88779. style: reformat files with black #88779
