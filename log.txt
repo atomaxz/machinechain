@@ -996,3 +996,4 @@
 12935. refactor: refactor quiz grading logic #12935
 3639. docs: improve code comments in utils #3639
 39741. docs: update README with setup steps #39741
+28166. fix: correct typo in registration form #28166
